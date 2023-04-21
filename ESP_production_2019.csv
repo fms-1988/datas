@@ -1,0 +1,66 @@
+sector	Production	Intermediate consumption	Gross value added	Compensation of employees                    	Wages and salaries	Employers' social contributions	"Other taxes less subsidies on production	"	Gross operating surplus / Gross mixed income
+    01 Crop and animal production, hunting and related service activities	53.857	25.119	28.738	4.561	4.023	538	-5.516	29.693
+    02 Forestry and logging	1.741	1.007	734	266	235	31	4	464
+    03 Fishing and aquaculture	2.639	1.360	1.279	690	607	83	-19	608
+    05-09 Mining and quarrying	5.855	2.807	3.048	838	636	202	-2	2.212
+    35 Electricity, gas, steam and air conditioning supply	64.970	37.625	27.345	2.874	2.266	608	704	23.767
+    36 Water collection, treatment and supply	10.546	5.816	4.730	2.237	1.706	531	56	2.437
+    37-39 Sewerage; waste collection, treatment and disposal activities; materials recovery; remediation activities and other waste management services	21.078	13.334	7.744	5.279	3.938	1.341	53	2.412
+    10-12 Manufacture of food products, beverages and tobacco products	125.432	99.454	25.978	13.234	10.006	3.228	44	12.700
+    13-15 Manufacture of textiles, wearing apparel and leather products	19.434	10.681	8.753	3.117	2.405	712	8	5.628
+    16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials	7.594	5.531	2.063	1.373	1.017	356	11	679
+    17 Manufacture of paper and paper products	13.985	10.007	3.978	1.948	1.512	436	29	2.001
+    18 Printing and reproduction of recorded media	5.906	3.649	2.257	1.655	1.263	392	14	588
+    19 Manufacture of coke and refined petroleum products	37.683	35.045	2.638	738	559	179	87	1.813
+    20 Manufacture of chemicals and chemical products	40.807	31.234	9.573	4.458	3.415	1.043	53	5.062
+    21 Manufacture of basic pharmaceutical products and pharmaceutical preparations	16.591	9.563	7.028	2.473	1.919	554	-8	4.563
+    22 Manufacture of rubber and plastic products	21.153	14.550	6.603	3.706	2.820	886	5	2.892
+    23 Manufacture of other non-metallic mineral products	20.801	14.270	6.531	3.383	2.533	850	94	3.054
+    24 Manufacture of basic metals	30.182	24.490	5.692	2.897	2.187	710	10	2.785
+    25 Manufacture of fabricated metal products, except machinery and equipment	38.293	26.080	12.213	8.288	6.271	2.017	-4	3.929
+    26 Manufacture of computer, electronic and optical products	5.336	3.414	1.922	1.097	832	265	-9	834
+    27 Manufacture of electrical equipment	17.923	13.353	4.570	3.023	2.311	712	-15	1.562
+    28 Manufacture of machinery and equipment n.e.c.	22.353	14.823	7.530	4.822	3.643	1.179	-21	2.729
+    29 Manufacture of motor vehicles, trailers and semi-trailers	68.756	56.447	12.309	7.017	5.294	1.723	-8	5.300
+    30 Manufacture of other transport equipment	17.668	12.582	5.086	2.759	2.161	598	-43	2.370
+    31-32 Manufacture of furniture; other manufacturing	11.618	6.823	4.795	2.673	2.040	633	0	2.122
+    33 Repair and installation of machinery and equipment	13.807	7.393	6.414	3.999	3.172	827	-36	2.451
+    41-43 Construction	167.266	96.445	70.821	35.998	27.603	8.395	2.269	32.554
+    45 Wholesale and retail trade and repair of motor vehicles and motorcycles	33.520	15.625	17.895	8.637	6.569	2.068	43	9.215
+    46 Wholesale trade, except of motor vehicles and motorcycles	129.299	61.173	68.126	37.797	29.159	8.638	205	30.124
+    47 Retail trade, except of motor vehicles and motorcycles	87.305	29.652	57.653	32.670	24.898	7.772	361	24.622
+    49 Land transport and transport via pipelines	55.721	31.323	24.398	13.894	10.524	3.370	63	10.441
+    50 Water transport	2.575	1.877	698	372	285	87	-56	382
+    51 Air transport	13.377	9.817	3.560	2.009	1.523	486	-9	1.560
+    52 Warehousing and support activities for transportation	50.287	29.885	20.402	9.109	6.934	2.175	430	10.863
+    53 Postal and courier activities	5.615	2.999	2.616	2.470	1.803	667	-60	206
+    55-56 Accommodation; food and beverage service activities	131.209	58.235	72.974	32.007	26.061	5.946	427	40.540
+    58 Publishing activities	5.922	3.318	2.604	1.845	1.435	410	-8	767
+    59-60 Motion picture, video and television programme production, sound recording and music publishing activities; programming and broadcasting activities	13.468	8.051	5.417	3.166	2.454	712	-64	2.315
+    61 Telecommunications	31.223	17.473	13.750	5.328	4.010	1.318	537	7.885
+    62-63 Computer programming, consultancy and related activities; information service activities	41.724	21.295	20.429	14.171	11.060	3.111	-142	6.400
+    64 Financial service activities, except insurance and pension funding	47.064	14.881	32.183	15.635	10.995	4.640	2.416	14.132
+    65 Insurance, reinsurance and pension funding, except compulsory social security	18.197	11.217	6.980	2.776	2.165	611	104	4.100
+    66 Activities auxiliary to financial services and insurance activities	11.442	6.602	4.840	1.933	1.607	326	59	2.848
+    68 Real estate activities	152.654	22.151	130.503	5.662	4.435	1.227	9.368	115.473
+    68a of which: imputed rents of owner-occupied dwellings	93.907	7.752	86.155	0	0	0	7.305	78.850
+    69-70 Legal and accounting activities; activities of head offices; management consultancy activities	47.542	20.909	26.633	16.154	12.857	3.297	-58	10.537
+    71 Architectural and engineering activities; technical testing and analysis	27.251	15.900	11.351	9.543	7.463	2.080	-32	1.840
+    72 Scientific research and development 	8.234	2.451	5.783	2.627	2.130	497	-77	3.233
+    73 Advertising and market research	13.990	7.797	6.193	3.468	2.726	742	2	2.723
+    74-75 Other professional, scientific and technical activities; veterinary activities	9.559	3.813	5.746	2.642	2.037	605	26	3.078
+    77 Rental and leasing activities	16.354	7.286	9.068	1.889	1.460	429	50	7.129
+    78 Employment activities	7.279	894	6.385	5.772	4.395	1.377	-44	657
+    79 Travel agency, tour operator and other reservation service and related activities	15.038	11.799	3.239	1.660	1.277	383	9	1.570
+    80-82 Actividades de seguridad e investigación; servicios a edificios y actividades de jardinería; actividades administrativas de oficina y otras actividades auxiliares a 	44.604	15.892	28.712	22.027	16.520	5.507	-248	6.933
+    84 Public administration and defence; compulsory social security	91.823	23.263	68.560	52.261	40.711	11.550	414	15.885
+    85 Education	68.151	9.067	59.084	51.803	40.097	11.706	-51	7.332
+    86 Human health activities	88.858	28.560	60.298	48.301	38.390	9.911	363	11.634
+    87-88 Social work activities	25.711	7.924	17.787	14.313	10.665	3.648	-142	3.616
+    90-92 Creative, arts and entertainment activities; libraries, archives, museums and other cultural activities; gambling and betting activities	21.045	10.384	10.661	4.171	3.235	936	14	6.476
+    93 Sports activities and amusement and recreation activities	20.309	7.581	12.728	7.213	5.548	1.665	91	5.424
+    94 Activities of membership organisations	16.910	5.888	11.022	6.902	5.323	1.579	-3	4.123
+    95 Repair of computers and personal and household goods	2.484	1.153	1.331	826	625	201	-3	508
+    96 Other personal service activities	13.010	3.191	9.819	3.127	2.430	697	-60	6.752
+    97-98 Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use	9.819	0	9.819	9.819	8.089	1.730	0	0
+    99 Activities of extraterritorial organisations and bodies	0	0	0	0	0	0	0	0
