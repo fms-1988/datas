@@ -651,19 +651,19 @@ atividade,descricao,CNAE 4 digitos
 8691,Saúde pública,8711
 8691,Saúde pública,8712
 8691,Saúde pública,8720
-8691,Saúde pública, 8730
+8691,Saúde pública,8730
 8692,Saúde privada,8692
-8692,Saúde privada,8621
-8692,Saúde privada,8622
-8692,Saúde privada,8630
-8692,Saúde privada,8640
-8692,Saúde privada,8650
-8692,Saúde privada,8660
-8692,Saúde privada,8690
-8692,Saúde privada,8711
-8692,Saúde privada,8712
-8692,Saúde privada,8720
-8692,Saúde privada, 8730
+8692,Saúde privada,8621*
+8692,Saúde privada,8622*
+8692,Saúde privada,8630*
+8692,Saúde privada,8640*
+8692,Saúde privada,8650*
+8692,Saúde privada,8660*
+8692,Saúde privada,8690*
+8692,Saúde privada,8711*
+8692,Saúde privada,8712*
+8692,Saúde privada,8720*
+8692,Saúde privada, 8730*
 8692,Saúde privada,8800
 9080,"Atividades artísticas, criativas e de espetáculos",9001
 9080,"Atividades artísticas, criativas e de espetáculos",9002
