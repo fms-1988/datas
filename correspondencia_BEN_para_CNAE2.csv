@@ -1,0 +1,833 @@
+BEN,CNAE,Descrição
+SETOR ENERGÉTICO,05,Extração de carvão mineral
+SETOR ENERGÉTICO,06,Extração de petróleo e gás natural
+SETOR ENERGÉTICO,191,Coquerias
+SETOR ENERGÉTICO,192,Fabricação de produtos derivados do petróleo
+SETOR ENERGÉTICO,193,Fabricação de biocombustíveis
+SETOR ENERGÉTICO,351,"Geração, transmissão e distribuição de energia elétrica"
+SETOR ENERGÉTICO,352,Produção e distribuição de combustíveis gasosos por redes urbanas
+SETOR ENERGÉTICO,353,"Produção e distribuição de vapor, água quente e ar condicionado"
+RESIDENCIAL,,Consumo energético domiciliar horizontal e vertical
+COMERCIAL,45,Comércio e reparação de veículos automotores e motocicletas
+COMERCIAL,46,"Comércio por atacado, exceto veículos automotores e motocicletas"
+COMERCIAL,47,Comércio varejista
+COMERCIAL,55,Alojamento
+COMERCIAL,56,Alimentação
+COMERCIAL,58,Edição e edição integrada à impressão
+COMERCIAL,59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música"
+COMERCIAL,60,Atividades de rádio e de televisão
+COMERCIAL,61,Telecomunicações
+COMERCIAL,62,Atividades dos serviços de tecnologia da informação
+COMERCIAL,63,Atividades de prestação de serviços de informação
+COMERCIAL,64,Atividades de serviços financeiros
+COMERCIAL,65,"Seguros, resseguros, previdência complementar e planos de saúde"
+COMERCIAL,66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde"
+COMERCIAL,68,Atividades imobiliárias
+COMERCIAL,69,"Atividades jurídicas, de contabilidade e de auditoria"
+COMERCIAL,70,Atividades de sedes de empresas e de consultoria em gestão empresarial
+COMERCIAL,71,Serviços de arquitetura e engenharia; testes e análises técnicas
+COMERCIAL,72,Pesquisa e desenvolvimento científico
+COMERCIAL,73,Publicidade e pesquisa de mercado
+COMERCIAL,74,"Outras atividades profissionais, científicas e técnicas"
+COMERCIAL,75,Atividades veterinárias
+COMERCIAL,77,Aluguéis não-imobiliários e gestão de ativos intangíveis não- financeiros
+COMERCIAL,78,"Seleção, agenciamento e locação de mão-de-obra"
+COMERCIAL,79,"Agências de viagens, operadores turísticos e serviços de reservas"
+COMERCIAL,80,"Atividades de vigilância, segurança e investigação"
+COMERCIAL,81,Serviços para edifícios e atividades paisagísticas
+COMERCIAL,82,"Serviços de escritório, de apoio administrativo e outros serviços prestados principalmente às empresas"
+COMERCIAL,90,"Atividades artísticas, criativas e de espetáculos"
+COMERCIAL,91,Atividades ligadas ao patrimônio cultural e ambiental
+COMERCIAL,92,Atividades de exploração de jogos de azar e apostas
+COMERCIAL,93,Atividades esportivas e de recreação e lazer
+COMERCIAL,94,Atividades de organizações associativas
+COMERCIAL,95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos
+COMERCIAL,96,Outras atividades de serviços pessoais
+COMERCIAL,97,Serviços domésticos
+COMERCIAL,99,Organismos internacionais e outras instituições extraterritoriais
+COMERCIAL,521,"Armazenamento, carga e descarga"
+COMERCIAL,522,Atividades auxiliares dos transportes terrestres
+COMERCIAL,523,Atividades auxiliares dos transportes aquaviários
+COMERCIAL,524,Atividades auxiliares dos transportes aéreos
+COMERCIAL,525,Atividades relacionadas à organização do transporte de carga
+PÚBLICO,36,"Captação, tratamento e distribuição de água"
+PÚBLICO,37,Esgoto e atividades relacionadas
+PÚBLICO,38,"Coleta, tratamento e disposição de resíduos, recuperação de materiais"
+PÚBLICO,39,Descontaminação e outros serviços de gestão de resíduos
+PÚBLICO,84,"Administração pública, defesa e seguridade social"
+PÚBLICO,531,Atividades de correio
+PÚBLICO,532,Atividades de malote e de entrega
+PÚBLICO,8511,Educação infantil - creche
+PÚBLICO,8512,Educação infantil pré-escola
+PÚBLICO,8513,Ensino fundamental
+PÚBLICO,8520,Ensino médio
+PÚBLICO,8531,Educação superior - graduação
+PÚBLICO,8532,Educação superior graduação e pós-graduação
+PÚBLICO,8533,Educação superior - pós-graduação e extensão
+PÚBLICO,8541,Educação profissional de nível técnico
+PÚBLICO,8542,Educação profissional de nível tecnológico
+PÚBLICO,8550,Atividades de apoio à educação
+PÚBLICO,8591,Ensino de esportes
+PÚBLICO,8592,Ensino de arte e cultura
+PÚBLICO,8593,Ensino de idiomas
+PÚBLICO,8599,Atividades de ensino não especificadas anteriormente
+PÚBLICO,8610,Atividades de atendimento hospitalar
+PÚBLICO,8621,Serviços móveis de atendimento a urgências
+PÚBLICO,8622,"Serviços de remoção de pacientes, exceto os serviços móveis de atendimento a urgências"
+PÚBLICO,8630,Atividades de atenção ambulatorial executadas por médicos e odontólogos
+PÚBLICO,8640,Atividades de serviços de complementação diagnóstica e terapêutica
+PÚBLICO,8650,"Atividades de profissionais da área de saúde, exceto médicos e odontólogos"
+PÚBLICO,8660,Atividades de apoio à gestão de saúde
+PÚBLICO,8690,Atividades de atenção à saúde humana não especificadas anteriormente
+PÚBLICO,8711,"Atividades de assistência a idosos, deficientes físicos, imunodeprimidos e convalescentes prestadas em residências coletivas e particulares"
+PÚBLICO,8712,Atividades de fornecimento de infra-estrutura de apoio e assistência a paciente no domicílio
+PÚBLICO,8720,"Atividades de assistência psicossocial e à saúde a portadores de distúrbios psíquicos, deficiência mental e dependência química"
+PÚBLICO,8730,Atividades de assistência social prestadas em residências coletivas e particulares
+AGROPECUÁRIO,011,Produção de lavouras temporárias
+AGROPECUÁRIO,012,Horticultura e floricultura
+AGROPECUÁRIO,013,Produção de lavouras permanentes
+AGROPECUÁRIO,014,Produção de sementes e mudas certificadas
+AGROPECUÁRIO,015,Pecuária
+AGROPECUÁRIO,016,Atividades de apoio à agricultura e à pecuária; atividades de pós-colheita
+AGROPECUÁRIO,017,Caça e serviços relacionados
+AGROPECUÁRIO,021,Produção florestal florestas plantadas
+AGROPECUÁRIO,022,Produção florestal - florestas nativas
+AGROPECUÁRIO,023,Atividades de apoio à produção florestal
+AGROPECUÁRIO,031,Pesca
+AGROPECUÁRIO,032,Aqüicultura
+TRANSPORTES RODOVIÁRIO FERROVIÁRIO AÉREO HIDROVIÁRIO,491,Transporte ferroviário e metroferroviário
+TRANSPORTES RODOVIÁRIO FERROVIÁRIO AÉREO HIDROVIÁRIO,492,Transporte rodoviário de passageiros
+TRANSPORTES RODOVIÁRIO FERROVIÁRIO AÉREO HIDROVIÁRIO,493,Transporte rodoviário de carga
+TRANSPORTES RODOVIÁRIO FERROVIÁRIO AÉREO HIDROVIÁRIO,495,"Trens turísticos, teleféricos e similares"
+TRANSPORTES RODOVIÁRIO FERROVIÁRIO AÉREO HIDROVIÁRIO,494,Transporte dutoviário
+TRANSPORTES RODOVIÁRIO FERROVIÁRIO AÉREO HIDROVIÁRIO,501,Transporte marítimo de cabotagem e longo curso
+TRANSPORTES RODOVIÁRIO FERROVIÁRIO AÉREO HIDROVIÁRIO,502,Transporte por navegação interior
+TRANSPORTES RODOVIÁRIO FERROVIÁRIO AÉREO HIDROVIÁRIO,503,Navegação de apoio
+TRANSPORTES RODOVIÁRIO FERROVIÁRIO AÉREO HIDROVIÁRIO,509,Outros transportes aquaviários
+TRANSPORTES RODOVIÁRIO FERROVIÁRIO AÉREO HIDROVIÁRIO,511,Transporte aéreo de passageiros
+TRANSPORTES RODOVIÁRIO FERROVIÁRIO AÉREO HIDROVIÁRIO,512,Transporte aéreo de carga
+TRANSPORTES RODOVIÁRIO FERROVIÁRIO AÉREO HIDROVIÁRIO,513,Transporte espacial
+CIMENTO,2320.7040,"Cimentos Portland, exceto brancos"
+FERRO GUSA E AÇO,2421.2020,"Lingotes, blocos, tarugos ou placas de aços especiais/ligados"
+FERRO GUSA E AÇO,2421.2030,"Lingotes, blocos, tarugos ou placas de aços ao carbono"
+FERRO GUSA E AÇO,2422.2010,"Bobinas a frio de aços ao carbono, não revestidos"
+FERRO GUSA E AÇO,2422.2020,"Bobinas a quente de aços ao carbono, não revestidos"
+FERRO GUSA E AÇO,2422.2030,"Bobinas grossas de aços ao carbono, não revestidos"
+FERRO GUSA E AÇO,2422.2070,"Bobinas ou chapas de outras ligas de aço, inclusive tiras"
+FERRO GUSA E AÇO,2422.2080,"Bobinas ou chapas de aços inoxidáveis, inclusive tiras"
+FERRO GUSA E AÇO,2422.2090,"Bobinas ou chapas de aços siliciosas, inclusive tiras"
+FERRO GUSA E AÇO,2422.2100,Bobinas ou chapas de aços zincadas (galvanizadas)
+FERRO GUSA E AÇO,2422.2115,"Chapas a quente de aços ao carbono, não revestidos"
+FERRO GUSA E AÇO,2422.2140,Folhas-de-flandres
+FERRO GUSA E AÇO,2423.2020,"Barras de outras ligas de aços, exceto inoxidáveis"
+FERRO GUSA E AÇO,2423.2030,Barras de aços ao carbono
+FERRO GUSA E AÇO,2423.2080,Fio-máquina de aços ao carbono
+FERRO GUSA E AÇO,2423.2110,"Perfis médios ou pesados de aços ao carbono, laminados a quente"
+FERRO GUSA E AÇO,2423.2130,"Tubos, canos ou perfis OCOS de aços sem costura"
+FERRO GUSA E AÇO,2423.2140,Vergalhões de aços ao carbono
+FERRO GUSA E AÇO,2424.2030,Arames e fios de aços ao carbono
+FERRO GUSA E AÇO,2424.2070,"Chapas, bobinas, fitas e tiras de aço, relaminadas, inclusive revestidas, pintadas ou envernizadas"
+FERRO GUSA E AÇO,2424.2080,"Barras, vergalhões, fio-máquina e outros produtos longos de aço, relaminados"
+FERRO GUSA E AÇO,2431.2020,"Tubos de aços com costura, utilizados em oleodutos ou gasodutos"
+FERRO GUSA E AÇO,2431.2040,"Tubos, canos e perfis OCOS de aço, com costura, n.e."
+FERRO GUSA E AÇO,2439.2040,Tubos flexíveis e tubos trefilados de ferro e aço
+FERRO GUSA E AÇO,2411.2010,Ferro-gusa
+FERROLIGAS,2412.2030,Ferromanganês
+FERROLIGAS,2412.2040,Ferronióbio
+FERROLIGAS,2099.2220,"Silício, inclusive silício metálico"
+MINERAÇÃO E PELOTIZAÇÃO,0710.2015,"Minérios de ferro em bruto ou beneficiados (classificados, concentrados, triturados, etc.) exceto pelotizados ou sinterizados"
+MINERAÇÃO E PELOTIZAÇÃO,0710.2030,Minérios de ferro pelotizados ou sinterizados
+MINERAÇÃO E PELOTIZAÇÃO,0721.2010,"Minérios de alumínio (bauxita, mesmo calcinada) em bruto ou beneficiados"
+MINERAÇÃO E PELOTIZAÇÃO,0723.2010,Minérios de manganês em bruto ou beneficiados
+MINERAÇÃO E PELOTIZAÇÃO,0729.2040,"Minérios de cobre (azurita, cuprita, etc.) em bruto ou beneficiados"
+MINERAÇÃO E PELOTIZAÇÃO,0810.2140,"Castinas; pedras calcárias (calcários) utilizadas na fabricação de cal ou de cimento, inclusive pó calcário"
+MINERAÇÃO E PELOTIZAÇÃO,0810.2250,Pedras britadas
+MINERAÇÃO E PELOTIZAÇÃO,0891.2040,"Fosfatos de cálcio naturais (apatita), fosfatos aluminocálcicos e cré fosfatado, moídos ou não"
+NÃO FERROSOS E OUTROS DA METALURGIA,2441.2020,"Alumínio não ligado em formas brutas (líquido, massa, lingotes, biletes, granalhas, etc.)"
+NÃO FERROSOS E OUTROS DA METALURGIA,2441.2030,"Barras, perfis ou vergalhões de alumínio"
+NÃO FERROSOS E OUTROS DA METALURGIA,2441.2045,"Chapas e tiras, de alumínio, de espessura superior a 0,2mm"
+NÃO FERROSOS E OUTROS DA METALURGIA,2441.2100,"Folhas e tiras, delgadas, de alumínio (mesmo impressas ou com suporte), de espessura não superior a 0,2mm; papel alumínio"
+NÃO FERROSOS E OUTROS DA METALURGIA,2441.2110,"Ligas de alumínio em formas brutas (lingotes, plaquetas, granalhas, etc.)"
+NÃO FERROSOS E OUTROS DA METALURGIA,2441.2120,Óxido de alumínio (alumina calcinada)
+NÃO FERROSOS E OUTROS DA METALURGIA,2452.2010,Artefatos de alumínio fundido
+NÃO FERROSOS E OUTROS DA METALURGIA,2442.2075,"Ouro (incluído o ouro platinado), em formas brutas. semimanufaturadas ou em pó, para usos não monetários"
+NÃO FERROSOS E OUTROS DA METALURGIA,2443.2010,"Barras, perfis e vergalhões de cobre e de ligas de cobre (latão, cuproníquel, maillechort, etc.)"
+NÃO FERROSOS E OUTROS DA METALURGIA,2443.2120,"Tubos, canos e acessórios (uniões, cotovelos, luvas, etc.) de cobre e de ligas de cobre"
+NÃO FERROSOS E OUTROS DA METALURGIA,2449.2150,"Mates, sínter, óxido de níquel ou outros produtos intermediários da metalurgia do níquel"
+NÃO FERROSOS E OUTROS DA METALURGIA,2449.2210,"Zinco e ligas de zinco em formas brutas (lingotes, placas, etc.)"
+NÃO FERROSOS E OUTROS DA METALURGIA,2451.7010,Artefatos e peças diversas de ferro fundido
+NÃO FERROSOS E OUTROS DA METALURGIA,2511.2010,"Andaimes tubulares e material para andaimes, para armações e para escoramento"
+NÃO FERROSOS E OUTROS DA METALURGIA,2511.2025,Construções pré-fabricadas de metal
+NÃO FERROSOS E OUTROS DA METALURGIA,2511.2055,"Estruturas de ferro e aço, em chapas ou em outras formas"
+NÃO FERROSOS E OUTROS DA METALURGIA,2511.2060,"Pontes e elementos de pontes, de ferro e aço"
+NÃO FERROSOS E OUTROS DA METALURGIA,2511.2070,"Torres, inclusive de telegrafia, e pórticos (pilares), de ferro e aço"
+NÃO FERROSOS E OUTROS DA METALURGIA,2512.2030,"Esquadrias de alumínio (portas, janelas, seus caixilhos, alizares, soleiras, etc.)"
+NÃO FERROSOS E OUTROS DA METALURGIA,2512.2040,"Esquadrias de ferro e aço (portas, janelas, seus caixilhos, alizares, soleiras, etc.)"
+NÃO FERROSOS E OUTROS DA METALURGIA,2513.2040,"Obras de caldeiraria pesada, n.e. e suas partes"
+NÃO FERROSOS E OUTROS DA METALURGIA,2521.2080,"Recipientes de ferro e aço p/transporte ou armazenagem de gases comprimidos ou liqüefeitos (botijões de gás, tubos, etc.)"
+NÃO FERROSOS E OUTROS DA METALURGIA,2521.2090,"Reservatórios de ferro e aço c/capacidade > 300L, p/armazenamento de água em estabelecimentos inds, habitações, lojas, etc."
+NÃO FERROSOS E OUTROS DA METALURGIA,2521.2120,"Reservatórios, cubas e recipientes semelh. de ferro e aço c/capacidade >300L, p/armazenamento ou processamento.de mat.sólidas"
+NÃO FERROSOS E OUTROS DA METALURGIA,2522.2020,"Caldeiras geradoras de vapor (geradores de vapor), exceto para aquecimento central"
+NÃO FERROSOS E OUTROS DA METALURGIA,2531.2010,Ferro e aço forjado em formas e peças
+NÃO FERROSOS E OUTROS DA METALURGIA,2531.2020,"Metais não-ferrosos forjados em formas e peças (de cobre, níquel, etc.)"
+NÃO FERROSOS E OUTROS DA METALURGIA,2532.2010,Artefatos diversos de cobre estampado
+NÃO FERROSOS E OUTROS DA METALURGIA,2532.2060,Peças moldadas em pó metálico (sinterizadas) ou revestidas
+NÃO FERROSOS E OUTROS DA METALURGIA,2532.7020,"Artefatos divers.de ferro/aço estampado, repuxado ou conformado, incl. peças estampadas de ferro/aço p/a ind.automobilística"
+NÃO FERROSOS E OUTROS DA METALURGIA,2541.2010,"Aparelhos de barbear de segurança, mesmo de plástico, de lâminas não substituíveis"
+NÃO FERROSOS E OUTROS DA METALURGIA,2541.2050,"Colheres, garfos, conchas, facas não-cortantes ou outros artigos de metal para serviço de mesa, exceto de metal precioso"
+NÃO FERROSOS E OUTROS DA METALURGIA,2541.2070,Facas de mesa
+NÃO FERROSOS E OUTROS DA METALURGIA,2542.2010,"Artefatos diversos de serralheria, exceto esquadrias"
+NÃO FERROSOS E OUTROS DA METALURGIA,2542.2020,Cadeados
+NÃO FERROSOS E OUTROS DA METALURGIA,2542.2040,Dobradiças de qualquer tipo
+NÃO FERROSOS E OUTROS DA METALURGIA,2542.2050,"Fechaduras ou ferrolhos para usos diversos, exceto para veículos automotores e móveis"
+NÃO FERROSOS E OUTROS DA METALURGIA,2542.2070,Fechaduras para veículos automotores
+NÃO FERROSOS E OUTROS DA METALURGIA,2542.2100,"Guarnições, ferragens e artefatos semelhantes para móveis"
+NÃO FERROSOS E OUTROS DA METALURGIA,2543.2050,"Chaves de porcas, manuais, e chaves de caixa intercambiáveis"
+NÃO FERROSOS E OUTROS DA METALURGIA,2543.2110,"Ferramentas intercambiáveis de embutir, estampar ou puncionar para ferramentas manuais ou para máquinas-ferramenta"
+NÃO FERROSOS E OUTROS DA METALURGIA,2543.2130,"Ferramentas intercambiáveis para furar, mandrilar, roscar ou filetar, para ferramentas manuais ou para máquinas-ferramenta"
+NÃO FERROSOS E OUTROS DA METALURGIA,2543.2260,Moldes para fabricação de peças de borracha ou plástico
+NÃO FERROSOS E OUTROS DA METALURGIA,2543.2350,"Plaquetas,pastilhas,varetas,pontas,objs.semelh.,p/ferram.,não montados,de carbonetos metálic.sinteriz.ou de ceramais""c"
+NÃO FERROSOS E OUTROS DA METALURGIA,2550.2040,"Cartuchos, balas e suas partes"
+NÃO FERROSOS E OUTROS DA METALURGIA,2550.2080,Revólveres e pistolas
+NÃO FERROSOS E OUTROS DA METALURGIA,2591.2020,"Embalagens descartáveis de folhas de alumínio, utilizadas para acondicionar alimentos, tipo quentinhas"
+NÃO FERROSOS E OUTROS DA METALURGIA,2591.2030,Latas de alumínio para embalagem de produtos diversos
+NÃO FERROSOS E OUTROS DA METALURGIA,2591.2040,"Latas de ferro e aço para embalagem de produtos diversos com capacidade inferior a 50L, inclusive aerossol"
+NÃO FERROSOS E OUTROS DA METALURGIA,2591.2050,Recipientes tubulares flexíveis de alumínio
+NÃO FERROSOS E OUTROS DA METALURGIA,2591.2090,"Reservatórios,barris,tambores,latas(exc.p/gases),deferro/aço c/capacidade >: 50I e< 300I,p/embalag./transp.de prods.diversos"
+NÃO FERROSOS E OUTROS DA METALURGIA,2591.2100,"Rolhas, tampas ou cápsulas metálicas, mesmo associadas a outras matérias"
+NÃO FERROSOS E OUTROS DA METALURGIA,2592.2010,"Arruelas, rebites, cavilhas, contrapinos e outros artefatos não roscados de ferro e aço"
+NÃO FERROSOS E OUTROS DA METALURGIA,2592.2060,Artefatos diversos de ferro e aço trefilados
+NÃO FERROSOS E OUTROS DA METALURGIA,2592.2080,"Cordas, cabos, tranças e artefatos semelhantes de alumínio, com alma de aço, não isolados"
+NÃO FERROSOS E OUTROS DA METALURGIA,2592.2090,"Cordas, cabos, tranças e artefatos semelhantes de alumínio, sem alma de aço, não isolados"
+NÃO FERROSOS E OUTROS DA METALURGIA,2592.2100,"Cordas, cabos, tranças e artefatos semelhantes de cobre, não isolados"
+NÃO FERROSOS E OUTROS DA METALURGIA,2592.2110,"Cordas, cabos, tranças e artefatos semelhantes de ferro e aço, não isolados"
+NÃO FERROSOS E OUTROS DA METALURGIA,2592.2180,"Grampos, armelas, percevejos, tachas, pregos e semelhantes, de ferro e aço"
+NÃO FERROSOS E OUTROS DA METALURGIA,2592.2200,"Molas e folhas de molas de ferro e aço, de qualquer espécie, exceto para veículos"
+NÃO FERROSOS E OUTROS DA METALURGIA,2592.2210,"Palha (lä) de aço; esponjas, luvas ou artefatos semelhantes de fios de aço"
+NÃO FERROSOS E OUTROS DA METALURGIA,2592.2220,"Parafusos, ganchos, pinos ou pernos, porcas e outros artefatos roscados de ferro e aço"
+NÃO FERROSOS E OUTROS DA METALURGIA,2592.2280,"Telas metálicas tecidas, de fios de ferro e aço, inclusive revestidas"
+NÃO FERROSOS E OUTROS DA METALURGIA,2593.2020,"Artefatos de alumínio para uso doméstico (panelas, baixelas, secadores de roupas, etc.), exceto para higiene e toucador"
+NÃO FERROSOS E OUTROS DA METALURGIA,2593.2040,"Artefatos de ferro e aço para uso doméstico (panelas, assadeiras, escorredores de louças, secadores de roupas, etc.)"
+NÃO FERROSOS E OUTROS DA METALURGIA,2599.2110,"Ferragens para linhas elétricas (braçadeiras, suportes, olhais ou anéis, etc.)"
+NÃO FERROSOS E OUTROS DA METALURGIA,2599.2170,"Pias, cubas e lavatórios, banheiras e semelhantes de ferro e aço"
+QUÍMICA,2061.2010,"Agentes orgânicos de superfície, exceto sabões"
+QUÍMICA,2061.2030,Amaciantes (suavizantes) de tecidos
+QUÍMICA,2061.2050,"Sabões ou detergentes líquidos; produtos para lavagem de pisos, vidros, etc."
+QUÍMICA,2061.2075,"Preparações tensoativas para lavagem e limpeza, para uso doméstico ou industrial, inclusive as preparações multiuso"
+QUÍMICA,2061.2095,"Sabões ou detergentes para uso doméstico ou industrial, em barras, pedaços, figuras moldadas, etc."
+QUÍMICA,2061.2100,"Sabões ou detergentes em pó, flocos, palhetas, grânulos ou outras formas semelhantes"
+QUÍMICA,2062.2030,"Desinfetantes para usos doméstico, institucional e/ou industrial (alvejantes, água sanitária, etc.)"
+QUÍMICA,2062.2050,"Preparações para conservação e limpeza de móveis, assoalhos, pisos e semelhantes"
+QUÍMICA,2062.2090,"Preparações para dar brilho em vidros, metais e outros materiais, n.e."
+QUÍMICA,2063.2010,Água-de-colônia
+QUÍMICA,2063.2030,"Cremes de beleza, cremes nutritivos e loções tônicas para a pele"
+QUÍMICA,2063.2050,Dentifrícios (pastas de dentes; creme dental)
+QUÍMICA,2063.2070,"Desodorantes corporais e antiperspirantes, líqüidos"
+QUÍMICA,2063.2160,Preparações para manicuros e pedicuros
+QUÍMICA,2063.2180,"Produtos de beleza ou de maquilagem preparados, n.e. (bronzeador, protetor solar)"
+QUÍMICA,2063.2190,Produtos de maquilagem para os lábios (batom cremoso ou líquido; brilho para lábios)
+QUÍMICA,2063.2230,"Sabonetes (em barras, pedaços, figuras moldadas, líqüido, etc.), exceto medicinais"
+QUÍMICA,2063.2260,Xampus para os cabelos
+QUÍMICA,2063.7020,Prepar.capilares (condicionadores/cremes/fixadores/tinturas/descolorantes)- exc.xampus e prep.p/ondulações/alisam/permanente
+QUÍMICA,2011.2030,Cloro
+QUÍMICA,2011.2050,Hidróxido de sódio (soda cáustica)
+QUÍMICA,2012.2010,Ácido fosfórico utilizado na preparação de adubos e fertilizantes
+QUÍMICA,2012.2020,Ácido nítrico
+QUÍMICA,2012.2030,Ácido sulfúrico
+QUÍMICA,2012.2040,Amoníaco (amônia)
+QUÍMICA,2012.2070,Fosfatos de monoamônio (MAP)
+QUÍMICA,2012.2110,"Nitrato de amônio, mesmo em solução aquosa"
+QUÍMICA,2012.2190,Uréia
+QUÍMICA,2012.5170,"Superfosfatos (simples, duplo ou triplo)"
+QUÍMICA,2013.2020,Adubos ou fertilizantes com fósforo e potássio
+QUÍMICA,2013.2030,"Adubos ou fertilizantes com nitrogênio, fósforo e potássio (NPK)"
+QUÍMICA,2013.2040,"Adubos ou fertilizantes minerais ou químicos, com nitrogênio e fósforo"
+QUÍMICA,2013.2050,Adubos ou fertilizantes minerais ou químicos com nitrogênio e potássio
+QUÍMICA,2013.2060,"Adubos ou fertilizantes minerais ou químicos, fosfatados"
+QUÍMICA,2013.2070,"Adubos ou fertilizantes minerais ou químicos, nitrogenados"
+QUÍMICA,2013.2075,"Adubos ou fertilizantes minerais ou químicos, potássicos"
+QUÍMICA,2014.2020,Argônio (gases raros)
+QUÍMICA,2014.2040,"Dióxido de carbono (gás carbônico, anidrido carbônico); gelo seco"
+QUÍMICA,2014.2070,Nitrogênio
+QUÍMICA,2014.2080,Oxigênio
+QUÍMICA,2019.2080,Carbonato de cálcio
+QUÍMICA,2019.2120,"Carbonetos de cálcio, silício e outros"
+QUÍMICA,2019.2280,Dióxidos de titânio
+QUÍMICA,2021.2010,Benzeno
+QUÍMICA,2021.2020,"Buta - 1,3 - dieno não-saturado"
+QUÍMICA,2021.2040,Etileno (eteno) não-saturado
+QUÍMICA,2021.2100,Propeno (propileno) não-saturado
+QUÍMICA,2021.2120,"Xilenos (O-xileno, m-xileno ou p-xileno)"
+QUÍMICA,2022.2100,Ácido adípico
+QUÍMICA,2022.2280,Estireno
+QUÍMICA,2022.2310,Fenol (hidróxibenzeno) e seus sais
+QUÍMICA,2022.2340,Hexametilenodiamina e seus sais
+QUÍMICA,2029.2010,Acetato de etila
+QUÍMICA,2029.2645,"Éteres, peróxidos orgânicos, epóxidos, acetais, semi-acetais ou seus derivados"
+QUÍMICA,2029.2770,Misturas de alquilbenzenos ou de alquilnaftalenos
+QUÍMICA,2029.2800,Carbono (negros de carbono ou negros de fumo e outras formas de carbono não especificadas)
+QUÍMICA,2031.2030,Copolímero de etileno / acetato de vinila (EVA)
+QUÍMICA,2031.2090,Policloreto de vinila (PVC)
+QUÍMICA,2031.2100,Poliestireno (cristal ou de alto impacto)
+QUÍMICA,2031.2130,Polietileno de alta densidade (PEAD)
+QUÍMICA,2031.2140,Polietileno de baixa densidade (PEBD)
+QUÍMICA,2031.2150,"Polietileno linear, em forma primária, com densidade inferior a 0,94"
+QUÍMICA,2031.2170,Polímeros acrílicos em formas primárias
+QUÍMICA,2031.2230,Polipropileno (PP)
+QUÍMICA,2031.2290,Tereftalato de polietileno (PET)
+QUÍMICA,2032.2020,"Poliésteres, n.e., em formas primárias"
+QUÍMICA,2032.2040,Poliuretanos
+QUÍMICA,2032.2050,Resina fenol-formaldeído
+QUÍMICA,2032.2070,Resina poliéster insaturada
+QUÍMICA,2032.2100,Resinas epóxidas
+QUÍMICA,2032.2110,"Resinas uréicas e resinas de tiouréia, em forma primária"
+QUÍMICA,2033.2010,Borracha de estireno-butadieno
+QUÍMICA,2040.2060,Fibras sintéticas descontínuas não cardadas nem penteadas
+QUÍMICA,2040.2160,Fios texturizados de poliésteres
+QUÍMICA,2051.2110,Fungicidas para uso na agricultura
+QUÍMICA,2051.2130,"Herbicidas, inibidores de germinação e reguladores de crescimento para plantas"
+QUÍMICA,2051.2150,Inseticidas para uso na agricultura
+QUÍMICA,2051.7010,Princípios ativos para herbicidas
+QUÍMICA,2052.2030,"Inseticidas para usos doméstico, institucional e/ou industrial"
+QUÍMICA,2071.2010,"Composições vitrificáveis (vidrados), engobos e preparações semelhantes"
+QUÍMICA,2071.2020,"Esmaltes metálicos líquidos, fritas metálicas, fritas de vidro e outros vidros em pó, em grânulos, em lamelas ou em flocos"
+QUÍMICA,2071.2060,"Tintas e vernizes dissolvidos em meio aquoso, para construção"
+QUÍMICA,2071.2070,"Tintas e vernizes dissolvidos em meio aquoso, para usos em geral - exceto para fins automotivos e construção"
+QUÍMICA,2071.2080,"Tintas e vernizes dissolvidos em meio aquoso, para fins automotivos exceto repintura"
+QUÍMICA,2071.2100,"Tintas e vernizes dissolvidos em meio não aquoso, para construção"
+QUÍMICA,2071.2110,"Tintas e vernizes dissolvidos em meio não aquoso, para fins automotivos - exceto repintura"
+QUÍMICA,2071.2120,"Tintas e vernizes dissolvidos em meio não aquoso, para usos em geral exceto para fins automotivos e construção"
+QUÍMICA,2072.2020,Tintas e vernizes para impressão
+QUÍMICA,2073.2030,"Mástiques de vidraceiro (massa), ceras de calafate, indutos utilizados em pintura, impermeabilizantes e semelhantes"
+QUÍMICA,2073.2060,"Solventes e diluentes orgânicos compostos, n.e.; preparações para remover tintas"
+QUÍMICA,2091.2010,Adesivos à base de borracha
+QUÍMICA,2091.2020,Adesivos à base de plásticos (inclusive as resinas artificiais) dispersos ou para dispersar em meio aquoso
+QUÍMICA,2092.2030,"Explosivos preparados, exceto pólvoras propulsivas"
+QUÍMICA,2093.2100,Aditivos para óleos lubrificantes
+QUÍMICA,2093.2160,Éter metil-ter-butílico (MTBE)
+QUÍMICA,2093.2195,Lisina e seus ésteres; ácido glutâmico; sais destes produtos
+QUÍMICA,2093.2220,"Misturas de substâncias odoríferas utilizadas como matérias básica p/indústrias, exc. p/as indústrias alimentar e de bebidas"
+QUÍMICA,2093.2230,Misturas de substâncias aromáticas utilizadas nas indústrias alimentar e de bebidas
+QUÍMICA,2093.2370,"Prods.químicos utilizados nas ind.têxtil, papel,couro e semelh.(aceleradores, fixadores, aglutinantes, agente de apresto,etc)"
+QUÍMICA,2094.2010,"Catalisador em suporte, tendo níquel ou um metal precioso ou seus compostos como substância ativa"
+QUÍMICA,2099.2020,"Chapas e filmes planos, fotogr.,; filmes fotogr.planos, de revelação e copiagem instant.,sensibilizados. não impressionados"
+TÊXTIL,1311.2050,"Fios de algodão (exceto linhas para costurar), acondicionados para venda a varejo"
+TÊXTIL,1311.2060,Fios de algodão retorcidos ou retorcidos múltiplos
+TÊXTIL,1311.2070,Fios de algodão singelos (simples)
+TÊXTIL,1313.7040,"Fios de fibras sintéticas ou artificiais descontínuas, inclusive combinadas com outras fibras"
+TÊXTIL,1313.7080,Fios retorcidos ou retorcidos múltiplos de filamentos artificiais ou sintéticos
+TÊXTIL,1314.2010,"Linhas ou fios de algodão para costurar, bordar e semelhantes"
+TÊXTIL,1314.2030,"Linhas ou fios de filamentos sintéticos para costurar, bordar e semelhantes"
+TÊXTIL,1321.2020,"Roupas de banho (toalhas de banho/rosto/mãos e semelh.) de tecidos de algodão, incl. atoalhados, quando integradas à tecelagem"
+TÊXTIL,1321.2035,"Roupas de cama (exceto colchas, cobertores e mantas), de tecidos de algodão, quando integradas à tecelagem"
+TÊXTIL,1321.2070,"Tecidos de algodão crus ou alvejados, inclusive combinados"
+TÊXTIL,1321.2080,"Tecidos de algodão tintos, estampados ou tintos em fio, inclusive combinados"
+TÊXTIL,1321.2100,"Tecidos de algodão crus ou alvejados, exceto combinados"
+TÊXTIL,1321.7090,"Tecidos de algodão tintos ou estampados, exceto combinados"
+TÊXTIL,1323.2010,"Cobertores e mantas de fibras sintéticas, quando integrados à tecelagem"
+TÊXTIL,1323.2060,"Sacos, incl. contentores flexíveis (big-bags) p/embalagem, de matérias têxteis artif. ou sint., quando integrados à tecelagem"
+TÊXTIL,1323.2160,"Tecidos de filamentos sintéticos, crus ou alvejados, inclusive combinados com outras fibras"
+TÊXTIL,1323.7090,"Tecidos de fibras descontínuas sintéticas ou artificiais, tintos ou estampados, inclusive combinados com outras fibras"
+TÊXTIL,1323.7130,"Tecidos de filamentos sintéticos ou artificiais, tintos ou estampados, inclusive combinados com outras fibras"
+TÊXTIL,1330.2020,"Tecidos de malha de algodão, exceto atoalhados"
+TÊXTIL,1330.2040,"Tecidos de malha de fibras sintéticas ou artificiais, exceto atoalhados"
+TÊXTIL,1351.2010,"Almofadas, pufes, travesseiros e semelhantes"
+TÊXTIL,1351.2020,Cortinas e acessórios de tecidos de qualquer matéria têxtil
+TÊXTIL,1351.2050,"Roupas de cama (colchas, cobertores, lençóis, etc.), de tecidos, quando não integradas à tecelagem"
+TÊXTIL,1352.2020,"Tapetes e outros revestimentos para pavimentos, de feltro ou de matérias têxteis, com suportes"
+TÊXTIL,1352.2040,"Tapetes e outros revestimentos para pavimentos, de matérias têxteis, tufados, mesmo confeccionados"
+TÊXTIL,1352.2060,"Tapetes e outros revestimentos têxteis para pavimentos, obtidos por tecelagem"
+TÊXTIL,1353.2020,"Cordéis, cordas e cabos de fibras sintéticas (poliamida, náilon, etc.)"
+TÊXTIL,1354.2020,Artefatos diversos de tecidos confeccionados com tecidos especiais
+TÊXTIL,1354.2030,"Feltros, mesmo impregnados, revestidos, recobertos ou estratificados"
+TÊXTIL,1354.2040,"Lonas, toldos, tendas, velas para embarcações, artigos para acampamento e semelhantes de tecido de acabamento especial"
+TÊXTIL,1354.2090,"Tecido não-tecido ou falsos tecidos, de fibras naturais, artificiais ou sintéticas, mesmo acabados"
+TÊXTIL,1354.2130,"Tecidos revestidos ou impregnados, inclusive as entretelas"
+TÊXTIL,1354.2140,Telas para pneumáticos fabricadas com fios sintéticos ou artificiais de alta tenacidade
+TÊXTIL,1359.2030,"Artigos de passamanaria (etiquetas não-bordadas, emblemas, viés, galões, etc.)"
+TÊXTIL,1359.2090,"Fitas de tecidos, inclusive as fitas ou os tecidos elásticos"
+PAPEL E CELULOSE,1710,Fabricação de celulose e outras pastas para a fabricação de papel
+PAPEL E CELULOSE,1721,Fabricação de papel
+PAPEL E CELULOSE,1722,Fabricação de cartolina e papel-cartão
+PAPEL E CELULOSE,1731,Fabricação de embalagens de papel
+PAPEL E CELULOSE,1732,Fabricação de embalagens de cartolina e papel-cartão
+PAPEL E CELULOSE,1733,Fabricação de chapas e de embalagens de papelão ondulado
+PAPEL E CELULOSE,1741,"Fabricação de produtos de papel, cartolina, papel-cartão e papelão ondulado para uso comercial e de escritório"
+PAPEL E CELULOSE,1742,Fabricação de produtos de papel para usos doméstico e higiênico-sanitário
+PAPEL E CELULOSE,1749,"Fabricação de produtos de pastas celulósicas, papel, cartolina, papel-cartão e papelão ondulado não especificados anteriormente"
+CERÂMICA,2341.2010,"Cimentos, argamassas, concretos (betões) refratários e composições semelhantes"
+CERÂMICA,2341.2040,"Tijolos, placas, ladrilhos e outras peças de cerâmica refratária para construção, exceto de farinhas siliciosas fósseis"
+CERÂMICA,2342.2030,"Ladrilhos, placas e azulejos de cerâmica para pavimentação ou revestimento, esmaltados (lado superior ou igual a 7cm)"
+CERÂMICA,2342.2065,"Tijolos perfurados, tapa-vigas e outros tijolos de cerâmica para construção, exceto refratários"
+CERÂMICA,2349.2110,"Pias, banheiras, bidês e semelhantes para uso sanitário, de cerâmica ou porcelana"
+CERÂMICA,2391.2020,"Granito talhado, serrado ou trabalhado de outro modo, inclusive chapas de granito para pias"
+OUTRAS INDÚSTRIAS,1210.2010,Fumo processado industrialmente (destalamento e outros beneficiamentos elaborados em unidades industriais)
+OUTRAS INDÚSTRIAS,1220.2020,Cigarros
+OUTRAS INDÚSTRIAS,1411.2010,Calcinhas de malha
+OUTRAS INDÚSTRIAS,1411.2020,"Calcinhas, exceto de malha"
+OUTRAS INDÚSTRIAS,1411.2050,"Cuecas e semelhantes, de malha"
+OUTRAS INDÚSTRIAS,1411.2060,"Cuecas e semelhantes, exceto de malha"
+OUTRAS INDÚSTRIAS,1411.2080,"Roupas de dormir ou de banho (camisolas, pijamas, roupões e semelhantes), de malha, de uso feminino"
+OUTRAS INDÚSTRIAS,1411.2140,Sutiãs de malha
+OUTRAS INDÚSTRIAS,1411.2150,"Sutiãs ou bustiers (sutiãs de cós alto), exceto de malha"
+OUTRAS INDÚSTRIAS,1412.2030,"Bermudas, jardineiras, shorts e semelhantes, exceto de malha, de uso feminino"
+OUTRAS INDÚSTRIAS,1412.2040,"Bermudas, jardineiras, shorts e semelhantes, exceto de malha, de uso masculino"
+OUTRAS INDÚSTRIAS,1412.2070,"Calças, bermudas, jardineiras, shorts e semelhantes, de malha, de uso feminino"
+OUTRAS INDÚSTRIAS,1412.2080,"Calças, bermudas, jardineiras, shorts e semelhantes, de malha, de uso masculino"
+OUTRAS INDÚSTRIAS,1412.2090,"Calças compridas, exceto de malha, de uso feminino"
+OUTRAS INDÚSTRIAS,1412.2100,"Calças compridas, exceto de malha, de uso masculino"
+OUTRAS INDÚSTRIAS,1412.2130,"Camisas, blusas e semelhantes, de malha, de uso feminino"
+OUTRAS INDÚSTRIAS,1412.2140,"Camisas, blusas e semelhantes, exceto de malha, de uso feminino"
+OUTRAS INDÚSTRIAS,1412.2150,"Camisas, de malha, de uso masculino"
+OUTRAS INDÚSTRIAS,1412.2160,"Camisas, exceto de malha, de uso masculino"
+OUTRAS INDÚSTRIAS,1412.2170,"Camisetas (T-Shirts) e camisetas interiores, de malha"
+OUTRAS INDÚSTRIAS,1412.2180,"Conjuntos, de malha, de uso feminino"
+OUTRAS INDÚSTRIAS,1412.2190,"Conjuntos, de malha, de uso masculino"
+OUTRAS INDÚSTRIAS,1412.2220,"Conjuntos, exceto de malha, de uso feminino"
+OUTRAS INDÚSTRIAS,1412.2230,"Conjuntos, exceto de malha, de uso masculino"
+OUTRAS INDÚSTRIAS,1412.2250,"Macacões, agasalhos e conjuntos para esporte, exceto de malha"
+OUTRAS INDÚSTRIAS,1412.2260,"Maios, biquínis e semelhantes de praia, de malha"
+OUTRAS INDÚSTRIAS,1412.2270,"Maios, biquínis e semelhantes de praia, exceto de malha"
+OUTRAS INDÚSTRIAS,1412.2330,"Sajas e saias-calças, de malha"
+OUTRAS INDÚSTRIAS,1412.2340,"Saias e saias-calças, exceto de malha"
+OUTRAS INDÚSTRIAS,1412.2380,"Ternos, exceto de malha, de uso masculino"
+OUTRAS INDÚSTRIAS,1412.2390,Vestidos de malha
+OUTRAS INDÚSTRIAS,1412.2420,"Vestidos, exceto de malha"
+OUTRAS INDÚSTRIAS,1412.2450,"Vestuário e seus acessórios, de malha, para bebês"
+OUTRAS INDÚSTRIAS,1412.2460,"Vestuário e seus acessórios, exceto de malha, para bebês"
+OUTRAS INDÚSTRIAS,1413.2050,"Camisas, camisetas, blusas e semelhantes para uso profissional, de tecido inclusive de malha"
+OUTRAS INDÚSTRIAS,1413.2080,"Macações, jalecos, batinas, togas, fardas e semelhantes para uso profissional"
+OUTRAS INDÚSTRIAS,1421.2010,Meias de algodão ou outras fibras têxteis naturais
+OUTRAS INDÚSTRIAS,1421.2020,Meias de fibra sintética ou artificial
+OUTRAS INDÚSTRIAS,1421.2040,Meias-calças de algodão ou outras fibras têxteis naturais
+OUTRAS INDÚSTRIAS,1421.2050,Meias-calças de fibra sintética ou artificial
+OUTRAS INDÚSTRIAS,1510.2030,Couros e peles de bovinos curtidos ao cromo (wet blue / box call) ou secos (crust)
+OUTRAS INDÚSTRIAS,1510.2050,Couros e peles de bovinos e eqüídeos simplesmente curtidos ou recurtidos
+OUTRAS INDÚSTRIAS,1510.2060,Couros e peles de bovinos e eqüídeos apergaminhados ou preparados após curtimento ou secagem
+OUTRAS INDÚSTRIAS,1510.2070,"Couros e peles metalizados, envernizados ou revestidos"
+OUTRAS INDÚSTRIAS,1531.2010,"Calçados de couro (sapatos, botas, sandálias, chinelos, etc.), feminino - exceto tênis e para uso profissional"
+OUTRAS INDÚSTRIAS,1531.2020,"Calçados de couro (sapatos, botas, sandálias, chinelos, etc.), infantil exceto tênis"
+OUTRAS INDÚSTRIAS,1531.2030,"Calçados de couro (sapatos, botas, sandálias, chinelos, etc.), masculino exceto tênis e para uso profissional"
+OUTRAS INDÚSTRIAS,1532.2030,"Tênis de material sintético, montado"
+OUTRAS INDÚSTRIAS,1532.2040,Tênis de material têxtil
+OUTRAS INDÚSTRIAS,1533.2010,"Calçados de mat. sintético, montado (sapatos/botas/sandálias/chinelos, etc.), feminino exc. tênis ou para uso profissional"
+OUTRAS INDÚSTRIAS,1533.2020,"Calçados de material sintético, montado (sapatos, botas, sandálias, chinelos, etc.), infantil - exceto tênis"
+OUTRAS INDÚSTRIAS,1533.2030,"Calçados de matl. sintético, montado (sapatos, botas, sandálias, chinelos, etc.), masculino exc. tênis ou p/uso profissional"
+OUTRAS INDÚSTRIAS,1533.2060,"Calçado de plástico moldado, inclusive impermeáveis (sapatos, botas, sandálias, chinelos, etc.), feminino exceto tênis"
+OUTRAS INDÚSTRIAS,1533.2070,"Calçado de plástico moldado, inclusive impermeáveis (sapatos, botas, sandálias, chinelos, etc.), infantil exceto tênis"
+OUTRAS INDÚSTRIAS,1533.2080,"Calçado de plástico moldado, inclusive impermeáveis (sapatos, botas, sandálias, chinelos, etc.), masculino exceto tênis"
+OUTRAS INDÚSTRIAS,1539.2010,"Calçados de borracha, moldado, inclusive impermeáveis, exceto para uso profissional"
+OUTRAS INDÚSTRIAS,1540.2110,"Solas, solados e saltos de plástico para calçados"
+OUTRAS INDÚSTRIAS,1610.2030,Madeira em bruto tratada com creosoto ou outro agente de conservação
+OUTRAS INDÚSTRIAS,1610.2050,Madeira perfilada ou perfis de molduras de madeira
+OUTRAS INDÚSTRIAS,1610.2060,"Madeira serrada, aplainada ou polida"
+OUTRAS INDÚSTRIAS,1621.2010,"Folhas para folheados, laminas e folhas para compensados (contraplacados) ou para madeiras estratificadas semelhantes"
+OUTRAS INDÚSTRIAS,1621.2020,"Madeira compensada (contraplacada), madeira folheada e madeiras estratificadas semelhantes"
+OUTRAS INDÚSTRIAS,1621.2030,"Madeira densificada (MDF), em blocos, pranchas, lâminas ou perfis"
+OUTRAS INDÚSTRIAS,1621.2040,"Painéis de fibras de madeira, mesmo aglomeradas com resinas ou com outros aglutinantes"
+OUTRAS INDÚSTRIAS,1621.2050,"Painéis de partículas de madeira, mesmo aglomeradas com resinas ou com outros aglutinantes"
+OUTRAS INDÚSTRIAS,1622.2090,Portas e janelas de madeira
+OUTRAS INDÚSTRIAS,1623.2020,"Caixotes, caixas, engradados, barricas e embalagens semelhantes de madeira"
+OUTRAS INDÚSTRIAS,1623.2040,"Paletes simples, paletes-caixas e outros estrados para cargas"
+OUTRAS INDÚSTRIAS,1741.2060,Cadernos
+OUTRAS INDÚSTRIAS,1741.2110,"Etiquetas adesivas de papel, impressas"
+OUTRAS INDÚSTRIAS,1742.2010,Absorventes e tampões higiênicos
+OUTRAS INDÚSTRIAS,1742.2040,Fraldas descartáveis
+OUTRAS INDÚSTRIAS,1742.2060,Papel higiênico
+OUTRAS INDÚSTRIAS,1811.2030,Jornais impressos sob encomenda
+OUTRAS INDÚSTRIAS,1811.2160,"Revistas periódicas de consumo, impressas sob encomenda"
+OUTRAS INDÚSTRIAS,1811.7050,"Livros, brochuras ou impressos sob encomenda (infantís, literários, técnicos e profissionais, didáticos e paradidáticos)"
+OUTRAS INDÚSTRIAS,1812.2010,"Cartões magnéticos gravados, c/suporte de qualquer matl., incl. cartão telefônico, c/controle de adulteração"
+OUTRAS INDÚSTRIAS,1812.2020,"Impressos de segurança (cheques, cautelas, títulos ao portador, selos postais, fiscais, etc.), com controle de adulteração"
+OUTRAS INDÚSTRIAS,1812.2040,"Papel-moeda (cédulas), impressos sob encomenda, com controle de adulteração"
+OUTRAS INDÚSTRIAS,1813.2050,"Etiquetas e rótulos impressos em suporte de plástico ou de outro material, exceto papel"
+OUTRAS INDÚSTRIAS,1813.2070,"Impressos padronizados p/uso comercial (formulários em bloco/blocos de encomendas/recibos/apontamentos,eto não fiscais)"
+OUTRAS INDÚSTRIAS,1813.2090,"Impressos p/fins publicitários ou promocionais em filmes, lona vinílica, polipropileno, vinil adesivo, etc."
+OUTRAS INDÚSTRIAS,1813.2100,"Impressos para fins publicitários ou promocionais em papel ou suporte celulósico (catálogos, cartazes, folhetos...)(v.manual)"
+OUTRAS INDÚSTRIAS,1813.2120,"Impressos para uso industrial (capas de CD, DVD ou semelhantes, bulas, manuais de instrução, etc.)."
+OUTRAS INDÚSTRIAS,1813.2140,"Rótulos adesivos de papel, impressos"
+OUTRAS INDÚSTRIAS,1830.2010,Discos de vídeo (DVD) reproduzidos a partir de matrizes
+OUTRAS INDÚSTRIAS,1830.2020,Discos fonográficos reproduzidos a partir de matrizes
+OUTRAS INDÚSTRIAS,2121.2010,Medicamentos à base de acetato de tocoferol (vitamina E)
+OUTRAS INDÚSTRIAS,2121.2040,Medicamentos à base de ácido salicílico
+OUTRAS INDÚSTRIAS,2121.2050,Medicamentos à base de amoxicilina ou seus sais
+OUTRAS INDÚSTRIAS,2121.2070,Medicamentos à base de atenolol
+OUTRAS INDÚSTRIAS,2121.2080,Medicamentos à base de cafeína
+OUTRAS INDÚSTRIAS,2121.2090,Medicamentos à base de captopril
+OUTRAS INDÚSTRIAS,2121.2110,Medicamentos à base de cetoconazol
+OUTRAS INDÚSTRIAS,2121.2130,"Medicamentos à base de diclofenacos (de potássio, de sódio, de dietilamônio, inclusive na forma de resinato)"
+OUTRAS INDÚSTRIAS,2121.2140,Medicamentos à base de dipirona
+OUTRAS INDÚSTRIAS,2121.2160,Medicamentos à base de enzimas
+OUTRAS INDÚSTRIAS,2121.2180,Medicamentos à base de hormônios corticossupra-renais
+OUTRAS INDÚSTRIAS,2121.2200,Medicamentos à base de loratadina
+OUTRAS INDÚSTRIAS,2121.2220,Medicamentos à base de nimesulida
+OUTRAS INDÚSTRIAS,2121.2230,Medicamentos à base de paracetamol; bromoprida
+OUTRAS INDÚSTRIAS,2121.2260,"Medicam. à base de outr. antibióticos exc. à base de penicilinas/ceftriaxona/oxitetraciclina/,...(v.manual)"
+OUTRAS INDÚSTRIAS,2121.2270,"Medicamentos à base de outros hormônios, mas não contendo antibióticos nem insulina"
+OUTRAS INDÚSTRIAS,2121.2310,"Medicamentos fitoterápicos, n.e."
+OUTRAS INDÚSTRIAS,2121.2320,"Medicamentos à base de ácidos nucléicos, seus sais ou outros heterocíclicos, exceto cetoconazol"
+OUTRAS INDÚSTRIAS,2121.2330,Medicamentos à base de compostos das funções carboxiamida e amida do ácido carbônico exceto atenolol
+OUTRAS INDÚSTRIAS,2121.2340,"Medicam. à base de compostos heterocíclicos excl. de heteroátomos de nitrogênio exc. dipirona, captopril e loratadina"
+OUTRAS INDÚSTRIAS,2121.2350,"Medicamentos à base de vitaminas, exceto vitamina A, vitamina C (ácido ascórbico) e vitamina E (tocoferol)"
+OUTRAS INDÚSTRIAS,2121.2360,"Medicamentos à base de outros alcalóides ou seus derivados, exceto cafeína"
+OUTRAS INDÚSTRIAS,2121.2370,"Medicamentos à base de sulfonamidas, exceto nimesulida"
+OUTRAS INDÚSTRIAS,2121.2380,"Medicamentos ou preparações com propriedades anti-sépticas, desinfetantes, bactericidas, etc, para uso humano"
+OUTRAS INDÚSTRIAS,2121.2390,Preparações químicas contraceptivas à base de hormônios ou de espermicidas
+OUTRAS INDÚSTRIAS,2121.2395,Soluções parenterais (soro fisiológico e outras)
+OUTRAS INDÚSTRIAS,2121.2400,"Soros(anti-soros),outr.frações do sangue e prods.imunológ. modif.,p/uso humano (antiofídicos/antitetânicos/antidiftéricos...)"
+OUTRAS INDÚSTRIAS,2122.2130,Medicam. à base de outr. antibióticos exc. à base de penicilinas/ceftriaxona/oxitetraciclina/...(uso veterinário)(v.manual)
+OUTRAS INDÚSTRIAS,2122.2270,Vacinas para medicina veterinária
+OUTRAS INDÚSTRIAS,2123.2040,"Curativos adesivos e outros artigos com uma camada adesiva, impregnados ou recobertos de substâncias farmacêuticas"
+OUTRAS INDÚSTRIAS,2123.2070,Esparadrapos para uso medicinal
+OUTRAS INDÚSTRIAS,2123.7020,Algodão hidrófilo impregnado ou não com qualquer substância
+OUTRAS INDÚSTRIAS,2123.7090,"Gazes, ataduras e artigos semelhantes, impregnados ou não impregnados ou recobertos de substâncias farmacêuticas"
+OUTRAS INDÚSTRIAS,2211.2080,"Pneumáticos novos de borracha, usados em automóveis, camionetas ou utilitários"
+OUTRAS INDÚSTRIAS,2211.2110,"Pneumáticos novos de borracha, usados em máquinas ou outros usos"
+OUTRAS INDÚSTRIAS,2211.2120,"Pneumáticos novos de borracha, usados em motocicletas"
+OUTRAS INDÚSTRIAS,2211.2130,"Pneumáticos novos de borracha, usados em ônibus e caminhões"
+OUTRAS INDÚSTRIAS,2211.2140,"Protetores, bandas de rodagem amovíveis para pneumáticos (camelbacks) e flaps de borracha"
+OUTRAS INDÚSTRIAS,2212.2010,"Pneumáticos recauchutados, recondicionados, remoldados ou recapados"
+OUTRAS INDÚSTRIAS,2219.2050,"Borracha misturada, não vulcanizada, em formas primárias ou em chapas, folhas ou tiras"
+OUTRAS INDÚSTRIAS,2219.2080,"Blocos, chapas, folhas e tiras de borracha vulcanizada não endurecida"
+OUTRAS INDÚSTRIAS,2219.2100,Correias de transmissão de borracha vulcanizada
+OUTRAS INDÚSTRIAS,2219.2110,"Correias transportadoras de borracha vulcanizada, reforçadas com metal, plástico ou outro material"
+OUTRAS INDÚSTRIAS,2219.2130,"Juntas, gaxetas e semelhantes de borracha vulcanizada não endurecida (para veículos, máquinas, etc.)"
+OUTRAS INDÚSTRIAS,2219.2150,"Peças e acessórios de borracha vulcanizada não endurecida, para veículos"
+OUTRAS INDÚSTRIAS,2219.2210,"Tubos, canos e mangueiras de borracha vulcaniz.não endur.,reforç.c/matérias têxteis,c/ou sem acessórios,incl.mang.p/veículos"
+OUTRAS INDÚSTRIAS,2219.2230,"Tubos,canos e mangueiras de borracha vulcanizada não endurecida,não reforçados, c/ou s/acessórios, incl.mangueiras p/veículos"
+OUTRAS INDÚSTRIAS,2221.2010,"Chapas, folhas e outras formas planas auto-adesivas de plásticos, n.e."
+OUTRAS INDÚSTRIAS,2221.2020,"Chapas,folhas,pelíc.,tiras,lâm.de plást.,alveolares,não reforç.(mat.plást.expand.micropor.,esponj.,micro-alveol.,tipo isopor)"
+OUTRAS INDÚSTRIAS,2221.2030,"Chapas, folhas, tiras e lâminas de plásticos, alveolares ou não, reforçadas, estratificadas, com ou sem suporte"
+OUTRAS INDÚSTRIAS,2221.2040,"Chapas, folhas, tiras ou fitas de plásticos, não-alveolares, não reforçadas nem estratificadas, sem suporte"
+OUTRAS INDÚSTRIAS,2221.2050,Espumas de poliuretano
+OUTRAS INDÚSTRIAS,2221.2080,"Películas auto-adesivas de plásticos, mesmo em rolos"
+OUTRAS INDÚSTRIAS,2221.2100,Tripas artificiais de proteína endurecida ou de plásticos celulósicos
+OUTRAS INDÚSTRIAS,2221.5060,"Filmes de material plástico (inclusive BOPP) para embalagem, inclusive em bobinas ou rolos"
+OUTRAS INDÚSTRIAS,2222.2040,"Caixas, caixotes engradados e artigos semelhantes de plástico, para embalagens"
+OUTRAS INDÚSTRIAS,2222.2060,Cartuchos de plástico para embalagens
+OUTRAS INDÚSTRIAS,2222.2130,"Pré-formas (esboços) de garrafas plásticas, inclusive de garrafas PET"
+OUTRAS INDÚSTRIAS,2222.2140,"Garrafas, garrafões, frascos e artigos semelhantes de plástico"
+OUTRAS INDÚSTRIAS,2222.2150,"Rolhas, tampas, cápsulas e outros dispositivos de plástico para fechar recipientes"
+OUTRAS INDÚSTRIAS,2222.7070,"Embalagens de plástico para produtos alimentícios ou bebidas (bisnagas, copos e semelhantes)"
+OUTRAS INDÚSTRIAS,2222.7170,"Sacos, sacolas e bolsas de plástico de qualquer dimensão, para embalagem ou transporte, inclusive em bobinas"
+OUTRAS INDÚSTRIAS,2223.2010,"Conexões, juntas, cotovelos, flanges e outros acessórios de plásticos para tubos, reforçados ou não"
+OUTRAS INDÚSTRIAS,2223.2020,"Tubos ou canos de plásticos, não reforçados, com ou sem acessórios, para construção civil"
+OUTRAS INDÚSTRIAS,2223.2030,"Tubos ou canos de plásticos, reforçados, com ou sem acessórios, para construção civil"
+OUTRAS INDÚSTRIAS,2223.2040,"Tubos ou canos flexíveis de plásticos (eletrodutos), para construção civil"
+OUTRAS INDÚSTRIAS,2229.2030,Artigos de plástico para uso doméstico
+OUTRAS INDÚSTRIAS,2229.2070,"Artigos descartáveis de plástico (copos, pratos, talheres e semelhantes)"
+OUTRAS INDÚSTRIAS,2229.2130,Cantoneiras e similares de plástico
+OUTRAS INDÚSTRIAS,2229.2240,"Peças e acessórios de plástico, reforçados ou não, para a indústria eletroeletrônica"
+OUTRAS INDÚSTRIAS,2229.2280,"Peças e acessórios de plástico, reforçados ou não, para veículos automotores, motocicletas, bicicletas e similares"
+OUTRAS INDÚSTRIAS,2229.2330,"Reservatórios, caixas-d água (caixas de água), cisternas, piscinas e artefatos semelhantes, de plástico"
+OUTRAS INDÚSTRIAS,2229.2350,"Tubos e tubetes flexíveis de plásticos, exceto para construção civil"
+OUTRAS INDÚSTRIAS,2311.2010,"Vidro flotado e vidro desbastado ou polido, com camada refletora ou não, em chapas ou folhas (refletivo, espelhado)"
+OUTRAS INDÚSTRIAS,2311.2030,"Vidros de segurança laminados ou temperados para veículos automotores, aeronaves e outros"
+OUTRAS INDÚSTRIAS,2311.2040,"Vidros de segurança laminados ou temperados, exceto para veículos"
+OUTRAS INDÚSTRIAS,2312.2030,"Garrafas, garrafões e frascos de vidro para embalagem"
+OUTRAS INDÚSTRIAS,2319.2110,"Copos de vidro, exceto cristal"
+OUTRAS INDÚSTRIAS,2330.2010,Argamassas ou outros aglomerantes não refratários
+OUTRAS INDÚSTRIAS,2330.2020,"Artigos de fibrocimento, cimento-celulose ou semelhantes, n.e., contendo amianto"
+OUTRAS INDÚSTRIAS,2330.2040,Blocos e tijolos para construção de cimento ou concreto
+OUTRAS INDÚSTRIAS,2330.2050,"Canos, tubos, manilhas e outros artefatos n.e., de cimento ou concreto"
+OUTRAS INDÚSTRIAS,2330.2060,"Chapas,painéis,ladrilhos,telhas,canos,tubos,outr.artefatos de ibrocimento,cimento-celulose ou semelh.não contendo amianto"
+OUTRAS INDÚSTRIAS,2330.2090,"Elementos pré-fabricados para construção civil de cimento ou concreto (estacas, postes, caixas de água, etc.)"
+OUTRAS INDÚSTRIAS,2330.2100,Massa de concreto preparada para construção; concreto usinado
+OUTRAS INDÚSTRIAS,2392.2030,Cal virgem (cal viva)
+OUTRAS INDÚSTRIAS,2399.2010,"Abrasivos naturais ou artificiais, em pó ou em grãos, aplicados sobre qualquer material"
+OUTRAS INDÚSTRIAS,2399.2070,"Caulim beneficiado, não associado à extração"
+OUTRAS INDÚSTRIAS,2399.2140,"Guarnições de fricção discos,anéis,pastilhas),não montadas,à base de subst.minerais,mesmo combinadas, não contendo amianto"
+OUTRAS INDÚSTRIAS,2399.2170,Misturas betuminosas fabricadas com asfalto ou betumes
+OUTRAS INDÚSTRIAS,2399.2190,"Mós, rebolos e artefatos semelhantes, para moer, desfibrar, triturar, amolar, retificar ou cortar"
+OUTRAS INDÚSTRIAS,2640.2180,Televisores (receptores de televisão)
+OUTRAS INDÚSTRIAS,2610.2040,Cartões inteligentes smart cards (cartões incorporando um circuito integrado eletrônico)
+OUTRAS INDÚSTRIAS,2610.2155,"Placas de circuito impresso montadas, para informática"
+OUTRAS INDÚSTRIAS,2621.2010,Computadores pessoais de mesa (PC desktops)
+OUTRAS INDÚSTRIAS,2621.2025,"Computadores pessoais portáteis (laptops, notebooks, handhelds, tablets e sememlhantes)"
+OUTRAS INDÚSTRIAS,2621.2030,"Máquinas automáticas digitais para processamento de dados, inclusive apresentadas sob a forma de sistemas"
+OUTRAS INDÚSTRIAS,2622.2020,"Impressoras, exceto multifuncionais"
+OUTRAS INDÚSTRIAS,2622.2030,Impressoras ou outros equipamentos de informática multifuncionais
+OUTRAS INDÚSTRIAS,2622.2050,Monitores de vídeo e projetores para computadores
+OUTRAS INDÚSTRIAS,2622.2065,Peças e acessórios para máquinas para processamento de dados e suas unidades periféricas
+OUTRAS INDÚSTRIAS,2631.2020,"Aparelhos de comutação para telefonia ou telegrafia (centrais automáticas, roteadores, etc.)"
+OUTRAS INDÚSTRIAS,2631.2125,Partes e peças de outros tipos para aparelhos transmissores de comunicação
+OUTRAS INDÚSTRIAS,2631.2180,Transmissores ou receptores de telefonia celular
+OUTRAS INDÚSTRIAS,2632.2060,Telefones celulares
+OUTRAS INDÚSTRIAS,2640.2020,"Antenas e refletores de antenas de qualquer tipo (inclusive partes), exceto para telefones celulares"
+OUTRAS INDÚSTRIAS,2640.2060,"Gravador ou reprodutor de sinais de áudio e vídeo (DVD, home theater integrado e semelhantes)"
+OUTRAS INDÚSTRIAS,2640.2140,Receptor-decodificador de sinais de vídeo codificados
+OUTRAS INDÚSTRIAS,2640.2150,"Rádios (receptores de rádio) para veículos automotores, mesmo combinados com aparelhos de gravação ou reprodução de som"
+OUTRAS INDÚSTRIAS,2640.2160,"Rádios (receptores de rádio), mesmo combinados com aparelhos de gravação ou reprodução de som, relógio, etc.; micro- system"
+OUTRAS INDÚSTRIAS,2651.2090,"Contadores de líquidos, inclusive hidrômetros"
+OUTRAS INDÚSTRIAS,2651.2150,Indicadores de velocidade e tacômetros; estroboscópios
+OUTRAS INDÚSTRIAS,2651.2350,Medidores de consumo de eletricidade
+OUTRAS INDÚSTRIAS,2651.2550,Termostatos automáticos
+OUTRAS INDÚSTRIAS,2651.2560,Unidades centrais para supervisão e controle de automação industrial/Confirmado vide OBS
+OUTRAS INDÚSTRIAS,2652.2060,Relógios de pulso ou de bolso
+OUTRAS INDÚSTRIAS,2670.2040,"Câmeras ou máquinas fotográficas, inclusive digitais"
+OUTRAS INDÚSTRIAS,2710.2020,"Conversores estáticos elétricos ou eletrônicos (carregadores de acumuladores, retificadores de corrente, etc.)"
+OUTRAS INDÚSTRIAS,2710.2040,Equipamentos de alimentação ininterrupta de energia (no break)
+OUTRAS INDÚSTRIAS,2710.2050,Geradores de corrente alternada (alternadores)
+OUTRAS INDÚSTRIAS,2710.2060,Geradores de corrente contínua de outros tipos
+OUTRAS INDÚSTRIAS,2710.2070,Grupos eletrogêneos
+OUTRAS INDÚSTRIAS,2710.2120,Partes e peças para geradores
+OUTRAS INDÚSTRIAS,2710.2150,Partes ou peças para transformadores
+OUTRAS INDÚSTRIAS,2710.2160,Transformadores de dielétrico líqüido
+OUTRAS INDÚSTRIAS,2710.2170,"Transformadores, exceto de dielétrico líqüido"
+OUTRAS INDÚSTRIAS,2710.7080,Motores elétricos de corrente alternada ou de corrente contínua
+OUTRAS INDÚSTRIAS,2721.2010,"Baterias e acumuladores elétricos, exceto para veículos"
+OUTRAS INDÚSTRIAS,2721.2030,"Pilhas e baterias de pilhas, elétricas, de volume menor ou igual 300cm3, exceto para veículos"
+OUTRAS INDÚSTRIAS,2722.2010,Baterias ou acumuladores elétricos para veículos
+OUTRAS INDÚSTRIAS,2731.2020,"Disjuntores, fusíveis ou corta-circuito de fusíveis para tensão superior a 1kv"
+OUTRAS INDÚSTRIAS,2731.2080,Seccionadores ou interruptores para tensão superior a 1kv
+OUTRAS INDÚSTRIAS,2731.7050,"Quadros, painéis, cabines e outr. suportes, equipados c/aparelhos elétr. de interrupção ou proteção, p/qualquer tensão"
+OUTRAS INDÚSTRIAS,2732.2050,Disjuntores para tensão menor ou igual a 1kv
+OUTRAS INDÚSTRIAS,2732.2070,"Interruptores, seccionadores e comutadores para tensão menor ou igual a 1kv"
+OUTRAS INDÚSTRIAS,2733.2010,Cabos coaxiais e outros condutores elétricos coaxiais
+OUTRAS INDÚSTRIAS,2733.2020,"Cabos de fibras ópticas constituídos por fibras embainhadas individualmente, para transmissão de informações"
+OUTRAS INDÚSTRIAS,2733.2030,"Chicotes elétricos para transmissão de energia, exceto para veículos"
+OUTRAS INDÚSTRIAS,2733.2050,"Fios, cabos e condutores elétricos com capa isolante, para tensão menor ou igual a 1000v"
+OUTRAS INDÚSTRIAS,2733.2060,"Fios, cabos e condutores elétricos com capa isolante, para tensão superior a 1000v"
+OUTRAS INDÚSTRIAS,2733.2080,"Fios, cabos ou condutores de cobre, isolados, para bobinar"
+OUTRAS INDÚSTRIAS,2740.2050,"Lâmpadas e tubos incandescentes de halógenos, de tungstênio e de outros tipos exceto ultravioleta e infravermelho"
+OUTRAS INDÚSTRIAS,2740.2060,Lâmpadas fluorescentes
+OUTRAS INDÚSTRIAS,2740.2110,"Lustres, luminárias, abajures e outros aparelhos de iluminação elétrica"
+OUTRAS INDÚSTRIAS,2740.2150,Reatores para lâmpadas ou tubos de descarga
+OUTRAS INDÚSTRIAS,2751.2010,"Fogões de cozinha, para uso doméstico"
+OUTRAS INDÚSTRIAS,2751.2020,Fornos de microondas
+OUTRAS INDÚSTRIAS,2751.2030,Máquinas de lavar ou secar roupa para uso doméstico
+OUTRAS INDÚSTRIAS,2751.2090,Partes e peças para refrigeradores ou congeladores (freezers) para uso doméstico
+OUTRAS INDÚSTRIAS,2751.2100,"Refrigeradores ou congeladores (freezers), inclusive combinados, para uso doméstico"
+OUTRAS INDÚSTRIAS,2759.2070,"Chuveiros e duchas completas, elétricos"
+OUTRAS INDÚSTRIAS,2759.2110,Ferros elétricos de passar
+OUTRAS INDÚSTRIAS,2759.2240,Ventiladores ou circuladores para uso doméstico
+OUTRAS INDÚSTRIAS,2759.7020,"Eletro-portáteis domésticos (aspirador de pó, enceradeira, liquidificador, espremedor de frutas, batedeira e semelhantes)"
+OUTRAS INDÚSTRIAS,2790.2030,"Aparelhos elétricos de alarme, para proteção contra roubo ou incêndio e aparelhos semelhantes"
+OUTRAS INDÚSTRIAS,2790.2090,"Eletrodos, escovas e outros artigos de carvão ou grafita para usos elétricos"
+OUTRAS INDÚSTRIAS,2811.2020,Motores diesel e semi-diesel para tratores
+OUTRAS INDÚSTRIAS,2811.2080,Partes ou peças de motores a explosão ou de motores estacionários diesel ou s/idiesel p/máquinas ou equipamentos industriais
+OUTRAS INDÚSTRIAS,2811.2110,Partes e peças para turbinas e rodas hidráulicas
+OUTRAS INDÚSTRIAS,2811.2140,Turbinas e rodas hidráulicas
+OUTRAS INDÚSTRIAS,2812.2010,"Bombas centrífugas, n.e., inclusive eletrobombas"
+OUTRAS INDÚSTRIAS,2812.2030,"Bombas para líqüidos, combustíveis e lubrificantes, n.e., inclusive bombas para concreto"
+OUTRAS INDÚSTRIAS,2812.2050,Bombas volumétricas rotativas
+OUTRAS INDÚSTRIAS,2812.2070,"Motores hidráulicos, inclusive de movimento retilíneo"
+OUTRAS INDÚSTRIAS,2812.2080,"Motores pneumáticos, inclusive de movimento retilíneo (cilindros)"
+OUTRAS INDÚSTRIAS,2812.2100,"Partes e peças para bombas para líqüidos, combustíveis e lubrificantes"
+OUTRAS INDÚSTRIAS,2813.2010,"Partes e peças para válvulas, torneiras e registros"
+OUTRAS INDÚSTRIAS,2813.7020,"Válvulas, torneiras e registros, inclusive hidráulicos e pneumáticas"
+OUTRAS INDÚSTRIAS,2814.2010,Compressores usados em aparelhos de refrigeração comerciais ou domésticos
+OUTRAS INDÚSTRIAS,2814.2030,"Compressores de ar, de lóbulos paralelos (roots), de parafuso, estacionários, de pistão e outros n.e."
+OUTRAS INDÚSTRIAS,2814.2040,"Compressores de gases, do tipo: de pistão, de parafuso, centrífugos, ou outros n.e."
+OUTRAS INDÚSTRIAS,2814.2060,Turboalimentadores (turbocompressores) de ar para motor a explosão ou diesel
+OUTRAS INDÚSTRIAS,2815.2010,Caixas de transmissão e redutores e variadores de velocidade para equipamentos industriais
+OUTRAS INDÚSTRIAS,2815.2040,"Engrenagens ou rodas de fricção, eixos de esferas ou roletes para equipamentos industriais"
+OUTRAS INDÚSTRIAS,2815.2080,"Rolamentos de esferas, agulhas, cilindros ou roletes inclusive cônicos, para equipamentos industriais"
+OUTRAS INDÚSTRIAS,2815.2090,"Virabrequins, eixos e mancais para máquinas industriais"
+OUTRAS INDÚSTRIAS,2821.2060,Fornos industriais elétricos e aparelhos semelhantes
+OUTRAS INDÚSTRIAS,2821.2070,"Fornos industriais não-elétricos, exceto para padarias"
+OUTRAS INDÚSTRIAS,2822.2010,"Aparelhos elevadores ou transportadores, de ação contínua, pneumáticos e outros, para mercadorias"
+OUTRAS INDÚSTRIAS,2822.2040,"Guindastes, pontes e vigas rolantes, pórticos, pontes-guindastes e carros-pórticos"
+OUTRAS INDÚSTRIAS,2822.2060,Elevadores para o transporte de pessoas
+OUTRAS INDÚSTRIAS,2822.2070,Empilhadeiras propulsoras
+OUTRAS INDÚSTRIAS,2822.2150,Partes e peças para elevadores
+OUTRAS INDÚSTRIAS,2822.2200,"Talhas, cadernais e moitões; guinchos e cabrestantes"
+OUTRAS INDÚSTRIAS,2823.2020,Congeladores (freezers) para usos industrial e comercial
+OUTRAS INDÚSTRIAS,2823.2030,"Equipamentos para refrigeração ou para ar condicionado, com capacidade não superior a 30000f/h"
+OUTRAS INDÚSTRIAS,2823.2080,"Partes e peças para refrigeradores, congeladores e semelhantes para uso industrial e comercial"
+OUTRAS INDÚSTRIAS,2823.2110,"Refrigeradores, vitrinas, câmaras frigoríficas e semelhantes para produção de frio para usos industrial e comercial"
+OUTRAS INDÚSTRIAS,2823.2150,Ventiladores e coifas (exaustores) para uso industrial
+OUTRAS INDÚSTRIAS,2824.2010,"Aparelhos de ar condicionado de paredes, de janelas ou transportáveis, inclusive os do tipo split system"
+OUTRAS INDÚSTRIAS,2824.2020,Aparelhos de ar condicionado para veículos
+OUTRAS INDÚSTRIAS,2824.2030,Aparelhos ou equipamentos de ar condicionado para uso central
+OUTRAS INDÚSTRIAS,2824.2040,Partes e peças para aparelhos de ar condicionado
+OUTRAS INDÚSTRIAS,2829.2020,"Aparelhos para destilação ou retificação (de água, álcoois, etc.)"
+OUTRAS INDÚSTRIAS,2829.2030,Aparelhos para filtrar ou depurar líqüidos; aparelhos para filtrar óleos minerais nos motores de combustão interna
+OUTRAS INDÚSTRIAS,2829.2070,"Balanças para pesagem, dosagem ou contagem"
+OUTRAS INDÚSTRIAS,2829.2140,Extintores de incêndio
+OUTRAS INDÚSTRIAS,2829.2160,Filtros eletrostáticos e outros aparelhos para filtrar ou depurar gases
+OUTRAS INDÚSTRIAS,2829.2190,"Juntas metaloplásticas, juntas de vedação mecânicas e outras, inclusive selos mecânicos"
+OUTRAS INDÚSTRIAS,2829.2250,"Máquinas de limpeza ou polimento por jato de água, areia, esferas de vidro, granalha de aço"
+OUTRAS INDÚSTRIAS,2829.2290,"Máquinas para encher, fechar, embalar"
+OUTRAS INDÚSTRIAS,2829.2480,Terminais comerciais de auto-atendimento; máquinas de distribuir ou de trocar dinheiro
+OUTRAS INDÚSTRIAS,2829.2510,"Trocadores (permutadores, intercambiadores) de calor"
+OUTRAS INDÚSTRIAS,2831.2020,Peças e acessórios para tratores agrícolas
+OUTRAS INDÚSTRIAS,2831.2030,"Tratores agrícolas, inclusive motocultores"
+OUTRAS INDÚSTRIAS,2832.2010,"Máquinas e aparelhos para irrigação para uso agrícola, inclusive sistemas de irrigação"
+OUTRAS INDÚSTRIAS,2833.2010,Arados e charruas
+OUTRAS INDÚSTRIAS,2833.2060,Máquinas e aparelhos para projetar ou pulverizar para uso agrícola
+OUTRAS INDÚSTRIAS,2833.2090,"Máquinas para limpeza, seleção, etc., de grãos"
+OUTRAS INDÚSTRIAS,2833.2130,"Máquinas ou aparelhos para avicultura, n.e."
+OUTRAS INDÚSTRIAS,2833.2160,"Partes e peças para máquinas e aparelhos para agricultura e pecuária, n.e."
+OUTRAS INDÚSTRIAS,2833.2170,"Partes e peças para máquinas para colheita, debulha, etc."
+OUTRAS INDÚSTRIAS,2833.2190,"Partes e peças para semeadores, adubadores, arados e outras máquinas agrícolas para preparar o solo"
+OUTRAS INDÚSTRIAS,2833.2200,"Reboques e semi-reboques autocarregáveis, etc., para uso agrícola"
+OUTRAS INDÚSTRIAS,2833.2210,"Semeadores, plantadeiras ou adubadores"
+OUTRAS INDÚSTRIAS,2833.6140,Máquinas para colheita
+OUTRAS INDÚSTRIAS,2840.2010,Centros de usinagem para trabalhar metais
+OUTRAS INDÚSTRIAS,2840.2030,"Ferramentas hidráulicas de motor não-elétrico, de uso manual (serras de corrente, máquinas pneumáticas)"
+OUTRAS INDÚSTRIAS,2840.2200,Máquinas-ferramenta para trabalhar madeira e cortiça
+OUTRAS INDÚSTRIAS,2840.2240,"Máquinas para solda elétrica ou por outros processos (reação exotérmica, arco ou plasma), inclusive robôs para soldar"
+OUTRAS INDÚSTRIAS,2840.2270,"Máquinas portáteis para furar, serrar, cortar ou aparafusar, inclusive ferramentas elétricas manuais"
+OUTRAS INDÚSTRIAS,2840.2310,"Partes e peças para serras de corrente, de uso manual"
+OUTRAS INDÚSTRIAS,2840.2320,"Partes, peças e acessórios para máquinas-ferramenta para trabalhar metais"
+OUTRAS INDÚSTRIAS,2840.2370,Tornos
+OUTRAS INDÚSTRIAS,2851.2010,Brocas para perfuração ou sondagem para poços de petróleo e gás
+OUTRAS INDÚSTRIAS,2851.2030,"Peças ou acessórios para máquinas para perfuração ou sondagem, usadas na prospecção de petróleo"
+OUTRAS INDÚSTRIAS,2852.2020,"Máquinas e equipamentos para selecionar, peneirar, lavar, etc., substâncias minerais sólidas"
+OUTRAS INDÚSTRIAS,2852.2080,"Partes e peças para máquinas ou aparelhos para selecionar, etc., substâncias minerais sólidas"
+OUTRAS INDÚSTRIAS,2853.2010,"Peças e acessórios para tratores, exceto agrícolas"
+OUTRAS INDÚSTRIAS,2853.2020,"Tratores, exceto agrícolas"
+OUTRAS INDÚSTRIAS,2854.2030,Bulldozers e angledozers
+OUTRAS INDÚSTRIAS,2854.2040,Carregadoras-transportadoras
+OUTRAS INDÚSTRIAS,2854.2050,"Compactadores e rolos ou cilindros compressores, autopropulsores"
+OUTRAS INDÚSTRIAS,2854.2060,Dumpers para utilização fora das rodovias
+OUTRAS INDÚSTRIAS,2854.2070,Escavadeiras
+OUTRAS INDÚSTRIAS,2854.2110,Motoniveladores
+OUTRAS INDÚSTRIAS,2854.2160,Partes e peças para máquinas e aparelhos de terraplenagem
+OUTRAS INDÚSTRIAS,2854.2170,Retroescavadeiras
+OUTRAS INDÚSTRIAS,2861.2010,Cilindros de laminadores
+OUTRAS INDÚSTRIAS,2862.2050,Máquinas para extração ou preparação de óleo ou gordura animal ou vegetal
+OUTRAS INDÚSTRIAS,2862.2070,Máquinas para indústria cervejeira
+OUTRAS INDÚSTRIAS,2862.2080,Máquinas para indústria de açúcar
+OUTRAS INDÚSTRIAS,2862.2100,"Máquinas para indústria de panificação, pastelaria, etc."
+OUTRAS INDÚSTRIAS,2862.2120,"Moedores, amaciadores e outras máquinas para preparar carnes, para uso industrial e comercial"
+OUTRAS INDÚSTRIAS,2862.2130,Máquinas para tratamento do leite
+OUTRAS INDÚSTRIAS,2862.2220,Secadores para produtos agrícolas
+OUTRAS INDÚSTRIAS,2864.2010,Máquinas de costura de uso doméstico
+OUTRAS INDÚSTRIAS,2865.2010,"Máquinas para fabricação e acabamento de papel ou papel- cartão (para bobinar, impregnar, ondular, etc.)"
+OUTRAS INDÚSTRIAS,2865.2020,"Máquinas para trabalhar matéria-prima, para fabricar pasta de celulose (classificadoras, depuradoras, refinadoras, etc.)"
+OUTRAS INDÚSTRIAS,2866.7020,Máquinas e aparelhos para trabalhar ou fabricar produtos de material plástico
+OUTRAS INDÚSTRIAS,2869.2270,"Silos metálicos para cereais, fixos, incluindo as baterias, com mecanismos elevadores ou extratores incorporados"
+OUTRAS INDÚSTRIAS,2910.2090,"Motores de explosão e combustão interna para veículos automotores, de qualquer cilindrada exceto motores diesel"
+OUTRAS INDÚSTRIAS,2910.2130,"Veículos p/o transporte de mercadorias.,incl.CK (completely knocked down),c/motor gasol.e/ou álcool,cmc <= 5 t"
+OUTRAS INDÚSTRIAS,2910.2140,"Veículos p/o transporte de mercadorias.,incl.CKD (completely knocked down),c/moto diesel,cmc <= 5t"
+OUTRAS INDÚSTRIAS,2910.7010,"Automóveis, jipes, camionetas, incl.CKD (completely knocked down),p/passageiros,c/motor álcool, gasol.ou bicomb.qq cilindrada"
+OUTRAS INDÚSTRIAS,2910.7050,"Automóveis, jipes, camionetas, incl.CKD (completely knocked down), p/passageiros,c/motor diesel.qq cilindrada"
+OUTRAS INDÚSTRIAS,2920.2010,"Caminhão-trator, inclusive CKD (completely knocked down), para reboques e semi-reboques"
+OUTRAS INDÚSTRIAS,2920.2050,"Caminhões, com motor diesel, de capacidade máxima de carga (cmc) superior a 5 t, inclusive CKD (completely knocked down)"
+OUTRAS INDÚSTRIAS,2920.2090,Motores diesel e semi-diesel para ônibus e caminhões
+OUTRAS INDÚSTRIAS,2920.2100,"Ônibus, inclusive CKD (completely knocked down)"
+OUTRAS INDÚSTRIAS,2920.7070,Chassis com motor para ônibus ou para caminhões (cavalo mecânico)
+OUTRAS INDÚSTRIAS,2930.2040,"Carrocerias para caminhões, inclusive as cabines"
+OUTRAS INDÚSTRIAS,2930.2050,Carrocerias para ônibus
+OUTRAS INDÚSTRIAS,2930.7090,"Reboques e semi-reboques exceto ""trailer"
+OUTRAS INDÚSTRIAS,2941.2010,"Bombas injetoras, de qualquer tipo, para veículos automotores, inclusive partes"
+OUTRAS INDÚSTRIAS,2941.2020,Embreagens ou suas partes para veículos automotores
+OUTRAS INDÚSTRIAS,2941.2030,"Filtros de ar, de óleo ou de combustível para motores de veículos automotores"
+OUTRAS INDÚSTRIAS,2941.2040,"Peças ou acess.,p/sistema de motor de veíc.automot.(blocos de cilindro,virabrequins,carburadores,válvulas,polias,juntas,etc.)"
+OUTRAS INDÚSTRIAS,2941.2050,Radiadores ou suas partes para veículos automotores
+OUTRAS INDÚSTRIAS,2942.2010,"Caixas de marcha (velocidade) e suas partes, para veículos automotores"
+OUTRAS INDÚSTRIAS,2942.2030,"Eixos, semi-eixos, engrenagens, mancais, juntas de articulação ou outras peças para transmissão para veículos automotores"
+OUTRAS INDÚSTRIAS,2942.2040,"Peças ou acessórios para os sistemas de marcha ou transmissão, n.e., para veículos automotores"
+OUTRAS INDÚSTRIAS,2943.2010,Freios (travões) e servo-freios para veículos automotores
+OUTRAS INDÚSTRIAS,2943.2020,"Peças e acessórios para o sistema de freios (pratos, tambores. cilindros, etc.) para veículos automotores"
+OUTRAS INDÚSTRIAS,2944.2010,"Sistemas de suspensão e suas partes, inclusive os amortecedores de suspensão para veículos automotores"
+OUTRAS INDÚSTRIAS,2944.2020,"Eixos, exceto de transmissão ou suas partes (terceiro eixo, truck) para veículos automotores"
+OUTRAS INDÚSTRIAS,2944.2030,"Molas e folhas de molas de ferro e aço, de qualquer espécie, para veículos automotores"
+OUTRAS INDÚSTRIAS,2944.2040,"Peças ou acessórios para o sistema de direção ou suspensão, n.e., para veículos automotores"
+OUTRAS INDÚSTRIAS,2944.2050,"Volantes, barras ou caixas de direção para veículos automotores"
+OUTRAS INDÚSTRIAS,2945.2030,"Componentes elétricos de ignição para motores a explosão ou diesel e suas partes (chaves, velas, bobinas, alternadores, etc.)"
+OUTRAS INDÚSTRIAS,2945.2050,Faróis ou outros aparelhos para iluminação e sinalização visual para veículos automotores
+OUTRAS INDÚSTRIAS,2945.2080,Jogos de fios para velas de ignição e outros chicotes elétricos para veículos automotores
+OUTRAS INDÚSTRIAS,2949.2020,Bancos de metal para veículos automotores
+OUTRAS INDÚSTRIAS,2949.2060,Cintos de segurança para veículos automotores
+OUTRAS INDÚSTRIAS,2949.2090,Painéis ou quadros (incompletos) para instrumentos dos veículos automotores
+OUTRAS INDÚSTRIAS,2949.2125,"Partes ou peças, inclusive modulares, de qualquer material para bancos de veículos automotores"
+OUTRAS INDÚSTRIAS,2949.2150,"Rodas, suas partes ou acessórios (discos, raios, calotas, etc.) para veículos automotores"
+OUTRAS INDÚSTRIAS,2949.2160,Silenciosos ou tubos de escape e suas partes para veículos automotores
+OUTRAS INDÚSTRIAS,3011.2140,Rebocadores e outros barcos para empurrar embarcações
+OUTRAS INDÚSTRIAS,3011.5070,"Fabricação de embarcações p/transp.,incl.petroleiro;embarc.apoioà expl.petróleo; plataformas, flutuantes/submersíveis"
+OUTRAS INDÚSTRIAS,3031.2030,"Vagões para transporte de mercadorias (tanques, fechados, abertos, de descarga automática, isotérmicos, refrigerados, etc.)"
+OUTRAS INDÚSTRIAS,3031.2040,"Vagões de passageiros, vagões-postais, furgões para bagagem e outros vagões especiais"
+OUTRAS INDÚSTRIAS,3032.2020,Freios e suas partes para veículos ferroviários
+OUTRAS INDÚSTRIAS,3032.2040,"Partes e peças para veículos ferroviários e semelhantes, exceto freios e suas partes"
+OUTRAS INDÚSTRIAS,3041.7020,Aviões ou outros veículos aéreos de peso superior a 2.000 kg
+OUTRAS INDÚSTRIAS,3091.2060,"Peças e acessórios para motocicletas, triciclos, motociclos e outros ciclomotores, n.e."
+OUTRAS INDÚSTRIAS,3091.7010,Motocicletas (inclusive os motociclos) com motor de pistão alternativo de cilindrada superior a 50cm3
+OUTRAS INDÚSTRIAS,3092.2020,"Bicicletas e outros ciclos (incluídos os triciclos), sem motor"
+OUTRAS INDÚSTRIAS,3101.2025,"Armários de madeira para uso residencial, exceto embutidos ou modulados"
+OUTRAS INDÚSTRIAS,3101.2030,Móveis modulados de madeira para cozinhas
+OUTRAS INDÚSTRIAS,3101.2040,"Armários embutidos ou modulados de madeira de uso residencial, exceto para cozinhas"
+OUTRAS INDÚSTRIAS,3101.2070,Assentos e cadeiras de madeira para escritório
+OUTRAS INDÚSTRIAS,3101.2080,"Assentos e cadeiras de madeira, exceto para escritório"
+OUTRAS INDÚSTRIAS,3101.2120,"Camas, beliches e outros tipos de camas de madeira"
+OUTRAS INDÚSTRIAS,3101.2140,Cômodas de madeira
+OUTRAS INDÚSTRIAS,3101.2155,"Componentes, partes e peças de madeira para móveis (portas, laterais, prateleiras e semelhantes)"
+OUTRAS INDÚSTRIAS,3101.2160,Estantes de madeira de uso residencial
+OUTRAS INDÚSTRIAS,3101.2190,Mesas de madeira de uso residencial
+OUTRAS INDÚSTRIAS,3101.2200,Mesas de madeira para escritório
+OUTRAS INDÚSTRIAS,3101.2245,"Móveis de madeira para cozinhas, exceto modulados"
+OUTRAS INDÚSTRIAS,3101.2255,"Móveis diversos de madeira para escritório, exceto modulados"
+OUTRAS INDÚSTRIAS,3101.2270,Móveis diversos de madeira para instalações comerciais (gôndolas e semelhantes)
+OUTRAS INDÚSTRIAS,3101.2310,"Poltronas e sofás de madeira, exceto para escritório"
+OUTRAS INDÚSTRIAS,3102.2020,Armários metálicos de uso residencial
+OUTRAS INDÚSTRIAS,3102.2040,Assentos e cadeiras de metal para escritório
+OUTRAS INDÚSTRIAS,3102.2050,"Assentos e cadeiras de metal, exceto para escritório, inclusive cadeiras de praia"
+OUTRAS INDÚSTRIAS,3102.2175,Móveis diversos de metal para escritório
+OUTRAS INDÚSTRIAS,3102.2190,Móveis diversos de metal para instalações comerciais (gôndolas e semelhantes)
+OUTRAS INDÚSTRIAS,3102.2210,Partes e peças de metal para móveis
+OUTRAS INDÚSTRIAS,3102.2220,"Partes e peças de metal para assentos e cadeiras de metal, exceto para veículos"
+OUTRAS INDÚSTRIAS,3103.2050,"Assentos e cadeiras de plástico, exceto para escritório"
+OUTRAS INDÚSTRIAS,3104.2010,"Colchões de borracha, de plásticos alveolares ou de espumas de plástico, inclusive colchões ortopédicos"
+OUTRAS INDÚSTRIAS,3104.2030,"Colchões de molas metálicas, n.e."
+OUTRAS INDÚSTRIAS,3211.2055,Artefatos folheados ou chapeados de metais preciosos para usos técnicos
+OUTRAS INDÚSTRIAS,3211.2100,Moedas
+OUTRAS INDÚSTRIAS,3212.2010,"Bijuterias de metais comuns (brincos, braceletes, pulseiras, colares, etc.)"
+OUTRAS INDÚSTRIAS,3230.2080,Bicicletas e esteiras ergométricas
+OUTRAS INDÚSTRIAS,3230.2130,Piscinas de plástico
+OUTRAS INDÚSTRIAS,3240.2010,"Bonecos e bonecas de qualquer material, mesmo com mecanismos, representando seres humanos"
+OUTRAS INDÚSTRIAS,3240.2040,Brinquedos ou conjuntos de modelos reduzidos para montagem ou construção
+OUTRAS INDÚSTRIAS,3240.2050,Brinquedos representando animais ou seres não humanos
+OUTRAS INDÚSTRIAS,3240.2140,"Triciclos, patinetes, carros de pedais ou outros brinquedos infantis de locomoção, não motorizados"
+OUTRAS INDÚSTRIAS,3250.2070,Armações para óculos ou artigos semelhantes e suas partes
+OUTRAS INDÚSTRIAS,3250.2080,"Artigos e aparelhos para prótese dentaria, inclusive dentes artificiais"
+OUTRAS INDÚSTRIAS,3250.2110,Cimentos e outros produtos para obturações dentárias; ceras e outras composições para dentistas
+OUTRAS INDÚSTRIAS,3250.2160,"Hastes (flexíveis ou não) com extremidades envoltas em algodão, próprio para higiene pessoal"
+OUTRAS INDÚSTRIAS,3250.2180,"Instrumentos e aparelhos para transfusão de sangue, etc."
+OUTRAS INDÚSTRIAS,3250.2205,"Instrumentos e aparelhos para odontologia (limas, brocas, etc.)"
+OUTRAS INDÚSTRIAS,3250.2220,"Lentes para óculos, de qualquer material"
+OUTRAS INDÚSTRIAS,3250.2240,"Mobiliários para medicina, odontologia ou veterinária (cadeiras de dentistas, mesas cirúrgicas, etc.), inclusive partes"
+OUTRAS INDÚSTRIAS,3250.2260,"Óculos para correção, proteção ou outros fins, exceto óculos de segurança"
+OUTRAS INDÚSTRIAS,3250.2290,Próteses articulares e outros aparelhos para ortopedia ou para fraturas
+OUTRAS INDÚSTRIAS,3250.2300,Próteses com corpo de silicone
+OUTRAS INDÚSTRIAS,3250.2310,"Seringas, agulhas, catéteres, cânulas, lancetas e instrumentos semelhantes"
+OUTRAS INDÚSTRIAS,3291.2020,Escovas de dentes
+OUTRAS INDÚSTRIAS,3291.2080,"Pincéis e escovas para pintar, envernizar e para usos semelhantes; bonecas e rolos para pintar"
+OUTRAS INDÚSTRIAS,3291.2105,Vassouras de qualquer material
+OUTRAS INDÚSTRIAS,3292.2040,"Artefatos de tecido não tecido (falsos tecidos) para segurança e proteção (gorros, máscaras protetoras, etc.)"
+OUTRAS INDÚSTRIAS,3292.2050,"Capacetes e artefatos de uso semelhante de borracha, para segurança e proteção"
+OUTRAS INDÚSTRIAS,3292.2060,"Capacetes e artefatos de uso semelhante de plástico, para segurança e proteção"
+OUTRAS INDÚSTRIAS,3292.2100,"Luvas de borracha para segurança e proteção, inclusive para uso doméstico"
+OUTRAS INDÚSTRIAS,3292.2110,Luvas de couro para segurança e proteção
+OUTRAS INDÚSTRIAS,3299.2020,"Anúncios, cartazes e placas indicadoras, painéis e letreiros luminosos, etc."
+OUTRAS INDÚSTRIAS,3299.2070,Botões de qualquer material
+OUTRAS INDÚSTRIAS,3299.2090,Caixões ou urnas mortuários
+OUTRAS INDÚSTRIAS,3299.2100,"Canetas esferográficas, canetas e marcadores, lapiseiras e artefatos semelhantes, inclusive partes"
+OUTRAS INDÚSTRIAS,3299.2130,Fechos-ecler (fecho de correr) e suas partes
+OUTRAS INDÚSTRIAS,3299.2150,Fitas para máquinas de escrever e fitas impressoras semelhantes; almofadas para carimbos
+OUTRAS INDÚSTRIAS,3299.2160,"Fivelas, colchetes, ilhoses e artefatos semelhantes de metal comum"
+OUTRAS INDÚSTRIAS,3299.2180,"Garrafas térmicas e outros recipientes isotérmicos e suas partes, exceto as ampolas de vidro"
+OUTRAS INDÚSTRIAS,3299.2210,"Isqueiros e outros acendedores, mesmo mecânicos ou elétricos e suas partes, exceto pedras e pavios"
+OUTRAS INDÚSTRIAS,3299.2220,Lápis para escrever ou desenhar; minas para lápis ou lapiseira; giz
+OUTRAS INDÚSTRIAS,3299.2320,"Placas indicadoras, placas sinalizadoras e semelhantes; números, letras e sinais diversos de metal"
+OUTRAS INDÚSTRIAS,3299.2370,"Velas, pavios, círios e artigos semelhantes"
+OUTRAS INDÚSTRIAS,3311.9020,"Serviços de manutenção e reparação de caldeiras geradoras de vapor, exceto para aquecimento central ou para veículos"
+OUTRAS INDÚSTRIAS,3311.9040,"Serviços de manutenção e reparação de tanques, botijões, reservatórios metálicos ou caldeiras para aquecimento central"
+OUTRAS INDÚSTRIAS,3312.9025,"Serviços de manutenção e reparação de aparelhos e instrumentos de medida, teste e controle, incl. controle de processo inds."
+OUTRAS INDÚSTRIAS,3313.9020,"Serviços de manutenção e reparação de geradores, transform., motores elétr., indutores, conversores, sincronizadores e semelh,"
+OUTRAS INDÚSTRIAS,3313.9030,"Serviços de manutenção e reparação de máquinas, aparelhos ou equipamentos elétricos, n.e."
+OUTRAS INDÚSTRIAS,3314.9030,"Serviços de manutenção e reparação de máquinas motrizes não-elétricas, n.e."
+OUTRAS INDÚSTRIAS,3314.9070,Serviços de manutenção e reparação de empilhadeiras ou outras máquinas ou aparelhos para transporte e elevação de cargas
+OUTRAS INDÚSTRIAS,3314.9120,Serviços de manutenção e reparação de máquinas e equipamentos para prospecção e extração mineral
+OUTRAS INDÚSTRIAS,3314.9140,"Serviços de manutenção e reparação de máquinas e equipamentos para a indústria metalúrgica, exceto máquinas- ferramenta"
+OUTRAS INDÚSTRIAS,3314.9170,"Serviços de manutenção e reparação de máquinas e equipamentos para as indústrias de celulose, papel ou artefatos"
+OUTRAS INDÚSTRIAS,3314.9190,"Serviços de manutenção e reparação de máquinas e equipamentos para usos industriais, n.e."
+OUTRAS INDÚSTRIAS,3315.9010,Serviço de manutenção e reparação de veículos ferroviários
+OUTRAS INDÚSTRIAS,3316.9010,"Serviço de manutenção e reparação de aeronaves, turbinas e motores de aviação, inclusive o serviço de pintura de aeronaves"
+OUTRAS INDÚSTRIAS,3317.9020,"Serviço de manutenção e reparação de navios ou outras embarcações para qualquer uso, exceto para esporte e lazer"
+OUTRAS INDÚSTRIAS,3317.9030,Serviço de manutenção e reparação de estruturas flutuantes
+OUTRAS INDÚSTRIAS,3321.9060,"Serviços de instalação e montagem de motores e turbinas, equipamentos hidráulicos e pneumáticos, compressores e semelhantes"
+OUTRAS INDÚSTRIAS,41,Construção de edifícios
+OUTRAS INDÚSTRIAS,42,Obras de infra-estrutura
+OUTRAS INDÚSTRIAS,43,Serviços especializados para construção
