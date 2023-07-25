@@ -30,8 +30,7 @@ XI,27,0322,Metalurgia de metais não ferrosos,11.2.7.5,Não Ferrosos e Outros Me
 XI,28,0323,Produtos de metal exclusive máquinas e equipamentos,11.2.7.5,Não Ferrosos e Outros Metálicos
 XII,29,0324,"Máquinas e equip., inclusive manutenção e reparos",11.2.7.11,Outras Indústrias
 XII*,30+33,0325+0328,Eletrodomésticos e material eletronico,11.2.7.11,Outras Indústrias
-XII,31,0326,Máquinas para escritório e equip. de informática,11.2.7.11,Outras Indústrias
-XII,32,0327,"Máquinas, aparelhos e materiais elétricos",11.2.7.11,Outras Indústrias
+XII*,31+32,0326+0327,Máquinas para escritório aparelhos e e material eletronico,11.2.7.11,Outras Indústrias
 XII,34,0329,"Aparelhos/inst. médico-hospitalar, medida e óptico",11.2.7.11,Outras Indústrias
 XII,35+36,0330,"Automóveis camionetas caminhões e ônibus",11.2.7.11,Outras Indústrias
 XII,37,0332,Peças e acessórios para veículos automotores,11.2.7.11,Outras Indústrias
