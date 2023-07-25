@@ -23,8 +23,7 @@ VII,20,0315,"Perfumaria, higiene e limpeza",11.2.7.6,Química
 VII,21,0316,"Tintas, vernizes, esmaltes e lacas",11.2.7.6,Química
 VII,22,0317,Produtos e preparados químicos diversos,11.2.7.6,Química
 VII,23,0318,Artigos de borracha e plástico,11.2.7.6,Química
-VIII,24,0319,Cimento,11.2.7.1,Cimento
-IX,25,0320,Outros produtos de minerais não metálicos,11.2.7.10,Cerâmica
+VIII + IX,24 + 25,0319 + 0320,Cimento e outros produtos de minerais não metálicos,11.2.7.1 + 11.2.7.10,Cimento + Cerâmica
 X,26,0321,Fabricação de aço e derivados,11.2.7.3,Ferroligas
 X*,26,0321,Fabricação de aço e derivados,11.2.7.2,Ferro-Gusa e Aço
 XI,27,0322,Metalurgia de metais não ferrosos,11.2.7.5,Não Ferrosos e Outros Metálicos
