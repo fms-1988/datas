@@ -13,8 +13,8 @@ V,8,0303,Têxteis,11.2.7.8,Têxtil
 V,9,0304,Artigos do vestuário e acessórios,11.2.7.8,Têxtil
 V,10,0305,Artefatos de couro e calçados,11.2.7.8,Têxtil
 VI,11,0306,Produtos de madeira - exclusive móveis,11.2.7.9,Papel e Celulose
-VI,12,0307,móveis,11.2.7.9,Papel e Celulose
-VI,13,0308,"Celulose e produtos de papel Jornais, revistas, discos",11.2.7.9,Papel e Celulose
+VI,12,0308,"Celulose e produtos de papel",11.2.7.9,Papel e Celulose
+VI,13,0308,"Jornais, revistas, discos",11.2.7.9,Papel e Celulose
 VII,16,0311,Produtos químicos,11.2.7.6,Química
 VII,17,0312,Fabricação de resina e elastômeros,11.2.7.6,Química
 VII,18,0313,Produtos farmacêuticos,11.2.7.6,Química
