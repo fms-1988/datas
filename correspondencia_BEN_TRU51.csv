@@ -34,8 +34,7 @@ XII,31,0326,Máquinas para escritório e equip. de informática,11.2.7.11,Outras
 XII,32,0327,"Máquinas, aparelhos e materiais elétricos",11.2.7.11,Outras Indústrias
 XII,33,0328,Material eletrônico e equipamentos de comunicações,11.2.7.11,Outras Indústrias
 XII,34,0329,"Aparelhos/inst. médico-hospitalar, medida e óptico",11.2.7.11,Outras Indústrias
-XII,35,0330,"Automóveis, camionetas e utilitários",11.2.7.11,Outras Indústrias
-XII,36,0331,Caminhões e ônibus,11.2.7.11,Outras Indústrias
+XII,35+36,0330,"Automóveis camionetas caminhões e ônibus",11.2.7.11,Outras Indústrias
 XII,37,0332,Peças e acessórios para veículos automotores,11.2.7.11,Outras Indústrias
 XII,38,0333,Outros equipamentos de transporte,11.2.7.11,Outras Indústrias
 XII,39,0334,Móveis e produtos das indústrias diversas,11.2.7.11,Outras Indústrias
