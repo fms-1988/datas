@@ -1,0 +1,271 @@
+CNAE2,CNAE1,#,CNAE1*,TRU43,TRU56,TRU51,BEN,EFICIND,BEN_descricao,EFICIND_descricao
+500,1000,,1000,2,5,5,1,1.1,Setor energético,Energia primária
+600,1110,,1110,3,3,3,1,1.1,Setor energético,Energia primária
+710,1310,,1310,2,4,4,10,10.0, Mineração e pelotização*, Mineração e pelotização*
+721,1321,,1321,2,5,5,10,10.0, Mineração e pelotização*, Mineração e pelotização*
+722,1322,,1322,2,5,5,10,10.0, Mineração e pelotização*, Mineração e pelotização*
+723,1323,,1323,2,5,5,10,10.0, Mineração e pelotização*, Mineração e pelotização*
+724,1324,,1324,2,5,5,10,10.0, Mineração e pelotização*, Mineração e pelotização*
+725,1325,,1325,2,5,5,10,10.0, Mineração e pelotização*, Mineração e pelotização*
+729,1329,,1329,2,5,5,10,10.0, Mineração e pelotização*, Mineração e pelotização*
+810,1410,,1410,2,5,5,10,10.0, Mineração e pelotização*, Mineração e pelotização*
+891,1421,,1421,2,5,5,10,10.0, Mineração e pelotização*, Mineração e pelotização*
+892,1422,,1422,30,5,5,13,13.6, Alimentos e bebidas, Outros
+893,1429,,1429,2,5,5,10,10.0, Mineração e pelotização*, Mineração e pelotização*
+899,1429,,1429,2,5,5,10,10.0, Mineração e pelotização*, Mineração e pelotização*
+910,1120,,1120,3,3,3,1,1.1,Setor energético,Energia primária
+990,1429,,1429,2,5,5,10,10.0, Mineração e pelotização*, Mineração e pelotização*
+1011,1511,,1511,26,6,6,13,13.3, Alimentos e bebidas, Carnes
+1012,1511,,1511,26,6,6,13,13.3, Alimentos e bebidas, Carnes
+1013,1513,,1513,26,6,6,13,13.3, Alimentos e bebidas, Carnes
+1020,1514,,1514,30,6,6,13,13.3, Alimentos e bebidas, Carnes
+1031,1521,,1521,25,6,6,13,13.6, Alimentos e bebidas, Outros
+1032,1522,,1522,25,6,6,13,13.6, Alimentos e bebidas, Outros
+1033,1523,,1523,25,6,6,13,13.4, Alimentos e bebidas, Sucos
+1041,1531,,1531,29,6,6,13,13.6, Alimentos e bebidas, Outros
+1042,1532,,1532,29,6,6,13,13.6, Alimentos e bebidas, Outros
+1043,1533,,1533,29,6,6,13,13.6, Alimentos e bebidas, Outros
+1051,1541,,1541,27,6,6,13,13.2, Alimentos e bebidas, Laticínios
+1052,1542,,1542,27,6,6,13,13.2, Alimentos e bebidas, Laticínios
+1053,1543,,1543,30,6,6,13,13.6, Alimentos e bebidas, Outros
+1061,1551,,1551,25,6,6,13,13.6, Alimentos e bebidas, Outros
+1062,1552,,1552,25,6,6,13,13.6, Alimentos e bebidas, Outros
+1063,1553,,1553,25,6,6,13,13.6, Alimentos e bebidas, Outros
+1064,1554,,1554,25,6,6,13,13.6, Alimentos e bebidas, Outros
+1065,1555,,1555,25,6,6,13,13.6, Alimentos e bebidas, Outros
+1066,1556,,1556,30,6,6,13,13.6, Alimentos e bebidas, Outros
+1069,1559,,1559,25,6,6,13,13.6, Alimentos e bebidas, Outros
+1071,1561,,1561,28,6,6,13,13.1, Alimentos e bebidas, Açucares
+1072,1562,,1562,28,6,6,13,13.1, Alimentos e bebidas, Açucares
+1081,1571,,1571,24,6,6,13,13.6, Alimentos e bebidas, Outros
+1082,1572,,1572,24,6,6,13,13.6, Alimentos e bebidas, Outros
+1091,1581,,1581,30,6,6,13,13.6, Alimentos e bebidas, Outros
+1092,1582,,1582,30,6,6,13,13.6, Alimentos e bebidas, Outros
+1093,1583,,1583,30,6,6,13,13.6, Alimentos e bebidas, Outros
+1094,1584,,1584,30,6,6,13,13.6, Alimentos e bebidas, Outros
+1095,1585,,1585,25,6,6,13,13.6, Alimentos e bebidas, Outros
+1096,1589,,1589,30,6,6,13,13.6, Alimentos e bebidas, Outros
+1099,1586,,1586,30,6,6,13,13.6, Alimentos e bebidas, Outros
+1111,1591,,1591,30,6,6,13,13.6, Alimentos e bebidas, Outros
+1112,1592,,1592,30,6,6,13,13.6, Alimentos e bebidas, Outros
+1113,1593,,1593,30,6,6,13,13.5, Alimentos e bebidas, Cervejas
+1121,1594,,1594,30,6,6,13,13.6, Alimentos e bebidas, Outros
+1122,1595,,1595,30,6,6,13,13.6, Alimentos e bebidas, Outros
+1210,1600,*,1764,21,7,7,17,17.5, Outros, Outros
+1220,1600,*,1764,21,7,7,17,17.5, Outros, Outros
+1311,1711,,1711,21,8,8,14,14.1, Têxtil, Fiação
+1312,1722,,1722,21,8,8,14,14.1, Têxtil, Fiação
+1313,1723,,1723,21,8,8,14,14.1, Têxtil, Fiação
+1314,1724,,1724,21,8,8,14,14.1, Têxtil, Fiação
+1321,1741,,1741,21,8,8,14,14.2, Têxtil, Tecelagem
+1322,1741,,1741,21,8,8,14,14.2, Têxtil, Tecelagem
+1323,1741,,1741,21,8,8,14,14.2, Têxtil, Tecelagem
+1330,1771,,1771,21,8,8,14,14.2, Têxtil, Tecelagem
+1340,1750,,1750,21,8,8,14,14.2, Têxtil, Tecelagem
+1351,1761,,1761,21,8,8,14,14.2, Têxtil, Tecelagem
+1352,1762,,1762,21,8,8,14,14.2, Têxtil, Tecelagem
+1354,1764,,1763,21,8,8,14,14.2, Têxtil, Tecelagem
+1359,1769,,1769,21,8,8,14,14.2, Têxtil, Tecelagem
+1411,1811,,1811,22,9,9,14,14.3, Têxtil, Confecção
+1412,1812,,1812,22,9,9,14,14.3, Têxtil, Confecção
+1413,1813,,1813,22,9,9,14,14.3, Têxtil, Confecção
+1414,1821,,1821,22,9,9,14,14.3, Têxtil, Confecção
+1421,1772,,1772,21,8,8,14,14.2, Têxtil, Tecelagem
+1422,1779,,1779,21,8,8,14,14.2, Têxtil, Tecelagem
+1510,1910,,1910,23,10,10,17,17.1, Outros, Outros
+1521,1921,,1921,23,10,10,17,17.1, Outros, Outros
+1529,1929,,1929,23,10,10,17,17.1, Outros, Outros
+1531,1931,,1931,23,10,10,17,17.1, Outros, Outros
+1532,1932,,1932,23,10,10,17,17.1, Outros, Outros
+1533,1933,,1933,23,10,10,17,17.1, Outros, Outros
+1539,1939,,1939,23,10,10,17,17.1, Outros, Outros
+1540,1939,,1939,23,10,10,17,17.1, Outros, Outros
+1610,2010,,2010,13,11,11,17,17.1, Outros, Outros
+1621,2021,,2021,13,11,11,17,17.1, Outros, Outros
+1622,2022,,2022,13,11,11,17,17.1, Outros, Outros
+1623,2023,,2023,13,11,11,17,17.1, Outros, Outros
+1629,2029,,2029,13,11,11,17,17.1, Outros, Outros
+1710,2110,,2110,14,12,12,15,15.1, Papel e Celulose, Celulose
+1721,2121,,2121,14,12,12,15,15.2, Papel e Celulose, Papel
+1722,2122,,2122,14,12,12,15,15.2, Papel e Celulose, Papel
+1731,2131,,2131,14,12,12,15,15.3, Papel e Celulose, Embalagens
+1732,2132,,2132,14,12,12,15,15.3, Papel e Celulose, Embalagens
+1733,2132,,2132,14,12,12,15,15.3, Papel e Celulose, Embalagens
+1741,2142,,2142,14,12,12,15,15.3, Papel e Celulose, Embalagens
+1742,2149,,2149,14,12,12,15,15.3, Papel e Celulose, Embalagens
+1749,2149,,2149,14,12,12,15,15.3, Papel e Celulose, Embalagens
+1811,2221,,2221,14,13,13,17,17.1, Outros, Outros
+1812,2222,,2222,14,13,13,17,17.1, Outros, Outros
+1813,2222,,2222,14,13,13,17,17.1, Outros, Outros
+1821,2229,,2229,14,13,13,17,17.1, Outros, Outros
+1822,2229,,2229,14,13,13,17,17.1, Outros, Outros
+1830,2232,,2232,14,13,13,17,17.1, Outros, Outros
+1921,2321,*,2320,17,14,14,1,1.2,Setor energético,Energia secundária exceto eletricidade
+1922,2329,*,2320,17,14,14,1,1.2,Setor energético,Energia secundária exceto eletricidade
+1931,2340,,2340,16,15,15,1,1.2,Setor energético,Energia secundária exceto eletricidade
+1932,2429,,2429,18,16,16,1,12.5,Setor energético, Outros
+2011,2411,,2411,16,16,16,12,12.1, Química, Cloro e álcalis
+2012,2412,,2412,16,16,16,12,12.4, Química, Fertilizantes
+2013,2413,,2413,18,16,16,12,12.4, Química, Fertilizantes
+2014,2414,,2414,16,16,16,12,12.5, Química, Outros
+2019,2419,,2419,16,16,16,12,12.5, Química, Outros
+2021,2421,,2421,17,16,16,12,12.2, Química, Petroquímicos básicos
+2022,2422,,2422,17,16,16,12,12.5, Química, Outros
+2029,2429,,2429,18,16,16,12,12.5, Química, Outros
+2031,2431,,2431,17,17,17,12,12.3, Química, Resinas termoplásticas
+2032,2432,,2432,17,17,17,12,12.5, Química, Outros
+2033,2433,,2433,17,17,17,12,12.5, Química, Outros
+2040,2442,,2442,17,17,17,12,12.5, Química, Outros
+2051,2463,,2463,18,19,19,12,12.5, Química, Outros
+2052,2461,,2461,18,19,19,12,12.5, Química, Outros
+2061,2471,,2471,19,20,20,12,12.5, Química, Outros
+2062,2472,,2472,18,20,20,12,12.5, Química, Outros
+2063,2473,,2473,19,20,20,12,12.5, Química, Outros
+2071,2481,,2481,18,21,21,12,12.5, Química, Outros
+2072,2482,,2482,18,21,21,12,12.5, Química, Outros
+2073,2483,,2483,18,21,21,12,12.5, Química, Outros
+2091,2491,,2491,18,22,22,12,12.5, Química, Outros
+2092,2492,,2492,18,22,22,12,17.1, Química, Outros
+2093,2494,,2494,18,22,22,12,12.5, Química, Outros
+2094,2493,,2493,18,22,22,12,12.5, Química, Outros
+2099,2499,,2499,18,22,22,12,12.5, Química, Outros
+2110,2451,,2451,19,18,18,12,12.5, Química, Outros
+2121,2452,,2452,19,18,18,12,17.1, Química, Outros
+2122,2453,,2453,19,18,18,12,17.1, Química, Outros
+2123,2454,,2454,19,18,18,12,17.1, Química, Outros
+2211,2511,,2511,15,23,23,17,17.1, Outros, Outros
+2212,2512,,2512,15,23,23,17,17.1, Outros, Outros
+2219,2519,,2519,15,23,23,17,17.1, Outros, Outros
+2221,2529,,2529,20,23,23,17,17.1, Outros, Outros
+2222,2522,,2522,20,23,23,17,17.1, Outros, Outros
+2223,2529,,2529,20,23,23,17,17.1, Outros, Outros
+2311,2611,,2611,4,25,24,10,17.1, Mineração e pelotização*, Outros
+2312,2612,,2612,4,25,24,10,17.1, Mineração e pelotização*, Outros
+2319,2619,,2619,4,25,24,10,17.1, Mineração e pelotização*, Outros
+2320,2620,,2620,4,24,24,7,7.0,Cimento*,Cimento*
+2330,2630,,2630,4,25,24,7,7.0,Cimento*,Cimento*
+2341,2642,,2642,4,25,24,16,16.4, Cerâmica, Outras cerâmicas
+2342,2641,,2641,4,25,24,16,16.1, Cerâmica, Vermelha
+2349,2649,,2649,4,25,24,16,16.2, Cerâmica, Sanitária
+2391,2691,,2691,4,25,24,10,17.1, Mineração e pelotização*, Outros
+2392,2692,,2692,4,25,24,17,17.1, Outros, Outros
+2411,2713,*,2721,5,26,25,8,8.1,Siderurgia,Ferro gusa
+2412,2714,*,2722,5,26,25,9,9.0,Ferroligas*,Ferroligas*
+2421,2723,*,2722,5,26,25,8,8.2,Siderurgia,Aço
+2422,2724,*,2711,5,26,25,8,8.2,Siderurgia,Aço
+2423,2725,*,2712,5,26,25,8,8.2,Siderurgia,Aço
+2424,2726,*,2729,5,26,25,8,8.2,Siderurgia,Aço
+2431,2731,,2731,7,26,25,17,17.1, Outros, Outros
+2439,2739,,2739,7,26,25,17,17.1, Outros, Outros
+2441,2741,,2741,6,27,26,11,9.0, Metais não ferrosos, Metais não ferrosos
+2442,2742,,2742,6,27,26,11,11.2, Metais não ferrosos, Outros
+2443,2749,,2749,6,27,26,11,11.2, Metais não ferrosos, Outros
+2449,2749,,2749,6,27,26,11,11.2, Metais não ferrosos, Outros
+2451,2751,,2751,7,27,26,17,17.1, Outros, Outros
+2452,2752,,2752,6,27,26,17,17.1, Outros, Outros
+2511,2811,,2811,7,28,27,17,17.1, Outros, Outros
+2512,2812,,2812,7,28,27,17,17.1, Outros, Outros
+2513,2813,,2813,8,28,27,17,17.1, Outros, Outros
+2521,2821,,2813,8,28,27,17,17.1, Outros, Outros
+2522,2822,,2813,8,28,27,17,17.1, Outros, Outros
+2531,2832,,2832,6,28,27,17,17.1, Outros, Outros
+2532,2833,,2833,7,28,27,17,17.1, Outros, Outros
+2539,2839,,2839,7,28,27,17,17.1, Outros, Outros
+2541,2841,,2841,7,28,27,17,17.1, Outros, Outros
+2542,2842,,2842,7,28,27,17,17.1, Outros, Outros
+2543,2843,,2843,7,28,27,17,17.1, Outros, Outros
+2550,2971,,2971,8,29,28,17,17.1, Outros, Outros
+2591,2891,,2891,7,28,27,17,17.1, Outros, Outros
+2592,2892,,2892,7,28,27,17,17.1, Outros, Outros
+2593,2893,,2893,7,28,27,17,17.1, Outros, Outros
+2599,2899,,2899,7,28,27,17,17.1, Outros, Outros
+2610,3210,,3210,10,33,30,17,17.1, Outros, Outros
+2621,3021,,3021,10,31,30,17,17.1, Outros, Outros
+2622,3022,,3022,10,31,30,17,17.1, Outros, Outros
+2631,3221,,3210,10,33,30,17,17.1, Outros, Outros
+2632,3222,,3210,10,33,30,17,17.1, Outros, Outros
+2640,3230,,3230,10,33,30,17,17.1, Outros, Outros
+2651,3320,*,3222,10,34,30,17,17.1, Outros, Outros
+2652,3350,,3350,31,34,30,17,17.1, Outros, Outros
+2660,3310,*,3222,10,34,30,17,17.1, Outros, Outros
+2670,3340,,3330,10,34,30,17,17.1, Outros, Outros
+2680,2496,,2496,18,22,22,12,17.1, Química, Outros
+2710,3112,,3022,10,32,29,17,17.1, Outros, Outros
+2721,3141,,3141,9,32,29,17,17.1, Outros, Outros
+2722,3142,,3142,12,32,29,17,17.1, Outros, Outros
+2731,3121,,3121,9,32,29,17,17.1, Outros, Outros
+2732,3122,,3122,9,32,29,17,17.1, Outros, Outros
+2733,3130,,3130,9,32,29,17,17.1, Outros, Outros
+2740,3151,,3151,9,32,29,17,17.1, Outros, Outros
+2751,2981,,2981,9,30,29,17,17.1, Outros, Outros
+2759,2989,,2989,9,30,29,17,17.1, Outros, Outros
+2790,3199,,3192,10,32,29,17,17.1, Outros, Outros
+2811,2911,,2899,7,29,28,17,17.1, Outros, Outros
+2812,2912,,2899,7,29,28,17,17.1, Outros, Outros
+2813,2913,,2899,7,29,28,17,17.1, Outros, Outros
+2814,2914,,2899,7,29,28,17,17.1, Outros, Outros
+2815,2915,,2915,8,29,28,17,17.1, Outros, Outros
+2821,2921,,2915,8,29,28,17,17.1, Outros, Outros
+2822,2923,,2915,8,29,28,17,17.1, Outros, Outros
+2823,2924,,2915,8,29,28,17,17.1, Outros, Outros
+2824,2925,,2925,8,29,28,17,17.1, Outros, Outros
+2829,2929,,2925,8,29,28,17,17.1, Outros, Outros
+2831,2932,,2925,8,29,28,17,17.1, Outros, Outros
+2832,2931,,2925,8,29,28,17,17.1, Outros, Outros
+2833,2931,,2925,8,29,28,17,17.1, Outros, Outros
+2840,2940,,2925,8,29,28,17,17.1, Outros, Outros
+2851,2951,,2925,8,29,28,17,17.1, Outros, Outros
+2852,2952,,2925,8,29,28,17,17.1, Outros, Outros
+2853,2953,,2925,8,29,28,17,17.1, Outros, Outros
+2854,2954,,2925,8,29,28,17,17.1, Outros, Outros
+2861,2961,,2925,8,29,28,17,17.1, Outros, Outros
+2863,2963,*,2964,8,29,28,17,17.1, Outros, Outros
+2864,2964,*,2964,8,29,28,17,17.1, Outros, Outros
+2865,2965,*,2964,8,29,28,17,17.1, Outros, Outros
+2866,2969,*,2964,8,29,28,17,17.1, Outros, Outros
+2869,2969,*,2964,8,29,28,17,17.1, Outros, Outros
+2910,3410,,3410,11,35,31,17,17.1, Outros, Outros
+2920,3420,,3420,11,36,31,17,17.1, Outros, Outros
+2930,3439,,3439,11,37,32,17,17.1, Outros, Outros
+2941,3441,,3441,12,37,32,17,17.1, Outros, Outros
+2942,3442,,3442,12,37,32,17,17.1, Outros, Outros
+2943,3443,,3443,12,37,32,17,17.1, Outros, Outros
+2944,3444,,3444,12,37,32,17,17.1, Outros, Outros
+2945,3160,,3160,12,32,32,17,17.1, Outros, Outros
+2949,3449,*,3613,13,37,32,17,17.1, Outros, Outros
+2950,3450,,3450,12,37,32,17,17.1, Outros, Outros
+3011,3511,,3511,12,38,33,17,17.1, Outros, Outros
+3012,3512,,3512,12,38,33,17,17.1, Outros, Outros
+3031,3521,,3521,12,38,33,17,17.1, Outros, Outros
+3032,3522,,3522,12,38,33,17,17.1, Outros, Outros
+3041,3531,,3531,12,38,33,17,17.1, Outros, Outros
+3042,3531,,3531,12,38,33,17,17.1, Outros, Outros
+3050,2972,,2972,8,29,33,17,17.1, Outros, Outros
+3091,3591,,3591,12,38,33,17,17.1, Outros, Outros
+3092,3592,,3592,12,38,33,17,17.1, Outros, Outros
+3099,3599,,3599,12,38,33,17,17.1, Outros, Outros
+3101,3612,,3599,12,39,34,17,17.1, Outros, Outros
+3102,3612,,3599,12,39,34,17,17.1, Outros, Outros
+3103,3613,,3599,12,39,34,17,17.1, Outros, Outros
+3104,3614,,3614,13,39,34,17,17.1, Outros, Outros
+3211,3691,,3691,31,39,34,17,17.1, Outros, Outros
+3212,3699,,3699,31,39,34,17,17.1, Outros, Outros
+3220,3692,,3692,31,39,34,17,17.1, Outros, Outros
+3230,3693,,3693,31,39,34,17,17.1, Outros, Outros
+3240,3694,,3694,31,39,34,17,17.1, Outros, Outros
+3250,2454,,2454,19,18,18,12,17.1, Química, Outros
+3291,3699,,3699,31,39,34,17,17.1, Outros, Outros
+3292,1822,,1822,22,9,34,14,17.1, Têxtil, Outros
+3299,3699,,3699,31,39,34,17,17.1, Outros, Outros
+3299,2971,,2971,8,29,28,17,17.1, Outros, Outros
+3299,3394,*,3340,31,34,28,17,17.1, Outros, Outros
+3299,3189,*,3199,9,32,28,17,17.1, Outros, Outros
+3299,2991,*,2914,8,29,28,17,17.1, Outros, Outros
+3315,3523,,3523,12,38,28,17,17.1, Outros, Outros
+3316,3532,,3532,12,38,28,17,17.1, Outros, Outros
+3317,3512,,3512,12,38,28,17,17.1, Outros, Outros
+3299,2023,,2023,13,11,28,17,17.1, Outros, Outros
+3299,2891,,2891,7,28,28,17,17.1, Outros, Outros
+3299,2969,*,2964,8,29,28,17,17.1, Outros, Outros
+3299,3699,,3599,12,39,28,17,17.1, Outros, Outros
+3299,3699,,3599,12,39,28,17,17.1, Outros, Outros
