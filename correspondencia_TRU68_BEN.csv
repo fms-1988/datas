@@ -35,7 +35,8 @@ atividade,descricao,Secao_ISIC_Rev.4,ben
 3500,"Energia elétrica, gás natural e outras utilidades",D,SETOR ENERGÉTICO
 3680,"Água, esgoto e gestão de resíduos",E,PÚBLICO
 4180,Construção,F,OUTRAS INDÚSTRIAS
-4580,Comércio por atacado e varejo,G,COMERCIAL
+4500,"Comércio e reparação de veículos automotores e motocicletas",G,COMERCIAL
+4680,"Comércio por atacado e a varejo, exceto veículos automotores",G,COMERCIAL
 4900,Transporte terrestre,H,TRANSPORTES RODOVIÁRIO FERROVIÁRIO AÉREO HIDROVIÁRIO
 5000,Transporte aquaviário,H,TRANSPORTES RODOVIÁRIO FERROVIÁRIO AÉREO HIDROVIÁRIO
 5100,Transporte aéreo,H,TRANSPORTES RODOVIÁRIO FERROVIÁRIO AÉREO HIDROVIÁRIO
