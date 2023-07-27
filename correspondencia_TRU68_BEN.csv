@@ -56,8 +56,10 @@ atividade,descricao,Secao_ISIC_Rev.4,ben
 7880,Outras atividades administrativas e serviços complementares,N,COMERCIAL
 8000,"Atividades de vigilância, segurança e investigação",N,COMERCIAL
 8400,"Administração pública, defesa e seguridade social",O,PÚBLICO
-8591,Educação,P,PÚBLICO
-8691,Saúde,Q,PÚBLICO
+8591,Educação pública,P,PÚBLICO
+8592,Educação privada,Q,COMERCIAL
+8691,Saúde pública,P,PÚBLICO
+8692,Saúde privada,Q,COMERCIAL
 9080,"Atividades artísticas, criativas e de espetáculos",R,COMERCIAL
 9480,Organizações associativas e outros serviços pessoais,S,COMERCIAL
 9700,Serviços domésticos,T,COMERCIAL
