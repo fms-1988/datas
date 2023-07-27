@@ -1,0 +1,52 @@
+setor_montoia_2013,setor_mip56,nivel_mip56,setor_tru51,descricao_setor_tru51,codigo_ben,descricao_atividades_ben
+I,1,0101,1,Agricultura silvicultura exploração florestal,11.2.5,Agropecuários
+I,2,0102,2,Pecuária e pesca,11.2.5,Agropecuários
+II,3,0201,3,Petróleo e gás natural,11.2.1,Energético
+III,4,0202,4,Minério de ferro,11.2.7.4,Mineração e Pelotização
+III,5,0203,5,Outros da indústria extrativa,11.2.7.4,Mineração e Pelotização
+IV,6,0301,6,Alimentos e Bebidas,11.2.7.7,Alimentos e Bebidas
+IV,7,0302,7,Produtos do fumo,11.2.7.7,Alimentos e Bebidas
+V,8,0303,8,Têxteis,11.2.7.8,Têxtil
+V,9,0304,9,Artigos do vestuário e acessórios,11.2.7.8,Têxtil
+V,10,0305,10,Artefatos de couro e calçados,11.2.7.8,Têxtil
+VI,11,0306,11,Produtos de madeira - exclusive móveis,11.2.7.9,Papel e Celulose
+VI,12,0308,12,Celulose e produtos de papel,11.2.7.9,Papel e Celulose
+VI,13,0308,13,Jornais revistas discos,11.2.7.9,Papel e Celulose
+II,14,0309,14,Refino de petróleo e coque,11.2.1,Energético
+II,15,0310,15,Álcool,11.2.1,Energético
+VII,16,0311,16,Produtos  químicos,11.2.7.6,Química
+VII,17,0312,17,Fabricação de resina e elastômeros,11.2.7.6,Química
+VII,18,0313,18,Produtos farmacêuticos,11.2.7.6,Química
+VII,19,0314,19,Defensivos agrícolas,11.2.7.6,Química
+VII,20,0315,20,Perfumaria higiene e limpeza,11.2.7.6,Química
+VII,21,0316,21,Tintas vernizes esmaltes e lacas,11.2.7.6,Química
+VII,22,0317,22,Produtos e preparados químicos diversos,11.2.7.6,Química
+VII,23,0318,23,Artigos de borracha e plástico,11.2.7.6,Química
+VIII + IX,24 + 25,0319 + 0320,24,Cimento e outros produtos de minerais não-metálicos,11.2.7.1 + 11.2.7.10,Cimento + Cerâmica
+X*,26,0321,25,Fabricação de aço e derivados,11.2.7.3 + 11.2.7.2,Ferroligas + Ferro-Gusa e Aço
+XI,27,0322,26,Metalurgia de metais não-ferrosos,11.2.7.5,Não Ferrosos e Outros Metálicos
+XI,28,0323,27,Produtos de metal - exclusive máquinas e equipamentos,11.2.7.5,Não Ferrosos e Outros Metálicos
+XII,29,0324,28,Máquinas e equipamentos inclusive manutenção e reparos,11.2.7.11,Outras Indústrias
+XII*,30+33,0325+0328,29,Eletrodomésticos e material eletronico,11.2.7.11,Outras Indústrias
+XII*,31+32+34,0326+0327+0329,30,Máquinas para escritório aparelhos e e material eletronico,11.2.7.11,Outras Indústrias
+XII,35+36,0330,31,Automóveis camionetas caminhões e ônibus,11.2.7.11,Outras Indústrias
+XII,37,0332,32,Peças e acessórios para veículos automotores,11.2.7.11,Outras Indústrias
+XII,38,0333,33,Outros equipamentos de transporte,11.2.7.11,Outras Indústrias
+XII,39,0334,34,Móveis e produtos das indústrias diversas,11.2.7.11,Outras Indústrias
+II,40,0401,35,Produção e distribuição de eletricidade gás água esgoto e limpeza urbana,11.2.1,Energético
+XII,41,0501,36,Construção civil,11.2.7.11,Outras Indústrias
+XIII,42,0601,37,Comércio,11.2.3,Comercial
+XIV,43,0701,38,Transporte armazenagem e correio,11.2.6,Transporte Total
+XIII,44,0801,39,Serviços de informação,11.2.3,Comercial
+XIII,45,0901,40,Intermediação financeira seguros e previdência complementar e serviços relacionados,11.2.3,Comercial
+XIII,46,1001,41,Atividades imobiliárias e aluguéis,11.2.3,Comercial
+XIII,47,1101,42,Serviços de manutenção e reparação ,11.2.3,Comercial
+XIII,48,1102,43,Serviços de alojamento e alimentação,11.2.3,Comercial
+XIII,49,1103,44,Serviços prestados às empresas,11.2.3,Comercial
+XIII,50,1104,45,Educação mercantil,11.2.3,Comercial
+XIII,51,1105,46,Saúde mercantil,11.2.3,Comercial
+XIII,52,1106,47,Serviços prestados às famílias e associativas,11.2.3,Comercial
+XIII,53,1107,48,Serviços domésticos,11.2.3,Comercial
+XV,54,1201,49,Educação pública,11.2.4,Público
+XV,55,1202,50,Saúde pública,11.2.4,Público
+XV,56,1203,51,Administração pública e seguridade social,11.2.4,Público
