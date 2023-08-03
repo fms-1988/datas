@@ -19,7 +19,7 @@ VII,17,0312,17,Fabricação de resina e elastômeros,11.2.7.6,Química,QUÍMICA
 VII,18,0313,18,Produtos farmacêuticos,11.2.7.6,Química,QUÍMICA
 VII,19,0314,19,Defensivos agrícolas,11.2.7.6,Química,QUÍMICA
 VII,20,0315,20,Perfumaria higiene e limpeza,11.2.7.6,Química,QUÍMICA
-VII,21,0316,21,Tintas vernizes esmaltes e lacas,11.2.7.6,Química,
+VII,21,0316,21,Tintas vernizes esmaltes e lacas,11.2.7.6,Química,QUÍMICA
 VII,22,0317,22,Produtos e preparados químicos diversos,11.2.7.6,Química,QUÍMICA
 VII,23,0318,23,Artigos de borracha e plástico,11.2.7.6,Química,QUÍMICA
 VIII + IX,24 + 25,0319 + 0320,24,Cimento e outros produtos de minerais não-metálicos,11.2.7.1 + 11.2.7.10,Cimento + Cerâmica,CIMENTO + CERÂMICA
@@ -36,7 +36,7 @@ XII,39,0334,34,Móveis e produtos das indústrias diversas,11.2.7.11,Outras Ind�
 II,40,0401,35,Produção e distribuição de eletricidade gás água esgoto e limpeza urbana,11.2.1,Energético,SETOR ENERGÉTICO
 XII,41,0501,36,Construção civil,11.2.7.11,Outras Indústrias,OUTROS
 XIII,42,0601,37,Comércio,11.2.3,Comercial,COMERCIAL
-XIV,43,0701,38,Transporte armazenagem e correio,11.2.6,Transporte Total,RODOVIÁRIO+FERROVIÁRIO+AÉREO+HIDROVIÁRIO
+XIV,43,0701,38,Transporte armazenagem e correio,11.2.6,Transporte Total,RODOVIÁRIO + FERROVIÁRIO + AÉREO + HIDROVIÁRIO
 XIII,44,0801,39,Serviços de informação,11.2.3,Comercial,COMERCIAL
 XIII,45,0901,40,Intermediação financeira seguros e previdência complementar e serviços relacionados,11.2.3,Comercial,COMERCIAL
 XIII,46,1001,41,Atividades imobiliárias e aluguéis,11.2.3,Comercial,COMERCIAL
