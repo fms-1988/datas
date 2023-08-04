@@ -1,26 +1,26 @@
-produto_BEN;produto_TRU51
-PETRÓLEO;nc
-GÁS NATURAL;Petróleo e gás natural
-CARVÃO VAPOR;Carvão mineral
-CARVÃO METALÚRGICO;nc
-URÂNIO U3O8;nc
-ENERGIA HIDRÁULICA;nc
-LENHA;Produtos da exploração florestal e da silvicultura
-PRODUTOS DA CANA;Produtos das usinas e do refino de açúcar
-OUTRAS FONTES PRIMÁRIAS;Produtos da exploração florestal e da silvicultura
-BIODIESEL;nc
-ÓLEO DIESEL;Óleo diesel
-ÓLEO COMBUSTÍVEL;Óleo combustível
-GASOLINA;Gasoálcool
-GLP;Gás liquefeito de petróleo
-NAFTA;nc
-QUEROSENE;Outros produtos do refino de petróleo e coque
-GÁS DE CIDADE E DE COQUERIA;Produção e distribuição de eletricidade gás água esgoto e limpeza urbana
-COQUE DE CARVÃO MINERAL;Carvão mineral
-URÂNIO CONTIDO NO UO2;nc
-ELETRICIDADE;Produção e distribuição de eletricidade gás água esgoto e limpeza urbana
-CARVÃO VEGETAL;Produtos químicos orgânicos
-ÁLCOOL ETÍLICO ANIDRO E HIDRATADO;Álcool
-OUTRAS SECUNDÁRIAS DE PETRÓLEO;Outros produtos do refino de petróleo e coque
-PRODUTOS NÃO ENERGÉTICOS DE PETRÓLEO;nc
-ALCATRÃO;Carvão mineral
+produto_BEN;produto_TRU51;produto_TRU51_num
+PETRÓLEO;nc;
+GÁS NATURAL;Petróleo e gás natural;18
+CARVÃO VAPOR;Carvão mineral;20
+CARVÃO METALÚRGICO;nc;
+URÂNIO U3O8;nc;
+ENERGIA HIDRÁULICA;nc;
+LENHA;Produtos da exploração florestal e da silvicultura;11
+PRODUTOS DA CANA;Produtos das usinas e do refino de açúcar;37
+OUTRAS FONTES PRIMÁRIAS;Produtos da exploração florestal e da silvicultura;11
+BIODIESEL;nc;
+ÓLEO DIESEL;Óleo diesel;55
+ÓLEO COMBUSTÍVEL;Óleo combustível;54
+GASOLINA;Gasoálcool;53
+GLP;Gás liquefeito de petróleo;51
+NAFTA;nc;
+QUEROSENE;Outros produtos do refino de petróleo e coque;56
+GÁS DE CIDADE E DE COQUERIA;Produção e distribuição de eletricidade gás água esgoto e limpeza urbana;86
+COQUE DE CARVÃO MINERAL;Carvão mineral;20
+URÂNIO CONTIDO NO UO2;nc;
+ELETRICIDADE;Produção e distribuição de eletricidade gás água esgoto e limpeza urbana;86
+CARVÃO VEGETAL;Produtos químicos orgânicos;59
+ÁLCOOL ETÍLICO ANIDRO E HIDRATADO;Álcool;57
+OUTRAS SECUNDÁRIAS DE PETRÓLEO;Outros produtos do refino de petróleo e coque;56
+PRODUTOS NÃO ENERGÉTICOS DE PETRÓLEO;nc;
+ALCATRÃO;Carvão mineral;20
