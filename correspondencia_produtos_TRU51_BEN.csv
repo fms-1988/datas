@@ -1,26 +1,26 @@
-produto_BEN;produto_TRU51;produto_TRU51_num
-PETRÓLEO;nc;
-GÁS NATURAL;Petróleo e gás natural;18
-CARVÃO VAPOR;Carvão mineral;20
-CARVÃO METALÚRGICO;nc;
-URÂNIO U3O8;nc;
-ENERGIA HIDRÁULICA;nc;
-LENHA;Produtos da exploração florestal e da silvicultura;11
-PRODUTOS DA CANA;Produtos das usinas e do refino de açúcar;37
-OUTRAS FONTES PRIMÁRIAS;Produtos da exploração florestal e da silvicultura;11
-BIODIESEL;nc;
-ÓLEO DIESEL;Óleo diesel;55
-ÓLEO COMBUSTÍVEL;Óleo combustível;54
-GASOLINA;Gasoálcool;53
-GLP;Gás liquefeito de petróleo;51
-NAFTA;nc;
-QUEROSENE;Outros produtos do refino de petróleo e coque;56
-GÁS DE CIDADE E DE COQUERIA;Produção e distribuição de eletricidade gás água esgoto e limpeza urbana;86
-COQUE DE CARVÃO MINERAL;Carvão mineral;20
-URÂNIO CONTIDO NO UO2;nc;
-ELETRICIDADE;Produção e distribuição de eletricidade gás água esgoto e limpeza urbana;86
-CARVÃO VEGETAL;Produtos químicos orgânicos;59
-ÁLCOOL ETÍLICO ANIDRO E HIDRATADO;Álcool;57
-OUTRAS SECUNDÁRIAS DE PETRÓLEO;Outros produtos do refino de petróleo e coque;56
-PRODUTOS NÃO ENERGÉTICOS DE PETRÓLEO;nc;
-ALCATRÃO;Carvão mineral;20
+produto_BEN;produto_BEN_num;produto_TRU51;produto_TRU51_num
+PETRÓLEO;0;nc;
+GÁS NATURAL;1;Petróleo e gás natural;18
+CARVÃO VAPOR;2;Carvão mineral;20
+CARVÃO METALÚRGICO;-;nc;
+URÂNIO U3O8;-;nc;
+ENERGIA HIDRÁULICA;-;nc;
+LENHA;6;Produtos da exploração florestal e da silvicultura;11
+PRODUTOS DA CANA;7;Produtos das usinas e do refino de açúcar;37
+OUTRAS FONTES PRIMÁRIAS;8;Produtos da exploração florestal e da silvicultura;11
+BIODIESEL;-;nc;
+ÓLEO DIESEL;10;Óleo diesel;55
+ÓLEO COMBUSTÍVEL;11;Óleo combustível;54
+GASOLINA;12;Gasoálcool;53
+GLP;13;Gás liquefeito de petróleo;51
+NAFTA;-;nc;
+QUEROSENE;15;Outros produtos do refino de petróleo e coque;56
+GÁS DE CIDADE E DE COQUERIA;16;Produção e distribuição de eletricidade gás água esgoto e limpeza urbana;86
+COQUE DE CARVÃO MINERAL;17;Carvão mineral;20
+URÂNIO CONTIDO NO UO2;-;nc;
+ELETRICIDADE;19;Produção e distribuição de eletricidade gás água esgoto e limpeza urbana;86
+CARVÃO VEGETAL;20;Produtos químicos orgânicos;59
+ÁLCOOL ETÍLICO ANIDRO E HIDRATADO;21;Álcool;57
+OUTRAS SECUNDÁRIAS DE PETRÓLEO;22;Outros produtos do refino de petróleo e coque;56
+PRODUTOS NÃO ENERGÉTICOS DE PETRÓLEO;-;nc;
+ALCATRÃO;24;Carvão mineral;20
