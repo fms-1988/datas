@@ -10,35 +10,35 @@ atividade,descricao,Secao_ISIC_Rev.4,ben
 1092,"Fabricação e refino de açúcar",C,ALIMENTOS E BEBIDAS
 1093,"Outros produtos alimentares",C,ALIMENTOS E BEBIDAS
 1100,"Fabricação de bebidas",C,ALIMENTOS E BEBIDAS
-1200,Fabricação de produtos do fumo,C,OUTRAS INDÚSTRIAS
+1200,Fabricação de produtos do fumo,C,OUTROS
 1300,Fabricação de produtos têxteis,C,TÊXTIL
-1400,Confecção de artefatos do vestuário e acessórios,C,OUTRAS INDÚSTRIAS
-1500,Fabricação de calçados e de artefatos de couro,C,OUTRAS INDÚSTRIAS
-1600,Fabricação de produtos da madeira,C,OUTRAS INDÚSTRIAS
+1400,Confecção de artefatos do vestuário e acessórios,C,OUTROS
+1500,Fabricação de calçados e de artefatos de couro,C,OUTROS
+1600,Fabricação de produtos da madeira,C,OUTROS
 1700,"Fabricação de celulose, papel e produtos de papel",C,PAPEL E CELULOSE
-1800,Impressão e reprodução de gravações,C,OUTRAS INDÚSTRIAS
+1800,Impressão e reprodução de gravações,C,OUTROS
 1991,Refino de petróleo e coquerias,C,SETOR ENERGÉTICO
 1992,Fabricação de biocombustíveis,C,SETOR ENERGÉTICO
 2091,"Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros",C,QUÍMICA
 2092,"Fabricação de defensivos, desinfestantes, tintas e químicos diversos",C,QUÍMICA
 2093,"Fabricação de produtos de limpeza, cosméticos/perfumaria e higiene pessoal",C,QUÍMICA
-2100,Fabricação de produtos farmoquímicos e farmacêuticos,C,OUTRAS INDÚSTRIAS
-2200,Fabricação de produtos de borracha e de material plástico,C,OUTRAS INDÚSTRIAS
+2100,Fabricação de produtos farmoquímicos e farmacêuticos,C,OUTROS
+2200,Fabricação de produtos de borracha e de material plástico,C,OUTROS
 2300,Fabricação de produtos de minerais não metálicos,C,CIMENTO + CERMICA
 2491,"Produção de ferro-gusa/ferroligas, siderurgia e tubos de aço sem costura",C,FERRO GUSA E AÇO
 2492,Metalurgia de metais não ferosos e a fundição de metais,C,NÃO FERROSOS E OUTROS DA METALURGIA
 2500,"Fabricação de produtos de metal, exceto máquinas e equipamentos",C,NÃO FERROSOS E OUTROS DA METALURGIA
-2600,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",C,OUTRAS INDÚSTRIAS
-2700,Fabricação de máquinas e equipamentos elétricos,C,OUTRAS INDÚSTRIAS
-2800,Fabricação de máquinas e equipamentos mecânicos,C,OUTRAS INDÚSTRIAS
-2991,"Fabricação de automóveis, caminhões e ônibus, exceto peças",C,OUTRAS INDÚSTRIAS
-2992,Fabricação de peças e acessórios para veículos automotores,C,OUTRAS INDÚSTRIAS
-3000,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",C,OUTRAS INDÚSTRIAS
-3180,Fabricação de móveis e de produtos de indústrias diversas,C,OUTRAS INDÚSTRIAS
-3300,"Manutenção, reparação e instalação de máquinas e equipamentos",C,OUTRAS INDÚSTRIAS
+2600,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",C,OUTROS
+2700,Fabricação de máquinas e equipamentos elétricos,C,OUTROS
+2800,Fabricação de máquinas e equipamentos mecânicos,C,OUTROS
+2991,"Fabricação de automóveis, caminhões e ônibus, exceto peças",C,OUTROS
+2992,Fabricação de peças e acessórios para veículos automotores,C,OUTROS
+3000,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",C,OUTROS
+3180,Fabricação de móveis e de produtos de indústrias diversas,C,OUTROS
+3300,"Manutenção, reparação e instalação de máquinas e equipamentos",C,OUTROS
 3500,"Energia elétrica, gás natural e outras utilidades",D,SETOR ENERGÉTICO
 3680,"Água, esgoto e gestão de resíduos",E,PÚBLICO
-4180,Construção,F,OUTRAS INDÚSTRIAS
+4180,Construção,F,OUTROS
 4500,"Comércio e reparação de veículos automotores e motocicletas",G,COMERCIAL
 4680,"Comércio por atacado e a varejo, exceto veículos automotores",G,COMERCIAL
 4900,Transporte terrestre,H,RODOVIÁRIO + FERROVIÁRIO
