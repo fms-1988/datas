@@ -41,9 +41,9 @@ atividade,descricao,Secao_ISIC_Rev.4,ben
 4180,Construção,F,OUTRAS INDÚSTRIAS
 4500,"Comércio e reparação de veículos automotores e motocicletas",G,COMERCIAL
 4680,"Comércio por atacado e a varejo, exceto veículos automotores",G,COMERCIAL
-4900,Transporte terrestre,H,TRANSPORTES RODOVIÁRIO FERROVIÁRIO AÉREO HIDROVIÁRIO
-5000,Transporte aquaviário,H,TRANSPORTES RODOVIÁRIO FERROVIÁRIO AÉREO HIDROVIÁRIO
-5100,Transporte aéreo,H,TRANSPORTES RODOVIÁRIO FERROVIÁRIO AÉREO HIDROVIÁRIO
+4900,Transporte terrestre,H,RODOVIÁRIO + FERROVIÁRIO
+5000,Transporte aquaviário,H,HIDROVIÁRIO
+5100,Transporte aéreo,H,AÉREO
 5280,"Armazenamento, atividades auxiliares dos transportes e correio",H,COMERCIAL
 5500,Alojamento,I,COMERCIAL
 5600,Alimentação,I,COMERCIAL
