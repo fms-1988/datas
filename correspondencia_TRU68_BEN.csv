@@ -1,69 +1,69 @@
-atividade,descricao,Secao_ISIC_Rev.4,ben
-0191,"Agricultura, inclusive o apoio à agricultura e a pós-colheita",A,AGROPECUÁRIO
-0192,"Pecuária, inclusive o apoio à pecuária",A,AGROPECUÁRIO
-0280,Produção florestal; pesca e aquicultura,A,AGROPECUÁRIO
-0580,Extração de carvão mineral e de minerais não metálicos,B,SETOR ENERGÉTICO
-0680,"Extração de petróleo e gás, inclusive as atividades de apoio",B,SETOR ENERGÉTICO
-0791,"Extração de minério de ferro, inclusive beneficiamento e a aglomeração",B,MINERAÇÃO E PELOTIZAÇÃO
-0792,"Extração de minerais metálicos não ferrosos, inclusive beneficiamentos",B,MINERAÇÃO E PELOTIZAÇÃO
-1091,"Abate e produtos de carne, inclusive os produtos do laticínio e da pesca",C,ALIMENTOS E BEBIDAS
-1092,"Fabricação e refino de açúcar",C,ALIMENTOS E BEBIDAS
-1093,"Outros produtos alimentares",C,ALIMENTOS E BEBIDAS
-1100,"Fabricação de bebidas",C,ALIMENTOS E BEBIDAS
-1200,Fabricação de produtos do fumo,C,OUTROS
-1300,Fabricação de produtos têxteis,C,TÊXTIL
-1400,Confecção de artefatos do vestuário e acessórios,C,OUTROS
-1500,Fabricação de calçados e de artefatos de couro,C,OUTROS
-1600,Fabricação de produtos da madeira,C,OUTROS
-1700,"Fabricação de celulose, papel e produtos de papel",C,PAPEL E CELULOSE
-1800,Impressão e reprodução de gravações,C,OUTROS
-1991,Refino de petróleo e coquerias,C,SETOR ENERGÉTICO
-1992,Fabricação de biocombustíveis,C,SETOR ENERGÉTICO
-2091,"Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros",C,QUÍMICA
-2092,"Fabricação de defensivos, desinfestantes, tintas e químicos diversos",C,QUÍMICA
-2093,"Fabricação de produtos de limpeza, cosméticos/perfumaria e higiene pessoal",C,QUÍMICA
-2100,Fabricação de produtos farmoquímicos e farmacêuticos,C,OUTROS
-2200,Fabricação de produtos de borracha e de material plástico,C,OUTROS
-2300,Fabricação de produtos de minerais não metálicos,C,CIMENTO + CERÂMICA
-2491,"Produção de ferro-gusa/ferroligas, siderurgia e tubos de aço sem costura",C,FERRO-LIGAS + FERRO-GUSA E AÇO
-2492,Metalurgia de metais não ferosos e a fundição de metais,C,NÃO-FERROSOS E OUTROS DA METALURGIA
-2500,"Fabricação de produtos de metal, exceto máquinas e equipamentos",C,NÃO-FERROSOS E OUTROS DA METALURGIA
-2600,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",C,OUTROS
-2700,Fabricação de máquinas e equipamentos elétricos,C,OUTROS
-2800,Fabricação de máquinas e equipamentos mecânicos,C,OUTROS
-2991,"Fabricação de automóveis, caminhões e ônibus, exceto peças",C,OUTROS
-2992,Fabricação de peças e acessórios para veículos automotores,C,OUTROS
-3000,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",C,OUTROS
-3180,Fabricação de móveis e de produtos de indústrias diversas,C,OUTROS
-3300,"Manutenção, reparação e instalação de máquinas e equipamentos",C,OUTROS
-3500,"Energia elétrica, gás natural e outras utilidades",D,SETOR ENERGÉTICO
-3680,"Água, esgoto e gestão de resíduos",E,PÚBLICO
-4180,Construção,F,OUTROS
-4500,"Comércio e reparação de veículos automotores e motocicletas",G,COMERCIAL
-4680,"Comércio por atacado e a varejo, exceto veículos automotores",G,COMERCIAL
-4900,Transporte terrestre,H,RODOVIÁRIO + FERROVIÁRIO
-5000,Transporte aquaviário,H,HIDROVIÁRIO
-5100,Transporte aéreo,H,AÉREO
-5280,"Armazenamento, atividades auxiliares dos transportes e correio",H,COMERCIAL
-5500,Alojamento,I,COMERCIAL
-5600,Alimentação,I,COMERCIAL
-5800,Edição e edição integrada à impressão,J,COMERCIAL
-5980,"Atividades de televisão, rádio, cinema e gravação/edição de som e imagem",J,COMERCIAL
-6100,Telecomunicações,J,COMERCIAL
-6280,Desenvolvimento de sistemas e outros serviços de informação,J,COMERCIAL
-6480,"Intermediação financeira, seguros e previdência complementar",K,COMERCIAL
-6800,Atividades imobiliárias,L,COMERCIAL
-6980,"Atividades jurídicas, contábeis, consultoria e sedes de empresas",M,COMERCIAL
-7180,"Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",M,COMERCIAL
-7380,"Outras atividades profissionais, científicas e técnicas",M,COMERCIAL
-7700,Aluguéis não imobiliários e gestão de ativos de propriedade intelectual,N,COMERCIAL
-7880,Outras atividades administrativas e serviços complementares,N,COMERCIAL
-8000,"Atividades de vigilância, segurança e investigação",N,COMERCIAL
-8400,"Administração pública, defesa e seguridade social",O,PÚBLICO
-8591,Educação pública,P,PÚBLICO
-8592,Educação privada,Q,COMERCIAL
-8691,Saúde pública,P,PÚBLICO
-8692,Saúde privada,Q,COMERCIAL
-9080,"Atividades artísticas, criativas e de espetáculos",R,COMERCIAL
-9480,Organizações associativas e outros serviços pessoais,S,COMERCIAL
-9700,Serviços domésticos,T,COMERCIAL
+setor_tru68,atividade,descricao,Secao_ISIC_Rev.4,ben
+1,0191,"Agricultura, inclusive o apoio à agricultura e a pós-colheita",A,AGROPECUÁRIO
+2,0192,"Pecuária, inclusive o apoio à pecuária",A,AGROPECUÁRIO
+3,0280,Produção florestal; pesca e aquicultura,A,AGROPECUÁRIO
+4,0580,Extração de carvão mineral e de minerais não metálicos,B,SETOR ENERGÉTICO
+5,0680,"Extração de petróleo e gás, inclusive as atividades de apoio",B,SETOR ENERGÉTICO
+6,0791,"Extração de minério de ferro, inclusive beneficiamento e a aglomeração",B,MINERAÇÃO E PELOTIZAÇÃO
+7,0792,"Extração de minerais metálicos não ferrosos, inclusive beneficiamentos",B,MINERAÇÃO E PELOTIZAÇÃO
+8,1091,"Abate e produtos de carne, inclusive os produtos do laticínio e da pesca",C,ALIMENTOS E BEBIDAS
+9,1092,"Fabricação e refino de açúcar",C,ALIMENTOS E BEBIDAS
+10,1093,"Outros produtos alimentares",C,ALIMENTOS E BEBIDAS
+1,1100,"Fabricação de bebidas",C,ALIMENTOS E BEBIDAS
+12,1200,Fabricação de produtos do fumo,C,OUTROS
+13,1300,Fabricação de produtos têxteis,C,TÊXTIL
+14,1400,Confecção de artefatos do vestuário e acessórios,C,OUTROS
+15,1500,Fabricação de calçados e de artefatos de couro,C,OUTROS
+16,1600,Fabricação de produtos da madeira,C,OUTROS
+17,1700,"Fabricação de celulose, papel e produtos de papel",C,PAPEL E CELULOSE
+18,1800,Impressão e reprodução de gravações,C,OUTROS
+19,1991,Refino de petróleo e coquerias,C,SETOR ENERGÉTICO
+20,1992,Fabricação de biocombustíveis,C,SETOR ENERGÉTICO
+21,2091,"Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros",C,QUÍMICA
+22,2092,"Fabricação de defensivos, desinfestantes, tintas e químicos diversos",C,QUÍMICA
+23,2093,"Fabricação de produtos de limpeza, cosméticos/perfumaria e higiene pessoal",C,QUÍMICA
+24,2100,Fabricação de produtos farmoquímicos e farmacêuticos,C,OUTROS
+25,2200,Fabricação de produtos de borracha e de material plástico,C,OUTROS
+26,2300,Fabricação de produtos de minerais não metálicos,C,CIMENTO + CERÂMICA
+27,2491,"Produção de ferro-gusa/ferroligas, siderurgia e tubos de aço sem costura",C,FERRO-LIGAS + FERRO-GUSA E AÇO
+28,2492,Metalurgia de metais não ferosos e a fundição de metais,C,NÃO-FERROSOS E OUTROS DA METALURGIA
+29,2500,"Fabricação de produtos de metal, exceto máquinas e equipamentos",C,NÃO-FERROSOS E OUTROS DA METALURGIA
+30,2600,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",C,OUTROS
+31,2700,Fabricação de máquinas e equipamentos elétricos,C,OUTROS
+32,2800,Fabricação de máquinas e equipamentos mecânicos,C,OUTROS
+33,2991,"Fabricação de automóveis, caminhões e ônibus, exceto peças",C,OUTROS
+34,2992,Fabricação de peças e acessórios para veículos automotores,C,OUTROS
+35,3000,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",C,OUTROS
+36,3180,Fabricação de móveis e de produtos de indústrias diversas,C,OUTROS
+37,3300,"Manutenção, reparação e instalação de máquinas e equipamentos",C,OUTROS
+38,3500,"Energia elétrica, gás natural e outras utilidades",D,SETOR ENERGÉTICO
+39,3680,"Água, esgoto e gestão de resíduos",E,PÚBLICO
+40,4180,Construção,F,OUTROS
+41,4500,"Comércio e reparação de veículos automotores e motocicletas",G,COMERCIAL
+42,4680,"Comércio por atacado e a varejo, exceto veículos automotores",G,COMERCIAL
+43,4900,Transporte terrestre,H,RODOVIÁRIO + FERROVIÁRIO
+44,5000,Transporte aquaviário,H,HIDROVIÁRIO
+45,5100,Transporte aéreo,H,AÉREO
+46,5280,"Armazenamento, atividades auxiliares dos transportes e correio",H,COMERCIAL
+47,5500,Alojamento,I,COMERCIAL
+48,5600,Alimentação,I,COMERCIAL
+49,5800,Edição e edição integrada à impressão,J,COMERCIAL
+50,5980,"Atividades de televisão, rádio, cinema e gravação/edição de som e imagem",J,COMERCIAL
+51,6100,Telecomunicações,J,COMERCIAL
+52,6280,Desenvolvimento de sistemas e outros serviços de informação,J,COMERCIAL
+53,6480,"Intermediação financeira, seguros e previdência complementar",K,COMERCIAL
+54,6800,Atividades imobiliárias,L,COMERCIAL
+55,6980,"Atividades jurídicas, contábeis, consultoria e sedes de empresas",M,COMERCIAL
+56,7180,"Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",M,COMERCIAL
+57,7380,"Outras atividades profissionais, científicas e técnicas",M,COMERCIAL
+58,7700,Aluguéis não imobiliários e gestão de ativos de propriedade intelectual,N,COMERCIAL
+59,7880,Outras atividades administrativas e serviços complementares,N,COMERCIAL
+60,8000,"Atividades de vigilância, segurança e investigação",N,COMERCIAL
+61,8400,"Administração pública, defesa e seguridade social",O,PÚBLICO
+62,8591,Educação pública,P,PÚBLICO
+63,8592,Educação privada,Q,COMERCIAL
+64,8691,Saúde pública,P,PÚBLICO
+65,8692,Saúde privada,Q,COMERCIAL
+66,9080,"Atividades artísticas, criativas e de espetáculos",R,COMERCIAL
+67,9480,Organizações associativas e outros serviços pessoais,S,COMERCIAL
+68,9700,Serviços domésticos,T,COMERCIAL
