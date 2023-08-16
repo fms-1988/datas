@@ -1,0 +1,26 @@
+produto_BEN,produto_BEN_num_after_2004,produto_BEN_num_before_2005,produto_TRU51,produto_TRU51_num,produto_TRU68,produto_TRU68_num
+PETRÓLEO,0,0,nc,,nc,
+GÁS NATURAL,1,1,Petróleo e gás natural,18,"Petróleo, gás natural e serviços de apoio",17
+CARVÃO VAPOR,2,2,Carvão mineral,20,Carvão mineral,15
+CARVÃO METALÚRGICO,-,-,nc,,nc,
+URÂNIO U3O8,-,-,nc,,nc,
+ENERGIA HIDRÁULICA,-,-,nc,,nc,
+LENHA,6,6,Produtos da exploração florestal e da silvicultura,11,Produtos da exploração florestal e da silvicultura,13
+PRODUTOS DA CANA,7,7,Produtos das usinas e do refino de açúcar,37,Etanol e outros biocombustíveis,51
+OUTRAS FONTES PRIMÁRIAS,8,8,Produtos da exploração florestal e da silvicultura,11,Produtos da exploração florestal e da silvicultura,13
+BIODIESEL,-,-,nc,,nc,
+ÓLEO DIESEL,11,10,Óleo diesel,55,Diesel – biodiesel,49
+ÓLEO COMBUSTÍVEL,12,11,Óleo combustível,54,Óleo combustível,48
+GASOLINA,13,12,Gasoálcool,53,Gasoálcool,46
+GLP,14,13,Gás liquefeito de petróleo,51,Outros produtos do refino do petróleo,50
+NAFTA,-,-,nc,,nc,
+QUEROSENE,16,15,Outros produtos do refino de petróleo e coque,56,Outros produtos do refino do petróleo,50
+GÁS DE CIDADE E DE COQUERIA,17,16,Produção e distribuição de eletricidade gás água esgoto e limpeza urbana,86,"Eletricidade, gás e outras utilidades",87
+COQUE DE CARVÃO MINERAL,18,17,Carvão mineral,20,Carvão mineral,15
+URÂNIO CONTIDO NO UO2,-,-,nc,,nc,
+ELETRICIDADE,20,19,Produção e distribuição de eletricidade gás água esgoto e limpeza urbana,86,"Eletricidade, gás e outras utilidades",87
+CARVÃO VEGETAL,21,20,Produtos químicos orgânicos,59,Produtos químicos orgânicos,54
+ÁLCOOL ETÍLICO ANIDRO E HIDRATADO,22,21,Álcool,57,Etanol e outros biocombustíveis,51
+OUTRAS SECUNDÁRIAS DE PETRÓLEO,23,22,Outros produtos do refino de petróleo e coque,56,Outros produtos do refino do petróleo,50
+PRODUTOS NÃO ENERGÉTICOS DE PETRÓLEO,-,-,nc,,nc,
+ALCATRÃO,25,24,Carvão mineral,20,Carvão mineral,15
