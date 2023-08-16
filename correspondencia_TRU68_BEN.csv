@@ -6,10 +6,10 @@ atividade,descricao,Secao_ISIC_Rev.4,ben
 0680,"Extração de petróleo e gás, inclusive as atividades de apoio",B,SETOR ENERGÉTICO
 0791,"Extração de minério de ferro, inclusive beneficiamento e a aglomeração",B,MINERAÇÃO E PELOTIZAÇÃO
 0792,"Extração de minerais metálicos não ferrosos, inclusive beneficiamentos",B,MINERAÇÃO E PELOTIZAÇÃO
-1091,"Abate e produtos de carne, inclusive os produtos do laticínio e da pesca",C,OUTRAS INDÚSTRIAS
-1092,"Fabricação e refino de açúcar",C,OUTRAS INDÚSTRIAS
-1093,"Outros produtos alimentares",C,OUTRAS INDÚSTRIAS
-1100,"Fabricação de bebidas",C,OUTRAS INDÚSTRIAS
+1091,"Abate e produtos de carne, inclusive os produtos do laticínio e da pesca",C,ALIMENTOS E BEBIDAS
+1092,"Fabricação e refino de açúcar",C,ALIMENTOS E BEBIDAS
+1093,"Outros produtos alimentares",C,ALIMENTOS E BEBIDAS
+1100,"Fabricação de bebidas",C,ALIMENTOS E BEBIDAS
 1200,Fabricação de produtos do fumo,C,OUTRAS INDÚSTRIAS
 1300,Fabricação de produtos têxteis,C,TÊXTIL
 1400,Confecção de artefatos do vestuário e acessórios,C,OUTRAS INDÚSTRIAS
