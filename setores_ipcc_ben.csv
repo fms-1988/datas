@@ -1,21 +1,23 @@
-setor_btt,setor_ben,setor_ipcc
-1,SETOR ENERGÉTICO,1.A.1.a.       Produção de eletricidade e calor como atividade principal
-1,SETOR ENERGÉTICO,1.A.1.b.       Refino de petróleo
-1,SETOR ENERGÉTICO,1.A.1.c.       Produção de combustíveis sólidos e outras indústrias de energia
-,,1.A.2.     Indústrias de Transformação e Construção
-8,FERRO-LIGAS + FERRO-GUSA E AÇO,1.A.2.a.       Ferro e aço
-9,NÃO-FERROSOS E OUTROS DA METALURGIA,1.A.2.b.       Metais não ferrosos
-6,QUÍMICA,1.A.2.c.       Produtos quimicos
-5,PAPEL E CELULOSE,"1.A.2.d.       Celulose, papel e impressão"
-3,ALIMENTOS E BEBIDAS,"1.A.2.e.       Processamento de alimentos, bebidas e tabaco"
-7,CIMENTO + CERÂMICA,1.A.2.f.       Minerais não metálicos
-10,OUTROS,1.A.2.g.       Equipamentos de transporte
-2,MINERAÇÃO E PELOTIZAÇÃO,1.A.2.i.       Mineração (exceto combustíveis) e extração
-4,TÊXTIL,1.A.2.l.       Têxtil e couro
-12,,1.A.3.     Transporte
-,,1.A.4.     Outros Setores
-11 + 13,COMERCIAL (+ Publico),1.A.4.a.       Comercial / institucional
-RESIDENCIAL,RESIDENCIAL,1.A.4.b.       Residencial
-0,AGROPECUÁRIO,1.A.4.c.       Agricultura / silvicultura / pesca / piscicultura
-1,SETOR ENERGÉTICO,1.B.1.     Combustíveis sólidos
-1,SETOR ENERGÉTICO,1.B.2.     Petróleo e Gás Natural 
+sector_ben_68_line,sector_ben_51_line,setor_ben,sector_ipcc
+1,1,SETOR ENERGÉTICO,1.A.1.a.       Produção de eletricidade e calor como atividade principal
+1,1,SETOR ENERGÉTICO,1.A.1.b.       Refino de petróleo
+1,1,SETOR ENERGÉTICO,1.A.1.c.       Produção de combustíveis sólidos e outras indústrias de energia
+9,8,FERRO-LIGAS + FERRO-GUSA E AÇO,1.A.2.a.       Ferro e aço
+10,9,NÃO-FERROSOS E OUTROS DA METALURGIA,1.A.2.b.       Metais não ferrosos
+7,6,QUÍMICA,1.A.2.c.       Produtos quimicos
+6,5,PAPEL E CELULOSE,"1.A.2.d.       Celulose, papel e impressão"
+3,3,ALIMENTOS E BEBIDAS,"1.A.2.e.       Processamento de alimentos, bebidas e tabaco"
+8,7,CIMENTO + CERÂMICA,1.A.2.f.       Minerais não metálicos
+4,10,OUTROS,1.A.2.g.       Equipamentos de transporte
+2,2,MINERAÇÃO E PELOTIZAÇÃO,1.A.2.i.       Mineração (exceto combustíveis) e extração
+5,4,TÊXTIL,1.A.2.l.       Têxtil e couro
+nc,12,AÉREO + RODOVIÁRIO + FERROVIÁRIO + HIDROVIÁRIO,1.A.3.     Transporte
+15,nc,AÉREO,1.A.3.a.ii.          Aviação doméstica
+13,nc,RODOVIÁRIO + FERROVIÁRIO,1.A.3.b.       Transporte rodoviário
+13,nc,RODOVIÁRIO + FERROVIÁRIO,1.A.3.c.       Transporte Ferroviário
+14,nc,HIDROVIÁRIO,1.A.3.d.ii.          Navegação doméstica
+11 + 12,11 + 13,COMERCIAL + PUBLICO,1.A.4.a.       Comercial / institucional
+RESIDENCIAL,RESIDENCIAL,RESIDENCIAL,1.A.4.b.       Residencial
+0,0,AGROPECUÁRIO,1.A.4.c.       Agricultura / silvicultura / pesca / piscicultura
+1,1,SETOR ENERGÉTICO,1.B.1.     Combustíveis sólidos
+1,1,SETOR ENERGÉTICO,1.B.2.     Petróleo e Gás Natural 
