@@ -106,7 +106,7 @@ Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal;
 Comércio varejista de doces, balas, bombons e semelhantes;4721;4580
 Comércio varejista de equipamentos para escritório;4789;4580
 Comércio varejista de ferragens e ferramentas;4744;4580
-Comércio varejista de gás liquefeito de petróleo (GLP);4784.0;4580.0
+Comércio varejista de gás liquefeito de petróleo (GLP);4784;4580
 Comércio varejista de hortifrutigranjeiros;4724;4580
 Comércio varejista de laticínios e frios;4721;4580
 Comércio varejista de livros;4761;4580
@@ -120,7 +120,7 @@ Comércio varejista de mercadorias em geral, com predominância de produtos alim
 Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados;4711;4580
 Comércio varejista de mercadorias em lojas de conveniência;4729;4580
 Comércio varejista de móveis;4754;4580
-Comércio varejista de outros artigos de uso pessoal e doméstico não especificados anteriormente;4759.0;4580.0
+Comércio varejista de outros artigos de uso pessoal e doméstico não especificados anteriormente;4759;4580
 Comércio varejista de outros artigos usados;4785;4580
 Comércio varejista de outros produtos não especificados anteriormente;4789;4580
 Comércio varejista de plantas e flores naturais;4789;4580
@@ -229,16 +229,16 @@ Portais, provedores de conteúdo e outros serviços de informação na internet;
 Produção de filmes para publicidade;5911;5980
 Serviços de comunicação multimídia - SCM;6110;6100
 Suporte técnico, manutenção e outros serviços em tecnologia da informação;6209;6280
-Atividades de Estética e outros serviços de cuidados com a beleza;9602.0;9480.0
+Atividades de Estética e outros serviços de cuidados com a beleza;9602;9480
 Cabeleireiros, manicure e pedicure;9602;9480
 Chaveiros;9529;9480
 Lavanderias;9601;9480
 Outras atividades de serviços pessoais não especificadas anteriormente;9609;9480
 Reparação de artigos do mobiliário;9529;9480
 Reparação de bicicletas, triciclos e outros veículos não-motorizados;9529;9480
-Reparação de joias;9529.0;9480.0
+Reparação de joias;9529;9480
 Reparação e manutenção de computadores e de equipamentos periféricos;9511;9480
-Reparação e manutenção de equipamentos de comunicação;9512;9480.0
+Reparação e manutenção de equipamentos de comunicação;9512;9480
 Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico;9521;9480
 Serviços de funerárias;9603;9480
 Atividade médica ambulatorial com recursos para realização de exames complementares;8630;8691
@@ -257,11 +257,11 @@ Atividades auxiliares dos transportes aéreos, exceto operação dos aeroportos 
 Estacionamento de veículos;5223;5280
 Outros transportes aquaviários não especificados anteriormente;5099;5000
 Serviço de transporte de passageiros - locação de automóveis com motorista;4923;4900
-Serviços de entrega rápida;5320;5280.0
-Serviços de malote não realizados pelo Correio Nacional;5320;5280.0
+Serviços de entrega rápida;5320;5280
+Serviços de malote não realizados pelo Correio Nacional;5320;5280
 Serviços de reboque de veículos;5229;5280
 Transporte escolar;4924;4900
-Transporte por navegação de travessia intermunicipal, interestadual e internacional;5091.0;5000.0
+Transporte por navegação de travessia intermunicipal, interestadual e internacional;5091;5000
 Transporte rodoviário coletivo de passageiros, com itinerário fixo, municipal;4921;4900
 Transporte rodoviário coletivo de passageiros, sob regime de fretamento, municipal;4929;4900
 Transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional;4930;4900
@@ -293,7 +293,7 @@ Aluguel de material médico;7729;7700
 Aluguel de máquinas e equipamentos agrícolas sem operador;7731;7700
 Aluguel de máquinas e equipamentos para escritório;7733;7700
 "Aluguel de móveis, utensílios e aparelhos de uso doméstico e pessoal; instrumentos musicais";7729;7700
-Aluguel de objetos do vestuário, joias e acessórios;7723.0;7700.0
+Aluguel de objetos do vestuário, joias e acessórios;7723;7700
 Aluguel de palcos, coberturas e outras estruturas de uso temporário, exceto andaimes;7739;7700
 Atividades de teleatendimento;8220;7880
 Condomínios prediais;8112;7880
@@ -480,7 +480,7 @@ Recondicionamento e recuperação de motores para veículos automotores;2950;299
 Reforma de pneumáticos usados;2212;2200
 Serviços de confecção de armações metálicas para a construção;2599;2500
 Serviços de tratamento e revestimento em metais;2539;2500
-Serviços de usinagem, tornearia e solda;2539.0;2500.0
+Serviços de usinagem, tornearia e solda;2539;2500
 Extração e britamento de pedras e outros materiais para construção e beneficiamento associado;0810;0580
 Atividades de gravação de som e de edição de música;5920;5980
 Atividades de rádio;6010;5980
@@ -513,7 +513,7 @@ Laboratórios de anatomia patológica e citológica;8640;8691
 Serviços de diagnóstico por registro gráfico - ECG, EEG e outros exames análogos;8640;8691
 Serviços de tomografia;8640;8691
 Armazéns gerais - emissão de warrant;5211;5280
-Atividades de franqueadas e permissionárias do Correio Nacional;5310;5280.0
+Atividades de franqueadas e permissionárias do Correio Nacional;5310;5280
 Carga e descarga;5212;5280
 Depósitos de mercadorias para terceiros, exceto armazéns gerais e guarda-móveis;5211;5280
 Organização de excursões em veículos rodoviários próprios, municipal;4929;4900
@@ -564,7 +564,7 @@ Comércio atacadista de artigos de cama, mesa e banho;4641;4580
 Comércio atacadista de aves abatidas e derivados;4634;4580
 Comércio atacadista de bebidas com atividade de fracionamento e acondicionamento associada;4635;4580
 Comércio atacadista de café torrado, moído e solúvel;4637;4580
-Comércio atacadista de joias, relógios e bijuterias, inclusive pedras preciosas e semipreciosas lapidadas;4649.0;4580.0
+Comércio atacadista de joias, relógios e bijuterias, inclusive pedras preciosas e semipreciosas lapidadas;4649;4580
 Comércio atacadista de madeira e produtos derivados;4671;4580
 "Comércio atacadista de máquinas e equipamentos para uso comercial; partes e peças";4665;4580
 "Comércio atacadista de máquinas, equipamentos para terraplenagem, mineração e construção; partes e peças";4662;4580
@@ -950,7 +950,7 @@ Gestão de redes de esgoto;3701;3680
 Fabricação de materiais para medicina e odontologia;3250;3180
 Serviços móveis de atendimento a urgências, exceto por UTI móvel;8621;8691
 Defesa;8422;8400
-Seguridade social obrigatória;8430;8400.0
+Seguridade social obrigatória;8430;8400
 Previdência complementar aberta;6542;6480
 Representações de bancos estrangeiros;6619;6480
 Sociedade seguradora de seguros não vida;6512;6480
@@ -958,8 +958,8 @@ Transmissão de energia elétrica;3512;3500
 Frigorífico - abate de suínos;1012;1091
 Serviços de mixagem sonora em produção audiovisual;5912;5980
 Telecomunicações por satélite;6130;6100
-Organismos internacionais e outras instituições extraterritoriais;9900;9480.0
-Atividades do Correio Nacional;5310;5280.0
+Organismos internacionais e outras instituições extraterritoriais;9900;9480
+Atividades do Correio Nacional;5310;5280
 Auditoria e consultoria atuarial;6621;6480
 Corretoras de contratos de mercadorias;6612;6480
 Agente de propriedade industrial;6911;6980
@@ -988,7 +988,7 @@ Serviço de manejo de animais;0162;0192
 Exploração de boliches;9329;9080
 Leiloeiros independentes;8299;7880
 Comércio atacadista de óleos e gorduras;4637;4580
-Comércio por atacado de reboques e semirreboques novos e usados;4511.0;4580.0
+Comércio por atacado de reboques e semirreboques novos e usados;4511;4580
 Abate de pequenos animais;1012;1091
 Fabricação de automóveis, camionetas e utilitários;2910;2991
 Fabricação de biocombustíveis, exceto álcool;1932;1992
@@ -1123,7 +1123,7 @@ Corretoras de câmbio;6612;6480
 Distribuidoras de títulos e valores mobiliários;6612;6480
 Fundos de investimento imobiliários;6470;6480
 Resseguros;6530;6480
-Sociedade seguradora de seguros saúde;6520.0;6480.0
+Sociedade seguradora de seguros saúde;6520;6480
 Sociedades de capitalização;6450;6480
 Serviços de microfilmagem;7420;7380
 Fabricação de caminhões e ônibus;2920;2991
@@ -1208,7 +1208,7 @@ Fabricação de tratores, peças e acessórios, exceto agrícolas;2853;2800
 Fabricação de turbinas, motores e outros componentes e peças para aeronaves;3042;3000
 Metalurgia do cobre;2443;2492
 Produção de zinco em formas primárias;2449;2492
-Produção de ânodos para galvanoplastia;2449.0;2492.0
+Produção de ânodos para galvanoplastia;2449;2492
 Rerrefino de óleos lubrificantes;1922;1991
 Orfanatos;8730;8691
 Serviços de bancos de células e tecidos humanos;8640;8691
@@ -1230,17 +1230,17 @@ Higiene e embelezamento de animais domésticos;9609;9480
 Fabricação de adubos e fertilizantes, exceto organo-minerais;2013;2091
 Desenvolvimento de programas de computador sob encomenda;6201;6280
 Outras atividades associativas profissionais;9412;9480
-Atividades de design não especificadas anteriormente;7410.0;7380.0
+Atividades de design não especificadas anteriormente;7410;7380
 Atividades auxiliares dos transportes aquaviários não especificadas anteriormente;5239;5280
 Edição de jornais não diários;5812;5800
 Edição integrada à impressão de jornais diários;5822;5800
-Web design;6201.0;6280.0
+Web design;6201;6280
 Alojamento de animais domésticos;9609;9480
 Associações de poupança e empréstimo;6435;6480
 Caixas econômicas;6423;6480
 Atividades de fiscalização profissional;9412;9480
 Fabricação de adubos e fertilizantes organo-minerais;2013;2091
-Design de produto;7410.0;7380.0
+Design de produto;7410;7380
 Edição integrada à impressão de jornais não diários;5822;5800
 Outras atividades de serviços de segurança;8020;8000
 Comércio atacadista de combustíveis de origem mineral em bruto;4681;4580
@@ -1258,11 +1258,11 @@ Lojas de departamentos ou magazines, exceto lojas francas (Duty free);4713;4580
 Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento;5611;5600
 Serrarias sem desdobramento de madeira em bruto - Resseragem;1610;1600
 Comércio a varejo de peças e acessórios usados para motocicletas e motonetas;4541;4500
-Serviço de secagem, preservação e imunização de madeira;1610.0;1600.0
+Serviço de secagem, preservação e imunização de madeira;1610;1600
 Beneficiamento de minério de manganês;0723;0792
 Cultivo de acácia-negra;0210;0280
 Beneficiamento de carvão mineral;0500;0580
-Lojas Francas (Duty Free) de aeroportos, portos e em fronteiras terrestres;4713.0;4580.0
+Lojas Francas (Duty Free) de aeroportos, portos e em fronteiras terrestres;4713;4580
 Cunhagem de moedas e medalhas;3211;3180
 Extração de minérios de nióbio e titânio;0729;0792
 Coleta de palmito em florestas nativas;0220;0280
