@@ -1,0 +1,129 @@
+codigo_produto,produto,atividade_TRU68_codigo_SCN
+01911,"Arroz, trigo e outros cereais",0191
+01912,Milho em grão,0191
+01913,"Algodão herbáceo, outras fibras da lav. temporária",0191
+01914,Cana-de-açúcar,0191
+01915,Soja  em grão,0191
+01916,Outros produtos e serviços da lavoura temporária,0191
+01917,Laranja,0191
+01918,Café em grão,0191
+01919,Outros produtos da lavoura permanente,0191
+01921,"Bovinos e outros animais vivos, prods. animal, caça e serv.",0192
+01922,Leite de vaca e de outros animais,0192
+01923,Suínos,0192
+01924,Aves e ovos,0192
+02801,Produtos da exploração florestal e da silvicultura,0280
+02802,"Pesca e aquicultura (peixe, crustáceos e moluscos)",0280
+05801,Carvão mineral,0580
+05802,Minerais não-metálicos,0580
+06801,"Petróleo, gás natural e serviços de apoio",0680
+07911,Minério de ferro,0791
+07921,Minerais metálicos não-ferrosos,0792
+10911,Carne de bovinos e outros prod. de carne,1091
+10912,Carne de suíno,1091
+10913,Carne de aves,1091
+10914,Pescado industrializado,1091
+10915,"Leite resfriado, esterilizado e pasteurizado",1091
+10916,Outros produtos do laticínio,1091
+10921,Açúcar,1092
+10931,"Conservas de frutas, legumes, outros vegetais e sucos de frutas",1093
+10932,Óleos e gorduras vegetais e animais,1093
+10933,Café beneficiado,1093
+10934,Arroz beneficiado e produtos derivados do arroz,1093
+10935,"Produtos derivados do trigo, mandioca ou milho",1093
+10936,Rações balanceadas para animais,1093
+10937,Outros produtos alimentares,1093
+11001,Bebidas,1100
+12001,Produtos do fumo,1200
+13001,Fios e fibras têxteis beneficiadas,1300
+13002,Tecidos,1300
+13003,Art. têxteis de uso doméstico e outros têxteis,1300
+14001,Artigos do vestuário e acessórios,1400
+15001,Calçados e artefatos de couro,1500
+16001,"Produtos de madeira, exclusive móveis",1600
+17001,Celulose,1700
+17002,"Papel, papelão, embalagens e artefatos de papel",1700
+18001,Serviços de impressão e reprodução,1800
+19911,Combustíveis para aviação,1991
+19912,Gasoálcool,1991
+19913,Naftas para petroquímica,1991
+19914,Óleo combustível  ,1991
+19915,Diesel - biodiesel,1991
+19916,Outros produtos do refino do petróleo,1991
+19921,Etanol e outros biocombustíveis,1992
+20911,Produtos químicos inorgânicos,2091
+20912,Adubos e fertilizantes,2091
+20913,Produtos químicos orgânicos,2091
+20914,"Resinas,elastômeros e fibras artif. e sintéticas",2091
+20921,Defensivos agrícolas e desinfestantes domissanitários,2092
+20922,Produtos químicos diversos ,2092
+20923,"Tintas, vernizes, esmaltes e lacas",2092
+20931,"Perfumaria, sabões e artigos de limpeza",2093
+21001,Produtos farmacêuticos,2100
+22001,Artigos de borracha,2200
+22002,Artigos de plástico,2200
+23001,Cimento,2300
+23002,"Artefatos de cimento, gesso e semelhantes",2300
+23003,"Vidros, cerâmicos e outros prod. de minerais não-metálicos",2300
+24911,Ferro-gusa e ferroligas,2491
+24912,"Semi-acabacados, laminados planos, longos e tubos de aço",2491
+24921,Produtos da metalurgia de metais não-ferrosos,2492
+24922,Peças fundidas de aço e de metais não ferrosos,2492
+25001,"Produtos de metal, excl. máquinas e equipamentos",2500
+26001,Componentes eletrônicos,2600
+26002,Máquinas para escritório e equip. de informática,2600
+26003,Material eletrônico e equip. de comunicações,2600
+26004,"Equip. de medida, teste e controle, ópticos e eletromédicos",2600
+27001,"Máquinas, aparelhos e materiais elétricos",2700
+27002,Eletrodomésticos,2700
+28001,Tratores e outras máquinas agrícolas,2800
+28002,Máquinas para a extração mineral e a construção,2800
+28003,Outras máquinas e equipamentos mecânicos,2800
+29911,"Automóveis, camionetas e utilitários",2991
+29912,"Caminhões e ônibus, incl. cabines, carrocerias e reboques",2991
+29921,Peças e acessórios para veículos automotores,2992
+30001,"Aeronaves, embarcações e outros equipamentos de transporte",3000
+31801,Móveis,3180
+31802,Produtos de industrias diversas,3180
+33001,"Manutenção, reparação e instalação de máquinas e equipamentos",3300
+35001,"Eletricidade, gás e outras utilidades",3500
+36801,"Água, esgoto, reciclagem e gestão de resíduos",3680
+41801,Edificações,4180
+41802,Obras de infra-estrutura,4180
+41803,Serviços especializados para construção,4180
+45001,Comércio e reparação de veículos,4500
+46801,"Comércio por atacado e a varejo, exceto veículos automotores",4680
+49001,Transporte terrestre de carga,4900
+49002,Transporte terrestre de passageiros,4900
+50001,Transporte aquaviário,5000
+51001,Transporte aéreo,5100
+52801,Armazenamento e serviços auxiliares aos transportes,5280
+52802,Correio e outros serviços de entrega,5280
+55001,Serviços de alojamento em hotéis e similares,5500
+56001,Serviços  de alimentação,5600
+58001,"Livros, jornais e revistas",5800
+59801,"Serviços cinematográficos, música, rádio e televisão",5980
+61001,"Telecomunicações, TV por assinatura e outros serv. relacionados",6100
+62801,Desenvolvimento de sistemas e outros serviços de informação,6280
+64801,"Intermediação financeira, seguros e previdência complementar",6480
+68001,Aluguel efetivo e serviços imobiliários,6800
+68002,Aluguel imputado,6800
+69801,"Serviços jurídicos, contabilidade e consultoria",6980
+71801,Pesquisa e desenvolvimento,7180
+71802,Serviços de arquitetura e engenharia,7180
+73801,Publicidade e outros serviços técnicos,7380
+77001,Aluguéis não-imob. e gestão de ativos de propriedade intelectual,7700
+78801,Condomínios e serviços para edifícios,7880
+78802,Outros serviços administrativos,7880
+80001,"Serviços de vigilância, segurança e investigação",8000
+84001,Serviços coletivos da administração pública,8400
+84002,Serviços de previdência e assistência social,8400
+85911,Educação pública,8591
+85921,Educação privada,8592
+86911,Saúde pública,8691
+86921,Saúde privada,8692
+90801,"Serviços de artes, cultura, esporte e recreação",9080
+94801,"Organizações patronais, sindicais e outros serviços associativos",9480
+94802,"Manutenção de computadores, telefones e objetos domésticos",9480
+94803,Serviços pessoais,9480
+97001,Serviços domésticos,9700
