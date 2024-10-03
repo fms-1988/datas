@@ -1,0 +1,81 @@
+Cod_GTAP;Sec_GTAP;Cod_IBGE;Sec_IBGE;DescrSetor;CodGTAP;GTAP;ShareCN;FatorCN;GTAP_2;IPCA;A-I-S-M;C-NC
+1;Agricultura1;0191;1;Agricultura, inclusive o apoio à agricultura e a pós-colheita;1;Agricultura1;1;1;Agricultura1;Alimentos in natura; A;C
+2;Pecuaria2;0192;2;Pecuária, inclusive o apoio à pecuária;2;Pecuaria2;1;1;Pecuaria2;Alimentos in natura; A;C
+3;FlorPesAqu3;0280;3;"Produção florestal; pesca e aquicultura";3;FlorPesAqu3;1;1;FlorPesAqu3;Alimentos in natura; A;NC
+4;MineCarvao4;0580;4;Extração de carvão mineral e de minerais não-metálicos;4;MineCarvao4;1;1;MineCarvao4;Serviços - Subjacente; I;C
+5;PetrolGas5;0680;5;Extração de petróleo e gás, inclusive as atividades de apoio;5;PetrolGas5;1;1;PetrolGas5;Serviços - Subjacente; I;C
+6;MineMetal6;0791;6;Extração de minério de ferro, inclusive beneficiamentos e a aglomeração;6;MineMetal6;0,87;1;MineMetal6;Serviços - Subjacente; I;C
+6;MineNferr7;0792;7;Extração de minerais metálicos não-ferrosos, inclusive beneficiamentos;6;MineNferr7;0,13;1;MineMetal6;Serviços - Subjacente; I;C
+7;Abate8;1091;8;Abate e produtos de carne, inclusive os produtos do laticínio e da pesca;7;Abate8;1;1;Abate8;Alimentos semi-elaborados; A;NC
+8;RefinAcucar9;1092;9;Fabricação e refino de açúcar;8;RefinAcucar9;1;1;RefinAcucar9;Alimentos industrializados; A;C
+9;OutAlim10;1093;10;Outros produtos alimentares;9;OutAlim10;1;1;OutAlim10;Alimentos industrializados; A;NC
+10;Bebidas11;1100;11;Fabricação de bebidas;10;Bebidas11;0,8;1;Bebidas11;Alimentos industrializados; A;C
+10;Fumo12;1200;12;Fabricação de produtos do fumo;10;Fumo12;0,2;1;Bebidas11;Alimentos industrializados; I;C
+11;Texteis13;1300;13;Fabricação de produtos têxteis;11;Texteis13;1;1;Texteis13;Duráveis; I;C
+12;Vestuario14;1400;14;Confecção de artefatos do vestuário e acessórios;12;Vestuario14;1;1;Vestuario14;Semi-duráveis; I;C
+13;Couro15;1500;15;Fabricação de calçados e de artefatos de couro;13;Couro15;1;1;Couro15;Semi-duráveis; I;C
+14;Madeira16;1600;16;Fabricação de produtos da madeira;14;Madeira16;1;1;Madeira16;Duráveis; I;C
+15;Papel17;1700;17;Fabricação de celulose, papel e produtos de papel;15;Papel17;0,76;1;Papel17;Duráveis; I;C
+15;Impres18;1800;18;Impressão e reprodução de gravações;15;Impres18;0,24;1;Papel17;Duráveis; I;C
+16;RefiPetrol19;1991;19;Refino de petróleo e coquerias;16;RefiPetrol19;0,91;1;RefiPetrol19;Serviços - Subjacente;M;NC
+16;BioComb20;1992;20;Fabricação de biocombustíveis;16;BioComb20;0,09;1;RefiPetrol19;Serviços - Subjacente;M;NC
+17;Quimicos21;2091;21;Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros;17;Quimicos21;0,56;1;Quimicos21;Não duráveis; I;C
+17;DefTint22;2092;22;Fabricação de defensivos, desinfestantes, tintas e químicos diversos;17;DefTint22;0,28;1;Quimicos21;Não duráveis; I;C
+17;CosmLimp23;2093;23;Fabricação de produtos de limpeza, cosméticos/perfumaria e higiene pessoal;17;CosmLimp23;0,16;1;Quimicos21;Não duráveis; I;C
+18;Farmacos24;2100;24;Fabricação de produtos farmoquímicos e farmacêuticos;18;Farmacos24;1;1;Farmacos24;Não duráveis;M;NC
+19;BorrPlast25;2200;25;Fabricação de produtos de borracha e de material plástico;19;BorrPlast25;1;1;BorrPlast25;Semi-duráveis; I;C
+20;FabMinNmet26;2300;26;Fabricação de produtos de minerais não-metálicos;20;FabMinNmet26;1;1;FabMinNmet26;Duráveis; I;NC
+21;FabFerrAco27;2491;27;Produção de ferro-gusa/ferroligas, siderurgia e tubos de aço sem costura;21;FabFerrAco27;1;1;FabFerrAco27;Serviços - Subjacente; I;C
+22;FabMetnFer28;2492;28;Metalurgia de metais não-ferosos e a fundição de metais;22;FabMetnFer28;1;1;FabMetnFer28;Duráveis; I;C
+23;FabProdMet29;2500;29;Fabricação de produtos de metal, exceto máquinas e equipamentos;23;FabProdMet29;1;1;FabProdMet29;Duráveis; I;C
+24;FabComp30;2600;30;Fabricação de equipamentos de informática, produtos eletrônicos e ópticos;24;FabComp30;1;1;FabComp30;Duráveis; I;C
+25;FabEqElet31;2700;31;Fabricação de máquinas e equipamentos elétricos;25;FabEqElet31;1;1;FabEqElet31;Duráveis; I;C
+26;FabEqMec32;2800;32;Fabricação de máquinas e equipamentos mecânicos;26;FabEqMec32;1;1;FabEqMec32;Duráveis; I;C
+27;FabAuto33;2991;33;Fabricação de automóveis, caminhões e ônibus, exceto peças;27;FabAuto33;0,69;1;FabAuto33;Duráveis; I;C
+27;FabOutVeic;2992;34;Fabricação de peças e acessórios para veículos automotores;27;FabOutVeic;0,31;1;FabAuto33;Duráveis; I;C
+28;FabEqTran35;3000;35;Fabricação de outros equipamentos de transporte, exceto veículos automotores;28;FabEqTran35;1;1;FabEqTran35;Semi-duráveis; I;C
+29;FabDivers36;3180;36;Fabricação de móveis e de produtos de indústrias diversas;29;FabDivers36;0,55;1;FabDivers36;Serviços - Subjacente; I;C
+29;ManRep;3300;37;Manutenção, reparação e instalação de máquinas e equipamentos;29;ManRep;0,45;1;FabDivers36;Serviços - Subjacente; S;NC
+30;EletGas38;3500;38;Energia elétrica, gás natural e outras utilidades;30;EletGas38;1;1;EletGas38;Serviços;M;NC
+31;DistAgua39;3680;39;Água, esgoto e gestão de resíduos;31;DistAgua39;1;1;DistAgua39;Duráveis;M;NC
+32;Construc40;4180;40;Construção;32;Construc40;1;1;Construc40;Duráveis; S;NC
+33;Comercio41;4500;41;Comércio e reparação de veículos automotores e motocicletas;33;Comercio41;0,15;1;Comercio41;Serviços; S;NC
+33;AtacVarej42;4680;42;Comércio por atacado e a varejo, exceto veículos automotores;33;AtacVarej42;0,85;1;Comercio41;Serviços; S;NC
+34;TranspTer43;4900;43;Transporte terrestre;34;TranspTer43;1;1;TranspTer43;Serviços;M;NC
+35;TranspAqu44;5000;44;Transporte aquaviário;35;TranspAqu44;1;1;TranspAqu44;Serviços; S;NC
+36;TranspAer45;5100;45;Transporte aéreo;36;TranspAer45;1;1;TranspAer45;Serviços; S;NC
+37;TranspAux46;5280;46;Armazenamento, atividades auxiliares dos transportes e correio;37;TranspAux46;1;1;TranspAux46;Serviços;M;NC
+38;Alojamen47;5500;47;Alojamento;38;Alojamen47;0,1;1;Alojamen47;Alimentos; S;NC
+38;Aliment48;5600;48;Alimentação;38;Aliment48;0,9;1;Alojamen47;Duráveis; S;NC
+39;Edicao49;5800;49;Edição e edição integrada à impressão;39;Edicao49;0,07;1;Comun51;Serviços; S;NC
+39;Audiovis50;5980;50;Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem;39;Audiovis50;0,12;1;Comun51;Serviços; S;NC
+39;Comun51;6100;51;Telecomunicações;39;Comun51;0,49;1;Comun51;Serviços;M;NC
+39;TecInf52;6280;52;Desenvolvimento de sistemas e outros serviços de informação;39;TecInf52;0,32;1;Comun51;Serviços; S;NC
+40;FinSeg53;6480;53;Intermediação financeira, seguros e previdência complementar;40;FinSeg53;1;1;FinSeg53;Serviços; S;NC
+41;Imobil54;6800;54;Atividades imobiliárias;41;Imobil54;1;1;Imobil54;Serviços; S;NC
+42;ServEmpr55;6980;55;Atividades jurídicas, contábeis, consultoria e sedes de empresas;42;ServEmpr55;0,28;1;ServEmpr55;Serviços;M;NC
+42;;7180;56;Serviços de arquitetura, engenharia, testes/análises técnicas e P & D;42;;0,12;1;ServEmpr55;Serviços; S;NC
+42;;7380;57;Outras atividades profissionais, científicas e técnicas;42;;0,14;1;ServEmpr55;Serviços; S;NC
+42;;7700;58;Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual;42;;0,08;1;ServEmpr55;Serviços; S;NC
+42;;7880;59;Outras atividades administrativas e serviços complementares;42;;0,32;1;ServEmpr55;Serviços; S;NC
+42;;8000;60;Atividades de vigilância, segurança e investigação;42;;0,06;1;ServEmpr55;Serviços; S;NC
+43;AdmPub61;8400;61;Administração pública, defesa e seguridade social;43;AdmPub61;1;1;AdmPub61;Serviços; S;NC
+44;Educ62;8591;62;Educação pública;44;Educ62;0,75;1;Educ62;Serviços; S;NC
+44;EducPriv63;8592;63;Educação privada;44;EducPriv63;0,25;1;Educ62;Serviços; S;NC
+45;Saud64;8691;64;Saúde pública;45;Saud64;0,48;1;Saud64;Serviços; S;NC
+45;SaudPriv65;8692;65;Saúde privada;45;SaudPriv65;0,52;1;Saud64;Serviços;M;NC
+46;ArteOut66;9080;66;Atividades artísticas, criativas e de espetáculos;46;ArteOut66;0,14;1;ArteOut66;Serviços;M;NC
+46;OrgPess67;9480;67;Organizações associativas e outros serviços pessoais;46;OrgPess67;0,61;1;ArteOut66;Serviços;M;NC
+46;ServDom68;9700;68;Serviços domésticos;46;ServDom68;0,25;1;ArteOut66;Serviços; S;NC
+;;;;;;;;;;;;
+"1/ A = Alimentos; I = bens industriais; S = serviços; M = monitorados.";;;;;;;;;;;;
+"2/ C = bens comercializáveis; NC = bens não comercializáveis.";;;;;;;;;;;;
+"3/ D = bens duráveis; SD = bens semi-duráveis; ND = bens não duráveis.";;;;;;;;;;;;
+;;;;;;;;;;;;
+classe;Peso IPCA;;;;;;;;;;;
+ A;15.67;;;;;;;;;;;
+ I;23.24;;;;;;;;;;;
+ S;35.82;;;;;;;;;;;
+M;25.28;;;;;;;;;;;
+;;;;;;;;;;;;
+fonte: https://www.bcb.gov.br/conteudo/relatorioinflacao/EstudosEspeciais/EE069_Atualizacoes_da_estrutura_de_ponderacao_do_IPCA_e_repercussao_nas_suas_classificacoes.pdf;;;;;;;;;;;;
