@@ -1,0 +1,142 @@
+,Old,region,,New,region
+No.,Code,Description,No.,Code,Description
+1,aus,Australia,11,RestofWorld,Rest of World
+2,nzl,New Zealand,11,RestofWorld,Rest of World
+3,xoc,Rest of Oceania,11,RestofWorld,Rest of World
+4,chn,China,2,China,China
+5,hkg,Hong Kong,6,Asia,Asia (except Middle East)
+6,jpn,Japan,6,Asia,Asia (except Middle East)
+7,kor,Korea,6,Asia,Asia (except Middle East)
+8,mng,Mongolia,6,Asia,Asia (except Middle East)
+9,twn,Taiwan,6,Asia,Asia (except Middle East)
+10,xea,Rest of East Asia,6,Asia,Asia (except Middle East)
+11,brn,Brunei Darassalam,6,Asia,Asia (except Middle East)
+12,khm,Cambodia,6,Asia,Asia (except Middle East)
+13,idn,Indonesia,6,Asia,Asia (except Middle East)
+14,lao,Lao People's Democratic Republ,6,Asia,Asia (except Middle East)
+15,mys,Malaysia,6,Asia,Asia (except Middle East)
+16,phl,Philippines,6,Asia,Asia (except Middle East)
+17,sgp,Singapore,6,Asia,Asia (except Middle East)
+18,tha,Thailand,6,Asia,Asia (except Middle East)
+19,vnm,Viet Nam,6,Asia,Asia (except Middle East)
+20,xse,Rest of Southeast Asia,6,Asia,Asia (except Middle East)
+21,bgd,Bangladesh,6,Asia,Asia (except Middle East)
+22,ind,India,6,Asia,Asia (except Middle East)
+23,npl,Nepal,6,Asia,Asia (except Middle East)
+24,pak,Pakistan,6,Asia,Asia (except Middle East)
+25,lka,Sri Lanka,6,Asia,Asia (except Middle East)
+26,xsa,Rest of South Asia,6,Asia,Asia (except Middle East)
+27,can,Canada,8,ROA,Rest of Americas
+28,usa,United States of America,3,USA,USA
+29,mex,Mexico,8,ROA,Rest of Americas
+30,xna,Rest of North America,8,ROA,Rest of Americas
+31,arg,Argentina,4,Mercosul,Mercosul Members
+32,bol,Bolivia,7,AssMercosul,Mercosur Associates
+33,bra,Brazil,1,Brasil,Brazil
+34,chl,Chile,7,AssMercosul,Mercosur Associates
+35,col,Colombia,7,AssMercosul,Mercosur Associates
+36,ecu,Ecuador,7,AssMercosul,Mercosur Associates
+37,pry,Paraguay,4,Mercosul,Mercosul Members
+38,per,Peru,7,AssMercosul,Mercosur Associates
+39,ury,Uruguay,4,Mercosul,Mercosul Members
+40,ven,Venezuela,8,ROA,Rest of Americas
+41,xsm,Rest of South America,8,ROA,Rest of Americas
+42,cri,Costa Rica,8,ROA,Rest of Americas
+43,gtm,Guatemala,8,ROA,Rest of Americas
+44,hnd,Honduras,8,ROA,Rest of Americas
+45,nic,Nicaragua,8,ROA,Rest of Americas
+46,pan,Panama,8,ROA,Rest of Americas
+47,slv,El Salvador,8,ROA,Rest of Americas
+48,xca,Rest of Central America,8,ROA,Rest of Americas
+49,dom,Dominican Republic,8,ROA,Rest of Americas
+50,jam,Jamaica,8,ROA,Rest of Americas
+51,pri,Puerto Rico,8,ROA,Rest of Americas
+52,tto,Trinidad and Tobago,8,ROA,Rest of Americas
+53,xcb,Caribbean,8,ROA,Rest of Americas
+54,aut,Austria,5,EU28,European Union 28
+55,bel,Belgium,5,EU28,European Union 28
+56,cyp,Cyprus,5,EU28,European Union 28
+57,cze,Czech Republic,5,EU28,European Union 28
+58,dnk,Denmark,5,EU28,European Union 28
+59,est,Estonia,5,EU28,European Union 28
+60,fin,Finland,5,EU28,European Union 28
+61,fra,France,5,EU28,European Union 28
+62,deu,Germany,5,EU28,European Union 28
+63,grc,Greece,5,EU28,European Union 28
+64,hun,Hungary,5,EU28,European Union 28
+65,irl,Ireland,5,EU28,European Union 28
+66,ita,Italy,5,EU28,European Union 28
+67,lva,Latvia,5,EU28,European Union 28
+68,ltu,Lithuania,5,EU28,European Union 28
+69,lux,Luxembourg,5,EU28,European Union 28
+70,mlt,Malta,5,EU28,European Union 28
+71,nld,Netherlands,5,EU28,European Union 28
+72,pol,Poland,5,EU28,European Union 28
+73,prt,Portugal,5,EU28,European Union 28
+74,svk,Slovakia,5,EU28,European Union 28
+75,svn,Slovenia,5,EU28,European Union 28
+76,esp,Spain,5,EU28,European Union 28
+77,swe,Sweden,5,EU28,European Union 28
+78,gbr,United Kingdom,5,EU28,European Union 28
+79,che,Switzerland,11,RestofWorld,Rest of World
+80,nor,Norway,11,RestofWorld,Rest of World
+81,xef,Rest of EFTA,11,RestofWorld,Rest of World
+82,alb,Albania,11,RestofWorld,Rest of World
+83,bgr,Bulgaria,5,EU28,European Union 28
+84,blr,Belarus,11,RestofWorld,Rest of World
+85,hrv,Croatia,5,EU28,European Union 28
+86,rou,Romania,5,EU28,European Union 28
+87,rus,Russian Federation,11,RestofWorld,Rest of World
+88,ukr,Ukraine,11,RestofWorld,Rest of World
+89,xee,Rest of Eastern Europe,11,RestofWorld,Rest of World
+90,xer,Rest of Europe,11,RestofWorld,Rest of World
+91,kaz,Kazakhstan,11,RestofWorld,Rest of World
+92,kgz,Kyrgyztan,11,RestofWorld,Rest of World
+93,xsu,Rest of Former Soviet Union,11,RestofWorld,Rest of World
+94,arm,Armenia,11,RestofWorld,Rest of World
+95,aze,Azerbaijan,11,RestofWorld,Rest of World
+96,geo,Georgia,11,RestofWorld,Rest of World
+97,bhr,Bahrain,9,MiddleEast,Africa
+98,irn,Iran Islamic Republic of,9,MiddleEast,Africa
+99,isr,Israel,9,MiddleEast,Africa
+100,jor,Jordhan,9,MiddleEast,Africa
+101,kwt,Kuwait,9,MiddleEast,Africa
+102,omn,Oman,9,MiddleEast,Africa
+103,qat,Qatar,9,MiddleEast,Africa
+104,sau,Saudi Arabia,9,MiddleEast,Africa
+105,tur,Turkey,11,RestofWorld,Rest of World
+106,are,United Arab Emirates,9,MiddleEast,Africa
+107,xws,Rest of Western Asia,9,MiddleEast,Africa
+108,egy,Egypt,10,Africa,Sub-Saharan Africa
+109,mar,Morocco,10,Africa,Sub-Saharan Africa
+110,tun,Tunisia,10,Africa,Sub-Saharan Africa
+111,xnf,Rest of North Africa,10,Africa,Sub-Saharan Africa
+112,ben,Benin,10,Africa,Sub-Saharan Africa
+113,bfa,Burkina Faso,10,Africa,Sub-Saharan Africa
+114,cmr,Cameroon,10,Africa,Sub-Saharan Africa
+115,civ,Cote d'Ivoire,10,Africa,Sub-Saharan Africa
+116,gha,Ghana,10,Africa,Sub-Saharan Africa
+117,gin,Guinea,10,Africa,Sub-Saharan Africa
+118,nga,Nigeria,10,Africa,Sub-Saharan Africa
+119,sen,Senegal,10,Africa,Sub-Saharan Africa
+120,tgo,Togo,10,Africa,Sub-Saharan Africa
+121,xwf,Rest of Western Africa,10,Africa,Sub-Saharan Africa
+122,xcf,Central Africa,0,unmapped,
+123,xac,South Central Africa,10,Africa,Sub-Saharan Africa
+124,eth,Ethiopia,10,Africa,Sub-Saharan Africa
+125,ken,Kenya,10,Africa,Sub-Saharan Africa
+126,mdg,Madagascar,10,Africa,Sub-Saharan Africa
+127,mwi,Malawi,10,Africa,Sub-Saharan Africa
+128,mus,Mauritius,10,Africa,Sub-Saharan Africa
+129,moz,Mozambique,10,Africa,Sub-Saharan Africa
+130,rwa,Rwanda,10,Africa,Sub-Saharan Africa
+131,tza,Tanzania,10,Africa,Sub-Saharan Africa
+132,uga,Uganda,10,Africa,Sub-Saharan Africa
+133,zmb,Zambia,10,Africa,Sub-Saharan Africa
+134,zwe,Zimbabwe,10,Africa,Sub-Saharan Africa
+135,xec,Rest of Eastern Africa,10,Africa,Sub-Saharan Africa
+136,bwa,Botswana,10,Africa,Sub-Saharan Africa
+137,nam,Namibia,10,Africa,Sub-Saharan Africa
+138,zaf,South Africa,10,Africa,Sub-Saharan Africa
+139,xsc,Rest of South African Customs,10,Africa,Sub-Saharan Africa
+140,xtw,Rest of the World,11,RestofWorld,Rest of World
