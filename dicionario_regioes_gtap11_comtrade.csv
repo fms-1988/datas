@@ -1,0 +1,160 @@
+code_gtap11,description_gtap11,code_joaom,comtrade_code
+nzl, New Zealand,RestofWorld,554.0
+xoc, Rest of Oceania,RestofWorld,
+chn, China,China,156.0
+hkg," China, Hong Kong SAR",Asia,344.0
+jpn, Japan,Asia,392.0
+kor, Republic of Korea,Asia,410.0
+mng, Mongolia,Asia,496.0
+twn, Taiwan Province of China,Asia,
+xea, Rest of East Asia,Asia,
+brn, Brunei Darussalam,Asia,96.0
+khm, Cambodia,Asia,116.0
+idn, Indonesia,Asia,360.0
+lao, Lao People's Democratic Republ,Asia,418.0
+mys, Malaysia,Asia,458.0
+phl, Philippines,Asia,608.0
+sgp, Singapore,Asia,702.0
+tha, Thailand,Asia,764.0
+vnm, Viet Nam,Asia,704.0
+xse, Rest of Southeast Asia,Asia,
+afg, Afghanistan,Asia,4.0
+bgd, Bangladesh,Asia,50.0
+ind, India,Asia,699.0
+npl, Nepal,Asia,524.0
+pak, Pakistan,Asia,586.0
+lka, Sri Lanka,Asia,144.0
+xsa, Rest of South Asia,Asia,
+can, Canada,ROA,124.0
+usa, United States of America,USA,842.0
+mex, Mexico,ROA,484.0
+xna, Rest of North America,ROA,
+arg, Argentina,Mercosul,32.0
+bol, Bolivia (Plurinational State o,AssMercosul,68.0
+bra, Brazil,Brasil,76.0
+chl, Chile,AssMercosul,152.0
+col, Colombia,AssMercosul,170.0
+ecu, Ecuador,AssMercosul,218.0
+pry, Paraguay,Mercosul,600.0
+per, Peru,AssMercosul,604.0
+ury, Uruguay,Mercosul,858.0
+ven, Venezuela (Bolivarian Republic,ROA,862.0
+xsm, Rest of South America,ROA,
+cri, Costa Rica,ROA,188.0
+gtm, Guatemala,ROA,320.0
+hnd, Honduras,ROA,340.0
+nic, Nicaragua,ROA,558.0
+pan, Panama,ROA,591.0
+slv, El Salvador,ROA,222.0
+xca, Rest of Central America,ROA,
+dom, Dominican Republic,ROA,214.0
+hti, Haiti,ROA,332.0
+jam, Jamaica,ROA,388.0
+pri, Puerto Rico,ROA,
+tto, Trinidad and Tobago,ROA,780.0
+xcb, Caribbean,ROA,
+aut, Austria,EU28,40.0
+bel, Belgium,EU28,56.0
+bgr, Bulgaria,EU28,100.0
+hrv, Croatia,EU28,191.0
+cyp, Cyprus,EU28,196.0
+cze, Czechia,EU28,203.0
+dnk, Denmark,EU28,208.0
+est, Estonia,EU28,233.0
+fin, Finland,EU28,246.0
+fra, France,EU28,251.0
+deu, Germany,EU28,276.0
+grc, Greece,EU28,300.0
+hun, Hungary,EU28,348.0
+irl, Ireland,EU28,372.0
+ita, Italy,EU28,380.0
+lva, Latvia,EU28,428.0
+ltu, Lithuania,EU28,440.0
+lux, Luxembourg,EU28,442.0
+mlt, Malta,EU28,470.0
+nld, Netherlands,EU28,528.0
+pol, Poland,EU28,616.0
+prt, Portugal,EU28,620.0
+rou, Romania,EU28,642.0
+svk, Slovakia,EU28,703.0
+svn, Slovenia,EU28,705.0
+esp, Spain,EU28,724.0
+swe, Sweden,EU28,752.0
+gbr, United Kingdom of Great Britai,EU28,826.0
+che, Switzerland,RestofWorld,757.0
+nor, Norway,RestofWorld,579.0
+xef, Rest of EFTA,RestofWorld,
+alb, Albania,RestofWorld,8.0
+srb, Serbia,RestofWorld,688.0
+blr, Belarus,RestofWorld,112.0
+rus, Russian Federation,RestofWorld,643.0
+ukr, Ukraine,RestofWorld,804.0
+xee, Rest of Eastern Europe,RestofWorld,
+xer, Rest of Europe,RestofWorld,
+kaz, Kazakhstan,RestofWorld,398.0
+kgz, Kyrgyzstan,RestofWorld,417.0
+tjk, Tajikistan,RestofWorld,762.0
+uzb, Uzbekistan,RestofWorld,860.0
+xsu, Rest of Former Soviet Union,RestofWorld,
+arm, Armenia,RestofWorld,51.0
+aze, Azerbaijan,RestofWorld,31.0
+geo, Georgia,RestofWorld,268.0
+bhr, Bahrain,MiddleEast,48.0
+irn, Iran (Islamic Republic of),MiddleEast,364.0
+irq, Iraq,MiddleEast,368.0
+isr, Israel,MiddleEast,376.0
+jor, Jordan,MiddleEast,400.0
+kwt, Kuwait,MiddleEast,414.0
+lbn, Lebanon,MiddleEast,422.0
+omn, Oman,MiddleEast,512.0
+pse, Palestine,MiddleEast,275.0
+qat, Qatar,MiddleEast,634.0
+sau, Saudi Arabia,MiddleEast,682.0
+syr, Syrian Arab Republic,MiddleEast,760.0
+tur, T rkiye,RestofWorld,792.0
+are, United Arab Emirates,MiddleEast,784.0
+xws, Rest of Western Asia,MiddleEast,
+dza, Algeria,MiddleEast,12.0
+egy, Egypt,Africa,818.0
+mar, Morocco,Africa,504.0
+tun, Tunisia,Africa,788.0
+xnf, Rest of North Africa,Africa,
+ben, Benin,Africa,204.0
+bfa, Burkina Faso,Africa,854.0
+cmr, Cameroon,Africa,120.0
+civ, C te d'Ivoire,Africa,384.0
+gha, Ghana,Africa,288.0
+gin, Guinea,Africa,324.0
+mli, Mali,Africa,466.0
+ner, Niger,Africa,562.0
+nga, Nigeria,Africa,566.0
+sen, Senegal,Africa,686.0
+tgo, Togo,Africa,768.0
+xwf, Rest of Western Africa,Africa,
+caf, Central African Republic,Africa,140.0
+tcd, Chad,Africa,148.0
+cog, Congo,Africa,178.0
+cod, Democratic Republic of the Con,Africa,180.0
+gnq, Equatorial Guinea,Africa,226.0
+gab, Gabon,Africa,266.0
+xac, South-Central Africa,Africa,
+com, Comoros,RestofWorld,174.0
+eth, Ethiopia,Africa,231.0
+ken, Kenya,Africa,404.0
+mdg, Madagascar,Africa,450.0
+mwi, Malawi,Africa,454.0
+mus, Mauritius,Africa,480.0
+moz, Mozambique,Africa,508.0
+rwa, Rwanda,Africa,646.0
+sdn, Sudan,Africa,729.0
+tza, United Republic of Tanzania,Africa,834.0
+uga, Uganda,Africa,800.0
+zmb, Zambia,Africa,894.0
+zwe, Zimbabwe,Africa,716.0
+xec, Rest of Eastern Africa,Africa,
+bwa, Botswana,Africa,72.0
+swz, Eswatini,RestofWorld,748.0
+nam, Namibia,Africa,516.0
+zaf, South Africa,Africa,710.0
+xsc, Rest of Southern African Custo,Africa,
+xtw, Rest of the World,RestofWorld,
