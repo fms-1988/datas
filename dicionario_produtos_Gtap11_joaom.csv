@@ -1,0 +1,66 @@
+gtap11_code;gtap11_short_description;gtap11_description;joaom_code
+pdr;Paddy rice;Rice: seed, paddy (not husked);Agricultura
+wht;Wheat;Wheat: seed, other;Agricultura
+gro;Cereal grains nec;Other Grains: maize (corn), sorghum, barley, rye, oats, millets, other cereals;Agricultura
+v_f;Vegetables, fruit, nuts;Veg & Fruit: vegetables, fruit and nuts, edible roots and tubers, pulses;Agricultura
+osd;Oil seeds;Oil Seeds: oil seeds and oleaginous fruit;Agricultura
+c_b;Sugar cane, sugar beet;Cane & Beet: sugar crops;Agricultura
+pfb;Plant-based fibers;Fibres crops;Agricultura
+ocr;Crops nec;"Other Crops: stimulant; spice and aromatic crops; forage products; plants and parts of plants used primarily in perfumery, pharmacy, or for insecticidal, fungicidal or similar purposes; beet seeds (excluding sugar beet seeds) and seeds of forage plants; natural rubber in primary forms or in plates, sheets or strip, living plants; cut flowers and flower buds; flower seeds, unmanufactured tobacco; other raw vegetable materials nec";Agricultura
+ctl;Bovine cattle, sheep and goats;Cattle: bovine animals, live, other ruminants, horses and other equines, bovine semen;Pecuaria
+oap;Animal products nec;"Other Animal Products: swine; poultry; other live animals; eggs of hens or other birds in shell, fresh; reproductive materials of animals; natural honey; snails, fresh, chilled, frozen, dried, salted or in brine, except sea snails; edible products of animal origin n.e.c.; hides, skins and furskins, raw; insect waxes and spermaceti, whether or not refined or coloured";Pecuaria
+rmk;Raw milk;Raw milk;ProdAnimal
+wol;Wool, silk-worm cocoons;Wool: wool, silk, and other raw animal materials used in textile;Pecuaria
+frs;Forestry;Forestry: forestry, logging and related service activities;FlorPesAqu
+fsh;Fishing;"Fishing: hunting, trapping and game propagation including related service activities, fishing, fish farms; service activities incidental to fishing";FlorPesAqu
+coa;Coal;Coal: mining and agglomeration of hard coal, lignite and peat;MineCarvao
+oil;Oil;Oil: extraction of crude petroleum, service activities incidental to oil and gas extraction excluding surveying (part);PetrolGas
+gas;Gas;Gas: extraction of natural gas, service activities incidental to oil and gas extraction excluding surveying (part);PetrolGas
+oxt;Minerals nec;"Other Mining Extraction (formerly omn): mining of metal ores; other mining and quarrying";MineMetal
+cmt;Bovine meat products;"Cattle Meat: fresh or chilled; meat of buffalo, fresh or chilled; meat of sheep, fresh or chilled; meat of goat, fresh or chilled; meat of camels and camelids, fresh or chilled; meat of horses and other equines, fresh or chilled; other meat of mammals, fresh or chilled; meat of mammals, frozen; edible offal of mammals, fresh, chilled or frozen";ProdAnimal
+omt;Meat products nec;"Other Meat: meat of pigs, fresh or chilled; meat of rabbits and hares, fresh or chilled; meat of poultry, fresh or chilled; meat of poultry, frozen; edible offal of poultry, fresh, chilled or frozen; other meat and edible offal, fresh, chilled or frozen; preserves and preparations of meat, meat offal or blood; flours, meals and pellets of meat or meat offal, inedible; greaves";ProdAnimal
+vol;Vegetable oils and fats;"Vegetable Oils: margarine and similar preparations; cotton linters; oil-cake and other residues resulting from the extraction of vegetable fats or oils; flours and meals of oil seeds or oleaginous fruits, except those of mustard; vegetable waxes, except triglycerides; degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes; animal fats";OutAliment
+mil;Dairy products;Milk: dairy products;ProdAnimal
+pcr;Processed rice;Processed Rice: semi- or wholly milled, or husked;OutAliment
+sgr;Sugar;Sugar and molasses;RefinAcucar
+ofd;Food products nec;"Other Food: prepared and preserved fish, crustaceans, molluscs and other aquatic invertebrates; prepared and preserved vegetables, pulses and potatoes; prepared and preserved fruits and nuts; wheat and meslin flour; other cereal flours; groats, meal and pellets of wheat and other cereals; other cereal grain products (including corn flakes); other vegetable flours and meals; mixes and doughs for the preparation of bakers' wares; starches and starch products; sugars and sugar syrups n.e.c.; preparations used in animal feeding; lucerne (alfalfa) meal and pellets; bakery products; cocoa, chocolate and sugar confectionery; macaroni, noodles, couscous and similar farinaceous products; food products n.e.c.";OutAliment
+b_t;Beverages and tobacco products;Beverages and Tobacco products;BebidasFumo
+tex;Textiles;Manufacture of textiles;Texteis
+wap;Wearing apparel;Manufacture of wearing apparel;Vestuario
+lea;Leather products;Manufacture of leather and related products;Couro
+lum;Wood products;"Lumber: manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials";Madeira
+ppp;Paper products, publishing;Paper & Paper Products: includes printing and reproduction of recorded media;PapelGrafica
+p_c;Petroleum, coal products;Petroleum & Coke: manufacture of coke and refined petroleum products;RefinBioComb
+chm;Chemical products;Manufacture of chemicals and chemical products;QuimDefLimp
+bph;Basic pharmaceutical products;Manufacture of pharmaceuticals, medicinal chemical and botanical products;Farmacos
+rpp;Rubber and plastic products;Manufacture of rubber and plastics products;BorrPlast
+nmm;Mineral products nec;Manufacture of other non-metallic mineral products;FabMinNmet
+i_s;Ferrous metals;Iron & Steel: basic production and casting;FabFerrAco
+nfm;Metals nec;Non-Ferrous Metals: production and casting of copper, aluminium, zinc, lead, gold, and silver;FabMetnFer
+fmp;Metal products;Manufacture of fabricated metal products, except machinery and equipment;FabProdMet
+ele;Computer, electronic and optic;Manufacture of computer, electronic and optical products;FabEletroni
+eeq;Electrical equipment;Manufacture of electrical equipment;FabEqElet
+ome;Machinery and equipment nec;Manufacture of machinery and equipment n.e.c.;FabEqMec
+mvh;Motor vehicles and parts;Manufacture of motor vehicles, trailers and semi-trailers;FabVeicPecas
+otn;Transport equipment nec;Manufacture of other transport equipment;FabEqTran
+omf;Manufactures nec;Other Manufacturing: includes furniture;FabDivers
+ely;Electricity;"Electricity; steam and air conditioning supply";EletGas
+gdt;Gas manufacture, distribution;Gas manufacture, distribution;EletGas
+wtr;Water;"Water supply; sewerage, waste management and remediation activities";AguaEsgoto
+cns;Construction;Construction: building houses factories offices and roads;Construcao
+trd;Trade;"Wholesale and retail trade; repair of motor vehicles and motorcycles";Comercio
+afs;Accommodation, Food and servic;Accommodation, Food and service activities;AlojamAlimen
+otp;Transport nec;Land transport and transport via pipelines;TranspTerr
+wtp;Water transport;Water transport;TranspAqu
+atp;Air transport;Air transport;TranspAer
+whs;Warehousing and support activi;Warehousing and support activities;TranspAux
+cmn;Communication;Information and communication;TICRadTVEdic
+ofi;Financial services nec;Other Financial Intermediation: includes auxiliary activities but not insurance and pension funding;FinSeg
+ins;Insurance;Insurance (formerly isr): includes pension funding, except compulsory social security;FinSeg
+rsa;Real estate activities;Real estate activities;Imobili
+obs;Business services nec;Other Business Services nec;ServEmp
+ros;Recreational and other service;"Recreation & Other Services: recreational, cultural and sporting activities, other service activities; private households with employed persons (servants)";DomestArtOut
+osg;Public Administration and defe;"Other Services (Government): public administration and defense; compulsory social security, activities of membership organizations n.e.c., extra-territorial organizations and bodies";AdmPub
+edu;Education;Education;Educacao
+hht;Human health and social work a;Human health and social work;Saude
+dwe;Dwellings;Dwellings: ownership of dwellings (imputed rents of houses occupied by owners);Imobili
