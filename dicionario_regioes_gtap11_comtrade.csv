@@ -1,160 +1,188 @@
-code_gtap11,description_gtap11,code_joaom,comtrade_code
-nzl, New Zealand,RestofWorld,554.0
-xoc, Rest of Oceania,RestofWorld,
-chn, China,China,156.0
-hkg," China, Hong Kong SAR",Asia,344.0
-jpn, Japan,Asia,392.0
-kor, Republic of Korea,Asia,410.0
-mng, Mongolia,Asia,496.0
-twn, Taiwan Province of China,Asia,
-xea, Rest of East Asia,Asia,
-brn, Brunei Darussalam,Asia,96.0
-khm, Cambodia,Asia,116.0
-idn, Indonesia,Asia,360.0
-lao, Lao People's Democratic Republ,Asia,418.0
-mys, Malaysia,Asia,458.0
-phl, Philippines,Asia,608.0
-sgp, Singapore,Asia,702.0
-tha, Thailand,Asia,764.0
-vnm, Viet Nam,Asia,704.0
-xse, Rest of Southeast Asia,Asia,
-afg, Afghanistan,Asia,4.0
-bgd, Bangladesh,Asia,50.0
-ind, India,Asia,699.0
-npl, Nepal,Asia,524.0
-pak, Pakistan,Asia,586.0
-lka, Sri Lanka,Asia,144.0
-xsa, Rest of South Asia,Asia,
-can, Canada,ROA,124.0
-usa, United States of America,USA,842.0
-mex, Mexico,ROA,484.0
-xna, Rest of North America,ROA,
-arg, Argentina,Mercosul,32.0
-bol, Bolivia (Plurinational State o,AssMercosul,68.0
-bra, Brazil,Brasil,76.0
-chl, Chile,AssMercosul,152.0
-col, Colombia,AssMercosul,170.0
-ecu, Ecuador,AssMercosul,218.0
-pry, Paraguay,Mercosul,600.0
-per, Peru,AssMercosul,604.0
-ury, Uruguay,Mercosul,858.0
-ven, Venezuela (Bolivarian Republic,ROA,862.0
-xsm, Rest of South America,ROA,
-cri, Costa Rica,ROA,188.0
-gtm, Guatemala,ROA,320.0
-hnd, Honduras,ROA,340.0
-nic, Nicaragua,ROA,558.0
-pan, Panama,ROA,591.0
-slv, El Salvador,ROA,222.0
-xca, Rest of Central America,ROA,
-dom, Dominican Republic,ROA,214.0
-hti, Haiti,ROA,332.0
-jam, Jamaica,ROA,388.0
-pri, Puerto Rico,ROA,
-tto, Trinidad and Tobago,ROA,780.0
-xcb, Caribbean,ROA,
-aut, Austria,EU28,40.0
-bel, Belgium,EU28,56.0
-bgr, Bulgaria,EU28,100.0
-hrv, Croatia,EU28,191.0
-cyp, Cyprus,EU28,196.0
-cze, Czechia,EU28,203.0
-dnk, Denmark,EU28,208.0
-est, Estonia,EU28,233.0
-fin, Finland,EU28,246.0
-fra, France,EU28,251.0
-deu, Germany,EU28,276.0
-grc, Greece,EU28,300.0
-hun, Hungary,EU28,348.0
-irl, Ireland,EU28,372.0
-ita, Italy,EU28,380.0
-lva, Latvia,EU28,428.0
-ltu, Lithuania,EU28,440.0
-lux, Luxembourg,EU28,442.0
-mlt, Malta,EU28,470.0
-nld, Netherlands,EU28,528.0
-pol, Poland,EU28,616.0
-prt, Portugal,EU28,620.0
-rou, Romania,EU28,642.0
-svk, Slovakia,EU28,703.0
-svn, Slovenia,EU28,705.0
-esp, Spain,EU28,724.0
-swe, Sweden,EU28,752.0
-gbr, United Kingdom of Great Britai,EU28,826.0
-che, Switzerland,RestofWorld,757.0
-nor, Norway,RestofWorld,579.0
-xef, Rest of EFTA,RestofWorld,
-alb, Albania,RestofWorld,8.0
-srb, Serbia,RestofWorld,688.0
-blr, Belarus,RestofWorld,112.0
-rus, Russian Federation,RestofWorld,643.0
-ukr, Ukraine,RestofWorld,804.0
-xee, Rest of Eastern Europe,RestofWorld,
-xer, Rest of Europe,RestofWorld,
-kaz, Kazakhstan,RestofWorld,398.0
-kgz, Kyrgyzstan,RestofWorld,417.0
-tjk, Tajikistan,RestofWorld,762.0
-uzb, Uzbekistan,RestofWorld,860.0
-xsu, Rest of Former Soviet Union,RestofWorld,
-arm, Armenia,RestofWorld,51.0
-aze, Azerbaijan,RestofWorld,31.0
-geo, Georgia,RestofWorld,268.0
-bhr, Bahrain,MiddleEast,48.0
-irn, Iran (Islamic Republic of),MiddleEast,364.0
-irq, Iraq,MiddleEast,368.0
-isr, Israel,MiddleEast,376.0
-jor, Jordan,MiddleEast,400.0
-kwt, Kuwait,MiddleEast,414.0
-lbn, Lebanon,MiddleEast,422.0
-omn, Oman,MiddleEast,512.0
-pse, Palestine,MiddleEast,275.0
-qat, Qatar,MiddleEast,634.0
-sau, Saudi Arabia,MiddleEast,682.0
-syr, Syrian Arab Republic,MiddleEast,760.0
-tur, T rkiye,RestofWorld,792.0
-are, United Arab Emirates,MiddleEast,784.0
-xws, Rest of Western Asia,MiddleEast,
-dza, Algeria,MiddleEast,12.0
-egy, Egypt,Africa,818.0
-mar, Morocco,Africa,504.0
-tun, Tunisia,Africa,788.0
-xnf, Rest of North Africa,Africa,
-ben, Benin,Africa,204.0
-bfa, Burkina Faso,Africa,854.0
-cmr, Cameroon,Africa,120.0
-civ, C te d'Ivoire,Africa,384.0
-gha, Ghana,Africa,288.0
-gin, Guinea,Africa,324.0
-mli, Mali,Africa,466.0
-ner, Niger,Africa,562.0
-nga, Nigeria,Africa,566.0
-sen, Senegal,Africa,686.0
-tgo, Togo,Africa,768.0
-xwf, Rest of Western Africa,Africa,
-caf, Central African Republic,Africa,140.0
-tcd, Chad,Africa,148.0
-cog, Congo,Africa,178.0
-cod, Democratic Republic of the Con,Africa,180.0
-gnq, Equatorial Guinea,Africa,226.0
-gab, Gabon,Africa,266.0
-xac, South-Central Africa,Africa,
-com, Comoros,RestofWorld,174.0
-eth, Ethiopia,Africa,231.0
-ken, Kenya,Africa,404.0
-mdg, Madagascar,Africa,450.0
-mwi, Malawi,Africa,454.0
-mus, Mauritius,Africa,480.0
-moz, Mozambique,Africa,508.0
-rwa, Rwanda,Africa,646.0
-sdn, Sudan,Africa,729.0
-tza, United Republic of Tanzania,Africa,834.0
-uga, Uganda,Africa,800.0
-zmb, Zambia,Africa,894.0
-zwe, Zimbabwe,Africa,716.0
-xec, Rest of Eastern Africa,Africa,
-bwa, Botswana,Africa,72.0
-swz, Eswatini,RestofWorld,748.0
-nam, Namibia,Africa,516.0
-zaf, South Africa,Africa,710.0
-xsc, Rest of Southern African Custo,Africa,
-xtw, Rest of the World,RestofWorld,
+code_ISO3,Gtap11_agreg,gtap11_desc,joaom_agreg
+NZL,nzl, New Zealand,RestofWorld
+CHN,chn, China,China
+HKG,hkg," China, Hong Kong SAR",Asia
+JPN,jpn, Japan,Asia
+KOR,kor, Republic of Korea,Asia
+MNG,mng, Mongolia,Asia
+BRN,brn, Brunei Darussalam,Asia
+KHM,khm, Cambodia,Asia
+IDN,idn, Indonesia,Asia
+LAO,lao, Lao People's Democratic Republ,Asia
+MYS,mys, Malaysia,Asia
+PHL,phl, Philippines,Asia
+SGP,sgp, Singapore,Asia
+THA,tha, Thailand,Asia
+VNM,vnm, Viet Nam,Asia
+AFG,afg, Afghanistan,Asia
+BGD,bgd, Bangladesh,Asia
+IND,ind, India,Asia
+NPL,npl, Nepal,Asia
+PAK,pak, Pakistan,Asia
+LKA,lka, Sri Lanka,Asia
+CAN,can, Canada,ROA
+USA,usa, United States of America,USA
+MEX,mex, Mexico,ROA
+ARG,arg, Argentina,Mercosul
+BOL,bol, Bolivia (Plurinational State o,AssMercosul
+BRA,bra, Brazil,Brasil
+CHL,chl, Chile,AssMercosul
+COL,col, Colombia,AssMercosul
+ECU,ecu, Ecuador,AssMercosul
+PRY,pry, Paraguay,Mercosul
+PER,per, Peru,AssMercosul
+URY,ury, Uruguay,Mercosul
+VEN,ven, Venezuela (Bolivarian Republic,ROA
+CRI,cri, Costa Rica,ROA
+GTM,gtm, Guatemala,ROA
+HND,hnd, Honduras,ROA
+NIC,nic, Nicaragua,ROA
+PAN,pan, Panama,ROA
+SLV,slv, El Salvador,ROA
+DOM,dom, Dominican Republic,ROA
+HTI,hti, Haiti,ROA
+JAM,jam, Jamaica,ROA
+TTO,tto, Trinidad and Tobago,ROA
+AUT,aut, Austria,EU28
+BEL,bel, Belgium,EU28
+BGR,bgr, Bulgaria,EU28
+HRV,hrv, Croatia,EU28
+CYP,cyp, Cyprus,EU28
+CZE,cze, Czechia,EU28
+DNK,dnk, Denmark,EU28
+EST,est, Estonia,EU28
+FIN,fin, Finland,EU28
+FRA,fra, France,EU28
+DEU,deu, Germany,EU28
+GRC,grc, Greece,EU28
+HUN,hun, Hungary,EU28
+IRL,irl, Ireland,EU28
+ITA,ita, Italy,EU28
+LVA,lva, Latvia,EU28
+LTU,ltu, Lithuania,EU28
+LUX,lux, Luxembourg,EU28
+MLT,mlt, Malta,EU28
+NLD,nld, Netherlands,EU28
+POL,pol, Poland,EU28
+PRT,prt, Portugal,EU28
+ROU,rou, Romania,EU28
+SVK,svk, Slovakia,EU28
+SVN,svn, Slovenia,EU28
+ESP,esp, Spain,EU28
+SWE,swe, Sweden,EU28
+GBR,gbr, United Kingdom of Great Britai,EU28
+CHE,che, Switzerland,RestofWorld
+NOR,nor, Norway,RestofWorld
+ALB,alb, Albania,RestofWorld
+SRB,srb, Serbia,RestofWorld
+BLR,blr, Belarus,RestofWorld
+RUS,rus, Russian Federation,RestofWorld
+UKR,ukr, Ukraine,RestofWorld
+KAZ,kaz, Kazakhstan,RestofWorld
+KGZ,kgz, Kyrgyzstan,RestofWorld
+TJK,tjk, Tajikistan,RestofWorld
+UZB,uzb, Uzbekistan,RestofWorld
+ARM,arm, Armenia,RestofWorld
+AZE,aze, Azerbaijan,RestofWorld
+GEO,geo, Georgia,RestofWorld
+BHR,bhr, Bahrain,MiddleEast
+IRN,irn, Iran (Islamic Republic of),MiddleEast
+IRQ,irq, Iraq,MiddleEast
+ISR,isr, Israel,MiddleEast
+JOR,jor, Jordan,MiddleEast
+KWT,kwt, Kuwait,MiddleEast
+LBN,lbn, Lebanon,MiddleEast
+OMN,omn, Oman,MiddleEast
+PSE,pse, Palestine,MiddleEast
+QAT,qat, Qatar,MiddleEast
+SAU,sau, Saudi Arabia,MiddleEast
+SYR,syr, Syrian Arab Republic,MiddleEast
+TUR,tur, T rkiye,RestofWorld
+ARE,are, United Arab Emirates,MiddleEast
+DZA,dza, Algeria,MiddleEast
+EGY,egy, Egypt,Africa
+MAR,mar, Morocco,Africa
+TUN,tun, Tunisia,Africa
+BEN,ben, Benin,Africa
+BFA,bfa, Burkina Faso,Africa
+CMR,cmr, Cameroon,Africa
+CIV,civ, C te d'Ivoire,Africa
+GHA,gha, Ghana,Africa
+GIN,gin, Guinea,Africa
+MLI,mli, Mali,Africa
+NER,ner, Niger,Africa
+NGA,nga, Nigeria,Africa
+SEN,sen, Senegal,Africa
+TGO,tgo, Togo,Africa
+CAF,caf, Central African Republic,Africa
+TCD,tcd, Chad,Africa
+COG,cog, Congo,Africa
+COD,cod, Democratic Republic of the Con,Africa
+GNQ,gnq, Equatorial Guinea,Africa
+GAB,gab, Gabon,Africa
+COM,com, Comoros,RestofWorld
+ETH,eth, Ethiopia,Africa
+KEN,ken, Kenya,Africa
+MDG,mdg, Madagascar,Africa
+MWI,mwi, Malawi,Africa
+MUS,mus, Mauritius,Africa
+MOZ,moz, Mozambique,Africa
+RWA,rwa, Rwanda,Africa
+SDN,sdn, Sudan,Africa
+TZA,tza, United Republic of Tanzania,Africa
+UGA,uga, Uganda,Africa
+ZMB,zmb, Zambia,Africa
+ZWE,zwe, Zimbabwe,Africa
+BWA,bwa, Botswana,Africa
+SWZ,swz, Eswatini,RestofWorld
+NAM,nam, Namibia,Africa
+ZAF,zaf, South Africa,Africa
+AND,xer,Rest of Europe,RestofWorld
+AGO,xac,South-Central Africa,Africa
+ATG,xcb,Caribbean,RestofWorld
+ABW,xcb,Caribbean,RestofWorld
+R4,xtw,Rest of the World,RestofWorld
+AUS,xoc,Rest of Oceania,RestofWorld
+BHS,xcb,Caribbean,RestofWorld
+BRB,xcb,Caribbean,RestofWorld
+BLZ,xca,Rest of Central America,RestofWorld
+BMU,xna,Rest of North America,RestofWorld
+BIH,xee,Rest of Eastern Europe,RestofWorld
+BDI,xec,Rest of Eastern Africa,Africa
+CPV,xwf,Rest of Western Africa,Africa
+MAC,xea,Rest of East Asia,China
+CUB,xcb,Caribbean,RestofWorld
+CUW,xcb,Caribbean,RestofWorld
+DMA,xcb,Caribbean,RestofWorld
+EUR,xer,Rest of Europe,EU28
+FJI,xoc,Rest of Oceania,Asia
+PYF,xoc,Rest of Oceania,Asia
+GMB,xwf,Rest of Western Africa,Africa
+GRL,xer,Rest of Europe,RestofWorld
+GRD,xcb,Caribbean,RestofWorld
+GNB,xwf,Rest of Western Africa,Africa
+GUY,xsm,Rest of South America,AssMercosul
+ISL,xef,Rest of EFTA,RestofWorld
+KIR,xoc,Rest of Oceania,Asia
+LSO,xsc,Rest of Southern African Customs Union,Africa
+LBR,xwf,Rest of Western Africa,Africa
+LBY,xnf,Rest of North Africa,Africa
+MDV,xsa,Rest of South Asia,Asia
+MRT,xwf,Rest of Western Africa,Africa
+MNE,xee,Rest of Eastern Europe,RestofWorld
+MSR,xcb,Caribbean,RestofWorld
+MMR,xse,Rest of Southeast Asia,Asia
+MKD,xee,Rest of Eastern Europe,RestofWorld
+S19,xtw,Rest of the World,RestofWorld
+PLW,xoc,Rest of Oceania,Asia
+MDA,xsu,Rest of Former Soviet Union,RestofWorld
+KNA,xcb,Caribbean,RestofWorld
+LCA,xcb,Caribbean,RestofWorld
+VCT,xcb,Caribbean,RestofWorld
+WSM,xoc,Rest of Oceania,Asia
+STP,xac,South-Central Africa,Africa
+SYC,xec,Rest of Eastern Africa,Africa
+SLE,xwf,Rest of Western Africa,Africa
+SLB,xoc,Rest of Oceania,Asia
+SUR,xsm,Rest of South America,AssMercosul
+TLS,xse,Rest of Southeast Asia,Asia
