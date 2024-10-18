@@ -1,0 +1,99 @@
+SH_code;SH_description;gtap11_code;gtap11_short_description;joaom_code
+1;"01 - Animals; live";ctl;Bovine cattle, sheep and goats;Pecuaria
+2;02 - Meat and edible meat offal;omt;Meat products nec;ProdAnimal
+3;03 - Fish and crustaceans, molluscs and other aquatic invertebrates;fsh;Fishing;FlorPesAqu
+4;"04 - Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included";mil;Dairy products;ProdAnimal
+5;"05 - Animal originated products; not elsewhere specified or included";oap;Animal products nec;Pecuaria
+6;"06 - Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage";ocr;Crops nec;Agricultura
+7;"07 - Vegetables and certain roots and tubers; edible";v_f;Vegetables, fruit, nuts;Agricultura
+8;"08 - Fruit and nuts, edible; peel of citrus fruit or melons";v_f;Vegetables, fruit, nuts;Agricultura
+9;09 - Coffee, tea, mate and spices;ocr;Crops nec;Agricultura
+10;10 - Cereals;gro;Cereal grains nec;Agricultura
+11;"11 - Products of the milling industry; malt, starches, inulin, wheat gluten";ofd;Food products nec;OutAliment
+12;"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder";osd;Oil seeds;Agricultura
+13;"13 - Lac; gums, resins and other vegetable saps and extracts";ocr;Crops nec;Agricultura
+14;"14 - Vegetable plaiting materials; vegetable products not elsewhere specified or included";ocr;Crops nec;Agricultura
+15;"15 - Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes";vol;Vegetable oils and fats;OutAliment
+16;"16 - Meat, fish, crustaceans, molluscs or other aquatic invertebrates, or insects; preparations thereof";ofd;Food products nec;OutAliment
+17;17 - Sugars and sugar confectionery;sgr;Sugar;RefinAcucar
+18;18 - Cocoa and cocoa preparations;ofd;Food products nec;OutAliment
+19;"19 - Preparations of cereals, flour, starch or milk; pastrycooks' products";ofd;Food products nec;OutAliment
+20;20 - Preparations of vegetables, fruit, nuts or other parts of plants;ofd;Food products nec;OutAliment
+21;21 - Miscellaneous edible preparations;ofd;Food products nec;OutAliment
+22;22 - Beverages, spirits and vinegar;b_t;Beverages and tobacco products;BebidasFumo
+23;"23 - Food industries, residues and wastes thereof; prepared animal fodder";ofd;Food products nec;OutAliment
+24;"24 - Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body";b_t;Beverages and tobacco products;BebidasFumo
+25;"25 - Salt; sulphur; earths, stone; plastering materials, lime and cement";nmm;Mineral products nec;FabMinNmet
+26;26 - Ores, slag and ash;oxt;Minerals nec;MineMetal
+27;"27 - Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes";p_c;Petroleum, coal products;RefinBioComb
+28;"28 - Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes";chm;Chemical products;QuimDefLimp
+29;29 - Organic chemicals;chm;Chemical products;QuimDefLimp
+30;30 - Pharmaceutical products;bph;Basic pharmaceutical products;Farmacos
+31;31 - Fertilizers;chm;Chemical products;QuimDefLimp
+32;"32 - Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks";chm;Chemical products;QuimDefLimp
+33;"33 - Essential oils and resinoids; perfumery, cosmetic or toilet preparations";chm;Chemical products;QuimDefLimp
+34;"34 - Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster";chm;Chemical products;QuimDefLimp
+35;"35 - Albuminoidal substances; modified starches; glues; enzymes";chm;Chemical products;QuimDefLimp
+36;"36 - Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations";chm;Chemical products;QuimDefLimp
+37;37 - Photographic or cinematographic goods;ele;Computer, electronic and optic;FabEletroni
+38;38 - Chemical products n.e.c.;chm;Chemical products;QuimDefLimp
+39;39 - Plastics and articles thereof;rpp;Rubber and plastic products;BorrPlast
+40;40 - Rubber and articles thereof;rpp;Rubber and plastic products;BorrPlast
+41;41 - Raw hides and skins (other than furskins) and leather;oap;Animal products nec;Pecuaria
+42;"42 - Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)";lea;Leather products;Couro
+43;"43 - Furskins and artificial fur; manufactures thereof";lea;Leather products;Couro
+44;"44 - Wood and articles of wood; wood charcoal";lum;Wood products;Madeira
+45;45 - Cork and articles of cork;lum;Wood products;Madeira
+46;"46 - Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork";lum;Wood products;Madeira
+47;"47 - Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard";ppp;Paper products, publishing;PapelGrafica
+48;"48 - Paper and paperboard; articles of paper pulp, of paper or paperboard";ppp;Paper products, publishing;PapelGrafica
+49;"49 - Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans";ppp;Paper products, publishing;PapelGrafica
+50;50 - Silk;wol;Wool, silk-worm cocoons;Pecuaria
+51;"51 - Wool, fine or coarse animal hair; horsehair yarn and woven fabric";wol;Wool, silk-worm cocoons;Pecuaria
+52;52 - Cotton;pfb;Plant-based fibers;Agricultura
+53;"53 - Vegetable textile fibres; paper yarn and woven fabrics of paper yarn";pfb;Plant-based fibers;Agricultura
+54;"54 - Man-made filaments; strip and the like of man-made textile materials";tex;Textiles;Texteis
+55;55 - Man-made staple fibres;tex;Textiles;Texteis
+56;"56 - Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof";tex;Textiles;Texteis
+57;57 - Carpets and other textile floor coverings;tex;Textiles;Texteis
+58;"58 - Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery";tex;Textiles;Texteis
+59;"59 - Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use";tex;Textiles;Texteis
+60;"60 - Fabrics; knitted or crocheted";tex;Textiles;Texteis
+61;"61 - Apparel and clothing accessories; knitted or crocheted";wap;Wearing apparel;Vestuario
+62;"62 - Apparel and clothing accessories; not knitted or crocheted";wap;Wearing apparel;Vestuario
+63;"63 - Textiles, made up articles; sets; worn clothing and worn textile articles; rags";wap;Wearing apparel;Vestuario
+64;"64 - Footwear; gaiters and the like; parts of such articles";lea;Leather products;Couro
+65;65 - Headgear and parts thereof;wap;Wearing apparel;Vestuario
+66;"66 - Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof";omf;Manufactures nec;FabDivers
+67;"67 - Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair";omf;Manufactures nec;FabDivers
+68;"68 - Stone, plaster, cement, asbestos, mica or similar materials; articles thereof";nmm;Mineral products nec;FabMinNmet
+69;69 - Ceramic products;nmm;Mineral products nec;FabMinNmet
+70;70 - Glass and glassware;nmm;Mineral products nec;FabMinNmet
+71;"71 - Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin";nfm;Metals nec;FabMetnFer
+72;72 - Iron and steel;i_s;Ferrous metals;FabFerrAco
+73;73 - Iron or steel articles;fmp;Metal products;FabProdMet
+74;74 - Copper and articles thereof;nfm;Metals nec;FabMetnFer
+75;75 - Nickel and articles thereof;nfm;Metals nec;FabMetnFer
+76;76 - Aluminium and articles thereof;nfm;Metals nec;FabMetnFer
+77;77 - (Reserved for possible future use in the Harmonized System);;#N/A;#N/A
+78;78 - Lead and articles thereof;nfm;Metals nec;FabMetnFer
+79;79 - Zinc and articles thereof;nfm;Metals nec;FabMetnFer
+80;"80 - Tin; articles thereof";nfm;Metals nec;FabMetnFer
+81;"81 - Metals; n.e.c., cermets and articles thereof";nfm;Metals nec;FabMetnFer
+82;"82 - Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal";fmp;Metal products;FabProdMet
+83;"83 - Metal; miscellaneous products of base metal";fmp;Metal products;FabProdMet
+84;"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof";ome;Machinery and equipment nec;FabEqMec
+85;"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles";eeq;Electrical equipment;FabEqElet
+86;"86 - Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds";otn;Transport equipment nec;FabEqTran
+87;"87 - Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof";mvh;Motor vehicles and parts;FabVeicPecas
+88;88 - Aircraft, spacecraft, and parts thereof;otn;Transport equipment nec;FabEqTran
+89;89 - Ships, boats and floating structures;otn;Transport equipment nec;FabEqTran
+90;"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories";ele;Computer, electronic and optic;FabEletroni
+91;91 - Clocks and watches and parts thereof;ele;Computer, electronic and optic;FabEletroni
+92;"92 - Musical instruments; parts and accessories of such articles";omf;Manufactures nec;FabDivers
+93;"93 - Arms and ammunition; parts and accessories thereof";omf;Manufactures nec;FabDivers
+94;"94 - Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings";omf;Manufactures nec;FabDivers
+95;"95 - Toys, games and sports requisites; parts and accessories thereof";omf;Manufactures nec;FabDivers
+96;96 - Miscellaneous manufactured articles;omf;Manufactures nec;FabDivers
+97;"97 - Works of art; collectors' pieces and antiques";ros;Recreational and other service;DomestArtOut
+99;99 - Commodities not specified according to kind;omf;Manufactures nec;FabDivers
