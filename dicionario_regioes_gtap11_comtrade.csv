@@ -153,7 +153,7 @@ MAC,446.0,xea,Rest of East Asia,China
 CUB,192.0,xcb,Caribbean,RestofWorld
 CUW,531.0,xcb,Caribbean,RestofWorld
 DMA,212.0,xcb,Caribbean,RestofWorld
-EUR,97.0,xer,Rest of Europe,EU28
+EUR,97.0,xer,Rest of Europe,EU28?
 FJI,242.0,xoc,Rest of Oceania,Asia
 PYF,258.0,xoc,Rest of Oceania,Asia
 GMB,270.0,xwf,Rest of Western Africa,Africa
@@ -209,12 +209,12 @@ ATF,260.0,xtw,Rest of the World,RestofWorld
 X2 ,838.0,xtw,Rest of the World,RestofWorld
 FSM,583.0,xoc,Rest of Oceania,Asia
 GIB,292.0,xer,Rest of Europe,RestofWorld
-GUM,316.0,xoc,Rest of Oceania,
+GUM,316.0,xoc,Rest of Oceania,Asia
 HMD,334.0,xoc,Rest of Oceania,Asia
 VAT,336.0,xer,Rest of Europe,RestofWorld
 A79,473.0,xtw,Rest of the World,RestofWorld
 MHL,584.0,xoc,Rest of Oceania,Asia
-MNP,580.0,xoc,Rest of Oceania,
+MNP,580.0,xoc,Rest of Oceania,Asia
 NRU,520.0,xoc,Rest of Oceania,Asia
 NCL,540.0,xoc,Rest of Oceania,Asia
 NIU,570.0,xoc,Rest of Oceania,Asia
@@ -241,7 +241,7 @@ TON,776.0,xoc,Rest of Oceania,Asia
 TKM,795.0,xws,Rest of Western Asia,Asia
 TCA,796.0,xcb,Caribbean,RestofWorld
 TUV,798.0,xoc,Rest of Oceania,Asia
-UMI,581.0,xoc,Rest of Oceania,
+UMI,581.0,xoc,Rest of Oceania,Asia
 VUT,548.0,xoc,Rest of Oceania,Asia
 WLF,876.0,xoc,Rest of Oceania,Asia
 YEM,887.0,xws,Rest of Western Asia,MiddleEast
