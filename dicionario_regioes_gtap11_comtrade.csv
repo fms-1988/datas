@@ -121,7 +121,7 @@ COD,180.0,cod, Democratic Republic of the Con,Africa
 GNQ,226.0,gnq, Equatorial Guinea,Africa
 GAB,266.0,gab, Gabon,Africa
 COM,174.0,com, Comoros,RestofWorld
-ETH,230.0,eth, Ethiopia,Africa
+ETH,231.0,eth, Ethiopia,Africa
 KEN,404.0,ken, Kenya,Africa
 MDG,450.0,mdg, Madagascar,Africa
 MWI,454.0,mwi, Malawi,Africa
@@ -176,7 +176,7 @@ MKD,807.0,xee,Rest of Eastern Europe,RestofWorld
 S19,490.0,xtw,Rest of the World,RestofWorld
 PLW,585.0,xoc,Rest of Oceania,Asia
 MDA,498.0,xsu,Rest of Former Soviet Union,RestofWorld
-KNA,658.0,xcb,Caribbean,RestofWorld
+KNA,659.0,xcb,Caribbean,RestofWorld
 LCA,662.0,xcb,Caribbean,RestofWorld
 VCT,670.0,xcb,Caribbean,RestofWorld
 WSM,882.0,xoc,Rest of Oceania,Asia
@@ -248,3 +248,4 @@ UMI,581.0,xoc,Rest of Oceania,USA
 USA,842.0,xna,Rest of North America,USA
 VUT,548.0,xoc,Rest of Oceania,Asia
 WLF,876.0,xoc,Rest of Oceania,Asia
+YEM,887.0,xws,Rest of Western Asia,MiddleEast
