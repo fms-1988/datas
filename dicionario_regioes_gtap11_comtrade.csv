@@ -141,7 +141,6 @@ AND,20.0,xer,Rest of Europe,RestofWorld
 AGO,24.0,xac,South-Central Africa,Africa
 ATG,28.0,xcb,Caribbean,RestofWorld
 ABW,533.0,xcb,Caribbean,RestofWorld
-R4,,xtw,Rest of the World,RestofWorld
 AUS,36.0,xoc,Rest of Oceania,RestofWorld
 BHS,44.0,xcb,Caribbean,RestofWorld
 BRB,52.0,xcb,Caribbean,RestofWorld
@@ -196,7 +195,7 @@ BVT,74.0,xtw,Rest of the World,RestofWorld
 ATB,80.0,xtw,Rest of the World,RestofWorld
 IOT,86.0,xtw,Rest of the World,RestofWorld
 VGB,92.0,xcb,Caribbean,RestofWorld
-X1,,xtw,Rest of the World,RestofWorld
+X1 ,837.0,xtw,Rest of the World,RestofWorld
 CYM,136.0,xcb,Caribbean,RestofWorld
 CXR,162.0,xoc,Rest of Oceania,Asia
 CCK,166.0,xoc,Rest of Oceania,Asia
@@ -204,19 +203,18 @@ COK,184.0,xoc,Rest of Oceania,Asia
 PRK,408.0,xea,Rest of East Asia,Asia
 DJI,262.0,xec,Rest of Eastern Africa,Africa
 ERI,232.0,xec,Rest of Eastern Africa,Africa
-ETH,231.0,xec,Rest of Eastern Africa,Africa
 FRO,234.0,xer,Rest of Europe,RestofWorld
 FLK,238.0,xsm,Rest of South America,RestofWorld
 ATF,260.0,xtw,Rest of the World,RestofWorld
-X2,,xtw,Rest of the World,RestofWorld
+X2 ,838.0,xtw,Rest of the World,RestofWorld
 FSM,583.0,xoc,Rest of Oceania,Asia
 GIB,292.0,xer,Rest of Europe,RestofWorld
-GUM,316.0,xoc,Rest of Oceania,USA
+GUM,316.0,xoc,Rest of Oceania,
 HMD,334.0,xoc,Rest of Oceania,Asia
 VAT,336.0,xer,Rest of Europe,RestofWorld
 A79,473.0,xtw,Rest of the World,RestofWorld
 MHL,584.0,xoc,Rest of Oceania,Asia
-MNP,580.0,xoc,Rest of Oceania,USA
+MNP,580.0,xoc,Rest of Oceania,
 NRU,520.0,xoc,Rest of Oceania,Asia
 NCL,540.0,xoc,Rest of Oceania,Asia
 NIU,570.0,xoc,Rest of Oceania,Asia
@@ -230,22 +228,20 @@ PNG,598.0,xoc,Rest of Oceania,Asia
 PCN,612.0,xoc,Rest of Oceania,Asia
 BLM,652.0,xcb,Caribbean,RestofWorld
 SHN,654.0,xac,South-Central Africa,Africa
-KNA,659.0,xcb,Caribbean,RestofWorld
 SXM,534.0,xcb,Caribbean,RestofWorld
 SPM,666.0,xna,Rest of North America,RestofWorld
 SMR,674.0,xer,Rest of Europe,RestofWorld
 SOM,706.0,xec,Rest of Eastern Africa,Africa
 SGS,239.0,xtw,Rest of the World,RestofWorld
 SSD,728.0,xec,Rest of Eastern Africa,Africa
-XX,,xtw,Rest of the World,RestofWorld
+XX ,839.0,xtw,Rest of the World,RestofWorld
 SDN,729.0,xnf,Rest of North Africa,Africa
 TKL,772.0,xoc,Rest of Oceania,Asia
 TON,776.0,xoc,Rest of Oceania,Asia
 TKM,795.0,xws,Rest of Western Asia,Asia
 TCA,796.0,xcb,Caribbean,RestofWorld
 TUV,798.0,xoc,Rest of Oceania,Asia
-UMI,581.0,xoc,Rest of Oceania,USA
-USA,842.0,xna,Rest of North America,USA
+UMI,581.0,xoc,Rest of Oceania,
 VUT,548.0,xoc,Rest of Oceania,Asia
 WLF,876.0,xoc,Rest of Oceania,Asia
 YEM,887.0,xws,Rest of Western Asia,MiddleEast
