@@ -97,18 +97,18 @@
 95,cmd:HS,product,96.0,96 - Miscellaneous manufactured articles,omf,Manufactures nec,FabDivers
 96,cmd:HS,product,97.0,97 - Works of art; collectors' pieces and antiques,ros,Recreational and other service,DomestArtOut
 97,cmd:HS,product,99.0,99 - Commodities not specified according to kind,omf,Manufactures nec,FabDivers
-98,cmd:EB10,sevice,1.0,1 Manufacturing services on physical inputs ow..., obs         , Business services nec    , ServEmp       
-99,cmd:EB11,sevice,10.0,10 Other business services, obs         , Business services nec    , ServEmp       
-100,cmd:EB12,sevice,11.0,"11 Personal, cultural, and recreational services", ros         , Recreational and other service , DomestArtOut  
-101,cmd:EB13,sevice,12.0,12 Government goods and services n.i.e., osg         , Public Administration and defe , AdmPub        
-102,cmd:EB14,sevice,2.0,2 Maintenance and repair services n.i.e., obs         , Business services nec    , ServEmp       
-103,cmd:EB15,sevice,3.1,3.1 Sea transport, wtp         , Water transport          , TranspAqu     
-104,cmd:EB16,sevice,3.2,3.2 Air transport, atp         , Air transport            , TranspAer     
-105,cmd:EB17,sevice,3.3,3.3 Other modes of transport, otp         , Transport nec            , TranspTerr    
-106,cmd:EB18,sevice,3.4,3.4 Postal and courier services, cmn         , Communication            , TICRadTVEdic  
-107,cmd:EB19,sevice,4.0,4 Travel, afs         ," Accommodation, Food and servic ", AlojamAlimen  
-108,cmd:EB20,sevice,5.0,5 Construction, cns         , Construction             , Construcao    
-109,cmd:EB21,sevice,6.0,6 Insurance and pension services, ins         , Insurance                , FinSeg        
-110,cmd:EB22,sevice,7.0,7 Financial services, ofi         , Financial services nec   , FinSeg        
-111,cmd:EB23,sevice,8.0,8 Charges for the use of intellectual property..., obs         , Business services nec    , ServEmp       
-112,cmd:EB24,sevice,9.0,"9 Telecommunications, computer, and informatio...", cmn         , Communication            , TICRadTVEdic  
+98,cmd:EB10,sevice,1.0,1 Manufacturing services on physical inputs ow...,obs,Business services nec,ServEmp
+99,cmd:EB10,sevice,10.0,10 Other business services,obs,Business services nec,ServEmp
+100,cmd:EB10,sevice,11.0,"11 Personal,cultural, and recreational services",ros,Recreational and other service ,DomestArtOut
+101,cmd:EB10,sevice,12.0,12 Government goods and services n.i.e.,osg,Public Administration and defe ,AdmPub
+102,cmd:EB10,sevice,2.0,2 Maintenance and repair services n.i.e.,obs,Business services nec,ServEmp
+103,cmd:EB10,sevice,3.1,3.1 Sea transport,wtp,Water transport,TranspAqu
+104,cmd:EB10,sevice,3.2,3.2 Air transport,atp,Air transport,TranspAer
+105,cmd:EB10,sevice,3.3,3.3 Other modes of transport,otp,Transport nec,TranspTerr
+106,cmd:EB10,sevice,3.4,3.4 Postal and courier services,cmn,Communication,TICRadTVEdic
+107,cmd:EB10,sevice,4.0,4 Travel,afs," Accommodation,Food and servic ",AlojamAlimen
+108,cmd:EB10,sevice,5.0,5 Construction,cns,Construction,Construcao
+109,cmd:EB10,sevice,6.0,6 Insurance and pension services,ins,Insurance,FinSeg
+110,cmd:EB10,sevice,7.0,7 Financial services,ofi,Financial services nec,FinSeg
+111,cmd:EB10,sevice,8.0,8 Charges for the use of intellectual property...,obs,Business services nec,ServEmp
+112,cmd:EB10,sevice,9.0,"9 Telecommunications, computer, and informatio...",cmn,Communication,TICRadTVEdic
