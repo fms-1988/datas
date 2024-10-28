@@ -97,7 +97,7 @@ cmd:HS,product,95,"95 - Toys, games and sports requisites; parts and accessories
 cmd:HS,product,96,96 - Miscellaneous manufactured articles,omf,Manufactures nec,FabDivers
 cmd:HS,product,97,97 - Works of art; collectors' pieces and antiques,ros,Recreational and other service,DomestArtOut
 cmd:HS,product,99,99 - Commodities not specified according to kind,omf,Manufactures nec,FabDivers
-cmd:EB10,sevice,1,1 Manufacturing services on physical inputs ow...,obs,Business services nec,ServEmp
+cmd:EB10,sevice,"1",1 Manufacturing services on physical inputs ow...,obs,Business services nec,ServEmp
 cmd:EB10,sevice,10,10 Other business services,obs,Business services nec,ServEmp
 cmd:EB10,sevice,11,"11 Personal,cultural, and recreational services",ros,Recreational and other service ,DomestArtOut
 cmd:EB10,sevice,12,12 Government goods and services n.i.e.,osg,Public Administration and defe ,AdmPub
