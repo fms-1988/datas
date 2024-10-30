@@ -1,114 +1,114 @@
-comtrade_reference,comtrade_class,comtrade_id,comtrade_description,gtap11_code,gtap11_short_description,joaom_code
-cmd:HS,product,1,01 - Animals; live,ctl,"Bovine cattle, sheep and goats",Pecuaria
-cmd:HS,product,2,02 - Meat and edible meat offal,omt,Meat products nec,ProdAnimal
-cmd:HS,product,3,"03 - Fish and crustaceans, molluscs and other aquatic invertebrates",fsh,Fishing,FlorPesAqu
-cmd:HS,product,4,"04 - Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",mil,Dairy products,ProdAnimal
-cmd:HS,product,5,05 - Animal originated products; not elsewhere specified or included,oap,Animal products nec,Pecuaria
-cmd:HS,product,6,"06 - Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",ocr,Crops nec,Agricultura
-cmd:HS,product,7,07 - Vegetables and certain roots and tubers; edible,v_f,"Vegetables, fruit, nuts",Agricultura
-cmd:HS,product,8,"08 - Fruit and nuts, edible; peel of citrus fruit or melons",v_f,"Vegetables, fruit, nuts",Agricultura
-cmd:HS,product,9,"09 - Coffee, tea, mate and spices",ocr,Crops nec,Agricultura
-cmd:HS,product,10,10 - Cereals,gro,Cereal grains nec,Agricultura
-cmd:HS,product,11,"11 - Products of the milling industry; malt, starches, inulin, wheat gluten",ofd,Food products nec,OutAliment
-cmd:HS,product,12,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",osd,Oil seeds,Agricultura
-cmd:HS,product,13,"13 - Lac; gums, resins and other vegetable saps and extracts",ocr,Crops nec,Agricultura
-cmd:HS,product,14,14 - Vegetable plaiting materials; vegetable products not elsewhere specified or included,ocr,Crops nec,Agricultura
-cmd:HS,product,15,"15 - Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes",vol,Vegetable oils and fats,OutAliment
-cmd:HS,product,16,"16 - Meat, fish, crustaceans, molluscs or other aquatic invertebrates, or insects; preparations thereof",ofd,Food products nec,OutAliment
-cmd:HS,product,17,17 - Sugars and sugar confectionery,sgr,Sugar,RefinAcucar
-cmd:HS,product,18,18 - Cocoa and cocoa preparations,ofd,Food products nec,OutAliment
-cmd:HS,product,19,"19 - Preparations of cereals, flour, starch or milk; pastrycooks' products",ofd,Food products nec,OutAliment
-cmd:HS,product,20,"20 - Preparations of vegetables, fruit, nuts or other parts of plants",ofd,Food products nec,OutAliment
-cmd:HS,product,21,21 - Miscellaneous edible preparations,ofd,Food products nec,OutAliment
-cmd:HS,product,22,"22 - Beverages, spirits and vinegar",b_t,Beverages and tobacco products,BebidasFumo
-cmd:HS,product,23,"23 - Food industries, residues and wastes thereof; prepared animal fodder",ofd,Food products nec,OutAliment
-cmd:HS,product,24,"24 - Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body",b_t,Beverages and tobacco products,BebidasFumo
-cmd:HS,product,25,"25 - Salt; sulphur; earths, stone; plastering materials, lime and cement",nmm,Mineral products nec,FabMinNmet
-cmd:HS,product,26,"26 - Ores, slag and ash",oxt,Minerals nec,MineMetal
-cmd:HS,product,27,"27 - Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",p_c,"Petroleum, coal products",RefinBioComb
-cmd:HS,product,28,"28 - Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",chm,Chemical products,QuimDefLimp
-cmd:HS,product,29,29 - Organic chemicals,chm,Chemical products,QuimDefLimp
-cmd:HS,product,30,30 - Pharmaceutical products,bph,Basic pharmaceutical products,Farmacos
-cmd:HS,product,31,31 - Fertilizers,chm,Chemical products,QuimDefLimp
-cmd:HS,product,32,"32 - Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",chm,Chemical products,QuimDefLimp
-cmd:HS,product,33,"33 - Essential oils and resinoids; perfumery, cosmetic or toilet preparations",chm,Chemical products,QuimDefLimp
-cmd:HS,product,34,"34 - Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",chm,Chemical products,QuimDefLimp
-cmd:HS,product,35,35 - Albuminoidal substances; modified starches; glues; enzymes,chm,Chemical products,QuimDefLimp
-cmd:HS,product,36,36 - Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,chm,Chemical products,QuimDefLimp
-cmd:HS,product,37,37 - Photographic or cinematographic goods,ele,"Computer, electronic and optic",FabEletroni
-cmd:HS,product,38,38 - Chemical products n.e.c.,chm,Chemical products,QuimDefLimp
-cmd:HS,product,39,39 - Plastics and articles thereof,rpp,Rubber and plastic products,BorrPlast
-cmd:HS,product,40,40 - Rubber and articles thereof,rpp,Rubber and plastic products,BorrPlast
-cmd:HS,product,41,41 - Raw hides and skins (other than furskins) and leather,oap,Animal products nec,Pecuaria
-cmd:HS,product,42,"42 - Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",lea,Leather products,Couro
-cmd:HS,product,43,43 - Furskins and artificial fur; manufactures thereof,lea,Leather products,Couro
-cmd:HS,product,44,44 - Wood and articles of wood; wood charcoal,lum,Wood products,Madeira
-cmd:HS,product,45,45 - Cork and articles of cork,lum,Wood products,Madeira
-cmd:HS,product,46,"46 - Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",lum,Wood products,Madeira
-cmd:HS,product,47,47 - Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,ppp,"Paper products, publishing",PapelGrafica
-cmd:HS,product,48,"48 - Paper and paperboard; articles of paper pulp, of paper or paperboard",ppp,"Paper products, publishing",PapelGrafica
-cmd:HS,product,49,"49 - Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",ppp,"Paper products, publishing",PapelGrafica
-cmd:HS,product,50,50 - Silk,wol,"Wool, silk-worm cocoons",Pecuaria
-cmd:HS,product,51,"51 - Wool, fine or coarse animal hair; horsehair yarn and woven fabric",wol,"Wool, silk-worm cocoons",Pecuaria
-cmd:HS,product,52,52 - Cotton,pfb,Plant-based fibers,Agricultura
-cmd:HS,product,53,53 - Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,pfb,Plant-based fibers,Agricultura
-cmd:HS,product,54,54 - Man-made filaments; strip and the like of man-made textile materials,tex,Textiles,Texteis
-cmd:HS,product,55,55 - Man-made staple fibres,tex,Textiles,Texteis
-cmd:HS,product,56,"56 - Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",tex,Textiles,Texteis
-cmd:HS,product,57,57 - Carpets and other textile floor coverings,tex,Textiles,Texteis
-cmd:HS,product,58,"58 - Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",tex,Textiles,Texteis
-cmd:HS,product,59,"59 - Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",tex,Textiles,Texteis
-cmd:HS,product,60,60 - Fabrics; knitted or crocheted,tex,Textiles,Texteis
-cmd:HS,product,61,61 - Apparel and clothing accessories; knitted or crocheted,wap,Wearing apparel,Vestuario
-cmd:HS,product,62,62 - Apparel and clothing accessories; not knitted or crocheted,wap,Wearing apparel,Vestuario
-cmd:HS,product,63,"63 - Textiles, made up articles; sets; worn clothing and worn textile articles; rags",wap,Wearing apparel,Vestuario
-cmd:HS,product,64,64 - Footwear; gaiters and the like; parts of such articles,lea,Leather products,Couro
-cmd:HS,product,65,65 - Headgear and parts thereof,wap,Wearing apparel,Vestuario
-cmd:HS,product,66,"66 - Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",omf,Manufactures nec,FabDivers
-cmd:HS,product,67,"67 - Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",omf,Manufactures nec,FabDivers
-cmd:HS,product,68,"68 - Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",nmm,Mineral products nec,FabMinNmet
-cmd:HS,product,69,69 - Ceramic products,nmm,Mineral products nec,FabMinNmet
-cmd:HS,product,70,70 - Glass and glassware,nmm,Mineral products nec,FabMinNmet
-cmd:HS,product,71,"71 - Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",nfm,Metals nec,FabMetnFer
-cmd:HS,product,72,72 - Iron and steel,i_s,Ferrous metals,FabFerrAco
-cmd:HS,product,73,73 - Iron or steel articles,fmp,Metal products,FabProdMet
-cmd:HS,product,74,74 - Copper and articles thereof,nfm,Metals nec,FabMetnFer
-cmd:HS,product,75,75 - Nickel and articles thereof,nfm,Metals nec,FabMetnFer
-cmd:HS,product,76,76 - Aluminium and articles thereof,nfm,Metals nec,FabMetnFer
-cmd:HS,product,77,77 - (Reserved for possible future use in the Harmonized System),,,
-cmd:HS,product,78,78 - Lead and articles thereof,nfm,Metals nec,FabMetnFer
-cmd:HS,product,79,79 - Zinc and articles thereof,nfm,Metals nec,FabMetnFer
-cmd:HS,product,80,80 - Tin; articles thereof,nfm,Metals nec,FabMetnFer
-cmd:HS,product,81,"81 - Metals; n.e.c., cermets and articles thereof",nfm,Metals nec,FabMetnFer
-cmd:HS,product,82,"82 - Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",fmp,Metal products,FabProdMet
-cmd:HS,product,83,83 - Metal; miscellaneous products of base metal,fmp,Metal products,FabProdMet
-cmd:HS,product,84,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",ome,Machinery and equipment nec,FabEqMec
-cmd:HS,product,85,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",eeq,Electrical equipment,FabEqElet
-cmd:HS,product,86,"86 - Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",otn,Transport equipment nec,FabEqTran
-cmd:HS,product,87,"87 - Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",mvh,Motor vehicles and parts,FabVeicPecas
-cmd:HS,product,88,"88 - Aircraft, spacecraft, and parts thereof",otn,Transport equipment nec,FabEqTran
-cmd:HS,product,89,"89 - Ships, boats and floating structures",otn,Transport equipment nec,FabEqTran
-cmd:HS,product,90,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",ele,"Computer, electronic and optic",FabEletroni
-cmd:HS,product,91,91 - Clocks and watches and parts thereof,ele,"Computer, electronic and optic",FabEletroni
-cmd:HS,product,92,92 - Musical instruments; parts and accessories of such articles,omf,Manufactures nec,FabDivers
-cmd:HS,product,93,93 - Arms and ammunition; parts and accessories thereof,omf,Manufactures nec,FabDivers
-cmd:HS,product,94,"94 - Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",omf,Manufactures nec,FabDivers
-cmd:HS,product,95,"95 - Toys, games and sports requisites; parts and accessories thereof",omf,Manufactures nec,FabDivers
-cmd:HS,product,96,96 - Miscellaneous manufactured articles,omf,Manufactures nec,FabDivers
-cmd:HS,product,97,97 - Works of art; collectors' pieces and antiques,ros,Recreational and other service,DomestArtOut
-cmd:HS,product,99,99 - Commodities not specified according to kind,omf,Manufactures nec,FabDivers
-cmd:EB10,sevice,1,1 Manufacturing services on physical inputs ow...,obs,Business services nec,ServEmp
-cmd:EB10,sevice,10,10 Other business services,obs,Business services nec,ServEmp
-cmd:EB10,sevice,11,"11 Personal,cultural, and recreational services",ros,Recreational and other service ,DomestArtOut
-cmd:EB10,sevice,12,12 Government goods and services n.i.e.,osg,Public Administration and defe ,AdmPub
-cmd:EB10,sevice,2,2 Maintenance and repair services n.i.e.,obs,Business services nec,ServEmp
-cmd:EB10,sevice,3.1,3.1 Sea transport,wtp,Water transport,TranspAqu
-cmd:EB10,sevice,3.2,3.2 Air transport,atp,Air transport,TranspAer
-cmd:EB10,sevice,3.3,3.3 Other modes of transport,otp,Transport nec,TranspTerr
-cmd:EB10,sevice,3.4,3.4 Postal and courier services,cmn,Communication,TICRadTVEdic
-cmd:EB10,sevice,4,4 Travel,afs," Accommodation,Food and servic ",AlojamAlimen
-cmd:EB10,sevice,5,5 Construction,cns,Construction,Construcao
-cmd:EB10,sevice,6,6 Insurance and pension services,ins,Insurance,FinSeg
-cmd:EB10,sevice,7,7 Financial services,ofi,Financial services nec,FinSeg
-cmd:EB10,sevice,8,8 Charges for the use of intellectual property...,obs,Business services nec,ServEmp
-cmd:EB10,sevice,9,"9 Telecommunications, computer, and informatio...",cmn,Communication,TICRadTVEdic
+comtrade_reference,comtrade_class,comtrade_id,comtrade_description,gtap11_code,gtap11_short_description,joaom_code,joaom_code46
+cmd:HS,product,1,01 - Animals; live,ctl,"Bovine cattle, sheep and goats",Pecuaria,Pecuaria2
+cmd:HS,product,2,02 - Meat and edible meat offal,omt,Meat products nec,ProdAnimal,Abate8
+cmd:HS,product,3,"03 - Fish and crustaceans, molluscs and other aquatic invertebrates",fsh,Fishing,FlorPesAqu,FlorPesAqu3
+cmd:HS,product,4,"04 - Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",mil,Dairy products,ProdAnimal,Abate8
+cmd:HS,product,5,05 - Animal originated products; not elsewhere specified or included,oap,Animal products nec,Pecuaria,Pecuaria2
+cmd:HS,product,6,"06 - Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",ocr,Crops nec,Agricultura,Agricultura1
+cmd:HS,product,7,07 - Vegetables and certain roots and tubers; edible,v_f,"Vegetables, fruit, nuts",Agricultura,Agricultura1
+cmd:HS,product,8,"08 - Fruit and nuts, edible; peel of citrus fruit or melons",v_f,"Vegetables, fruit, nuts",Agricultura,Agricultura1
+cmd:HS,product,9,"09 - Coffee, tea, mate and spices",ocr,Crops nec,Agricultura,Agricultura1
+cmd:HS,product,10,10 - Cereals,gro,Cereal grains nec,Agricultura,Agricultura1
+cmd:HS,product,11,"11 - Products of the milling industry; malt, starches, inulin, wheat gluten",ofd,Food products nec,OutAliment,OutAlim10
+cmd:HS,product,12,"12 - Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",osd,Oil seeds,Agricultura,Agricultura1
+cmd:HS,product,13,"13 - Lac; gums, resins and other vegetable saps and extracts",ocr,Crops nec,Agricultura,Agricultura1
+cmd:HS,product,14,14 - Vegetable plaiting materials; vegetable products not elsewhere specified or included,ocr,Crops nec,Agricultura,Agricultura1
+cmd:HS,product,15,"15 - Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes",vol,Vegetable oils and fats,OutAliment,OutAlim10
+cmd:HS,product,16,"16 - Meat, fish, crustaceans, molluscs or other aquatic invertebrates, or insects; preparations thereof",ofd,Food products nec,OutAliment,OutAlim10
+cmd:HS,product,17,17 - Sugars and sugar confectionery,sgr,Sugar,RefinAcucar,RefinAcucar9
+cmd:HS,product,18,18 - Cocoa and cocoa preparations,ofd,Food products nec,OutAliment,OutAlim10
+cmd:HS,product,19,"19 - Preparations of cereals, flour, starch or milk; pastrycooks' products",ofd,Food products nec,OutAliment,OutAlim10
+cmd:HS,product,20,"20 - Preparations of vegetables, fruit, nuts or other parts of plants",ofd,Food products nec,OutAliment,OutAlim10
+cmd:HS,product,21,21 - Miscellaneous edible preparations,ofd,Food products nec,OutAliment,OutAlim10
+cmd:HS,product,22,"22 - Beverages, spirits and vinegar",b_t,Beverages and tobacco products,BebidasFumo,Bebidas11
+cmd:HS,product,23,"23 - Food industries, residues and wastes thereof; prepared animal fodder",ofd,Food products nec,OutAliment,OutAlim10
+cmd:HS,product,24,"24 - Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body",b_t,Beverages and tobacco products,BebidasFumo,Bebidas11
+cmd:HS,product,25,"25 - Salt; sulphur; earths, stone; plastering materials, lime and cement",nmm,Mineral products nec,FabMinNmet,FabMinNmet26
+cmd:HS,product,26,"26 - Ores, slag and ash",oxt,Minerals nec,MineMetal,MineMetal6
+cmd:HS,product,27,"27 - Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",p_c,"Petroleum, coal products",RefinBioComb,RefiPetrol19
+cmd:HS,product,28,"28 - Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",chm,Chemical products,QuimDefLimp,Quimicos21
+cmd:HS,product,29,29 - Organic chemicals,chm,Chemical products,QuimDefLimp,Quimicos21
+cmd:HS,product,30,30 - Pharmaceutical products,bph,Basic pharmaceutical products,Farmacos,Farmacos24
+cmd:HS,product,31,31 - Fertilizers,chm,Chemical products,QuimDefLimp,Quimicos21
+cmd:HS,product,32,"32 - Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",chm,Chemical products,QuimDefLimp,Quimicos21
+cmd:HS,product,33,"33 - Essential oils and resinoids; perfumery, cosmetic or toilet preparations",chm,Chemical products,QuimDefLimp,Quimicos21
+cmd:HS,product,34,"34 - Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",chm,Chemical products,QuimDefLimp,Quimicos21
+cmd:HS,product,35,35 - Albuminoidal substances; modified starches; glues; enzymes,chm,Chemical products,QuimDefLimp,Quimicos21
+cmd:HS,product,36,36 - Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,chm,Chemical products,QuimDefLimp,Quimicos21
+cmd:HS,product,37,37 - Photographic or cinematographic goods,ele,"Computer, electronic and optic",FabEletroni,FabComp30
+cmd:HS,product,38,38 - Chemical products n.e.c.,chm,Chemical products,QuimDefLimp,Quimicos21
+cmd:HS,product,39,39 - Plastics and articles thereof,rpp,Rubber and plastic products,BorrPlast,BorrPlast25
+cmd:HS,product,40,40 - Rubber and articles thereof,rpp,Rubber and plastic products,BorrPlast,BorrPlast25
+cmd:HS,product,41,41 - Raw hides and skins (other than furskins) and leather,oap,Animal products nec,Pecuaria,Pecuaria2
+cmd:HS,product,42,"42 - Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",lea,Leather products,Couro,Couro15
+cmd:HS,product,43,43 - Furskins and artificial fur; manufactures thereof,lea,Leather products,Couro,Couro15
+cmd:HS,product,44,44 - Wood and articles of wood; wood charcoal,lum,Wood products,Madeira,Madeira16
+cmd:HS,product,45,45 - Cork and articles of cork,lum,Wood products,Madeira,Madeira16
+cmd:HS,product,46,"46 - Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",lum,Wood products,Madeira,Madeira16
+cmd:HS,product,47,47 - Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,ppp,"Paper products, publishing",PapelGrafica,Papel17
+cmd:HS,product,48,"48 - Paper and paperboard; articles of paper pulp, of paper or paperboard",ppp,"Paper products, publishing",PapelGrafica,Papel17
+cmd:HS,product,49,"49 - Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",ppp,"Paper products, publishing",PapelGrafica,Papel17
+cmd:HS,product,50,50 - Silk,wol,"Wool, silk-worm cocoons",Pecuaria,Pecuaria2
+cmd:HS,product,51,"51 - Wool, fine or coarse animal hair; horsehair yarn and woven fabric",wol,"Wool, silk-worm cocoons",Pecuaria,Pecuaria2
+cmd:HS,product,52,52 - Cotton,pfb,Plant-based fibers,Agricultura,Agricultura1
+cmd:HS,product,53,53 - Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,pfb,Plant-based fibers,Agricultura,Agricultura1
+cmd:HS,product,54,54 - Man-made filaments; strip and the like of man-made textile materials,tex,Textiles,Texteis,Texteis13
+cmd:HS,product,55,55 - Man-made staple fibres,tex,Textiles,Texteis,Texteis13
+cmd:HS,product,56,"56 - Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",tex,Textiles,Texteis,Texteis13
+cmd:HS,product,57,57 - Carpets and other textile floor coverings,tex,Textiles,Texteis,Texteis13
+cmd:HS,product,58,"58 - Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",tex,Textiles,Texteis,Texteis13
+cmd:HS,product,59,"59 - Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",tex,Textiles,Texteis,Texteis13
+cmd:HS,product,60,60 - Fabrics; knitted or crocheted,tex,Textiles,Texteis,Texteis13
+cmd:HS,product,61,61 - Apparel and clothing accessories; knitted or crocheted,wap,Wearing apparel,Vestuario,Vestuario14
+cmd:HS,product,62,62 - Apparel and clothing accessories; not knitted or crocheted,wap,Wearing apparel,Vestuario,Vestuario14
+cmd:HS,product,63,"63 - Textiles, made up articles; sets; worn clothing and worn textile articles; rags",wap,Wearing apparel,Vestuario,Vestuario14
+cmd:HS,product,64,64 - Footwear; gaiters and the like; parts of such articles,lea,Leather products,Couro,Couro15
+cmd:HS,product,65,65 - Headgear and parts thereof,wap,Wearing apparel,Vestuario,Vestuario14
+cmd:HS,product,66,"66 - Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",omf,Manufactures nec,FabDivers,FabDivers36
+cmd:HS,product,67,"67 - Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",omf,Manufactures nec,FabDivers,FabDivers36
+cmd:HS,product,68,"68 - Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",nmm,Mineral products nec,FabMinNmet,FabMinNmet26
+cmd:HS,product,69,69 - Ceramic products,nmm,Mineral products nec,FabMinNmet,FabMinNmet26
+cmd:HS,product,70,70 - Glass and glassware,nmm,Mineral products nec,FabMinNmet,FabMinNmet26
+cmd:HS,product,71,"71 - Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",nfm,Metals nec,FabMetnFer,FabMetnFer28
+cmd:HS,product,72,72 - Iron and steel,i_s,Ferrous metals,FabFerrAco,FabFerrAco27
+cmd:HS,product,73,73 - Iron or steel articles,fmp,Metal products,FabProdMet,FabProdMet29
+cmd:HS,product,74,74 - Copper and articles thereof,nfm,Metals nec,FabMetnFer,FabMetnFer28
+cmd:HS,product,75,75 - Nickel and articles thereof,nfm,Metals nec,FabMetnFer,FabMetnFer28
+cmd:HS,product,76,76 - Aluminium and articles thereof,nfm,Metals nec,FabMetnFer,FabMetnFer28
+cmd:HS,product,77,77 - (Reserved for possible future use in the Harmonized System),,,,
+cmd:HS,product,78,78 - Lead and articles thereof,nfm,Metals nec,FabMetnFer,FabMetnFer28
+cmd:HS,product,79,79 - Zinc and articles thereof,nfm,Metals nec,FabMetnFer,FabMetnFer28
+cmd:HS,product,80,80 - Tin; articles thereof,nfm,Metals nec,FabMetnFer,FabMetnFer28
+cmd:HS,product,81,"81 - Metals; n.e.c., cermets and articles thereof",nfm,Metals nec,FabMetnFer,FabMetnFer28
+cmd:HS,product,82,"82 - Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",fmp,Metal products,FabProdMet,FabProdMet29
+cmd:HS,product,83,83 - Metal; miscellaneous products of base metal,fmp,Metal products,FabProdMet,FabProdMet29
+cmd:HS,product,84,"84 - Machinery and mechanical appliances, boilers, nuclear reactors; parts thereof",ome,Machinery and equipment nec,FabEqMec,FabEqMec32
+cmd:HS,product,85,"85 - Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",eeq,Electrical equipment,FabEqElet,FabEqElet31
+cmd:HS,product,86,"86 - Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",otn,Transport equipment nec,FabEqTran,FabEqTran35
+cmd:HS,product,87,"87 - Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",mvh,Motor vehicles and parts,FabVeicPecas,FabAuto33
+cmd:HS,product,88,"88 - Aircraft, spacecraft, and parts thereof",otn,Transport equipment nec,FabEqTran,FabEqTran35
+cmd:HS,product,89,"89 - Ships, boats and floating structures",otn,Transport equipment nec,FabEqTran,FabEqTran35
+cmd:HS,product,90,"90 - Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",ele,"Computer, electronic and optic",FabEletroni,FabComp30
+cmd:HS,product,91,91 - Clocks and watches and parts thereof,ele,"Computer, electronic and optic",FabEletroni,FabComp30
+cmd:HS,product,92,92 - Musical instruments; parts and accessories of such articles,omf,Manufactures nec,FabDivers,FabDivers36
+cmd:HS,product,93,93 - Arms and ammunition; parts and accessories thereof,omf,Manufactures nec,FabDivers,FabDivers36
+cmd:HS,product,94,"94 - Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",omf,Manufactures nec,FabDivers,FabDivers36
+cmd:HS,product,95,"95 - Toys, games and sports requisites; parts and accessories thereof",omf,Manufactures nec,FabDivers,FabDivers36
+cmd:HS,product,96,96 - Miscellaneous manufactured articles,omf,Manufactures nec,FabDivers,FabDivers36
+cmd:HS,product,97,97 - Works of art; collectors' pieces and antiques,ros,Recreational and other service,DomestArtOut,ArteOut66
+cmd:HS,product,99,99 - Commodities not specified according to kind,omf,Manufactures nec,FabDivers,FabDivers36
+cmd:EB10,sevice,1,1 Manufacturing services on physical inputs ow...,obs,Business services nec,ServEmp,ServEmpr55
+cmd:EB10,sevice,10,10 Other business services,obs,Business services nec,ServEmp,ServEmpr55
+cmd:EB10,sevice,11,"11 Personal,cultural, and recreational services",ros,Recreational and other service ,DomestArtOut,ArteOut66
+cmd:EB10,sevice,12,12 Government goods and services n.i.e.,osg,Public Administration and defe ,AdmPub,AdmPub61
+cmd:EB10,sevice,2,2 Maintenance and repair services n.i.e.,obs,Business services nec,ServEmp,ServEmpr55
+cmd:EB10,sevice,3.1,3.1 Sea transport,wtp,Water transport,TranspAqu,TranspAqu44
+cmd:EB10,sevice,3.2,3.2 Air transport,atp,Air transport,TranspAer,TranspAer45
+cmd:EB10,sevice,3.3,3.3 Other modes of transport,otp,Transport nec,TranspTerr,TranspTer43
+cmd:EB10,sevice,3.4,3.4 Postal and courier services,cmn,Communication,TICRadTVEdic,Comun51
+cmd:EB10,sevice,4,4 Travel,afs," Accommodation,Food and servic ",AlojamAlimen,Alojamen47
+cmd:EB10,sevice,5,5 Construction,cns,Construction,Construcao,Construc40
+cmd:EB10,sevice,6,6 Insurance and pension services,ins,Insurance,FinSeg,FinSeg53
+cmd:EB10,sevice,7,7 Financial services,ofi,Financial services nec,FinSeg,FinSeg53
+cmd:EB10,sevice,8,8 Charges for the use of intellectual property...,obs,Business services nec,ServEmp,ServEmpr55
+cmd:EB10,sevice,9,"9 Telecommunications, computer, and informatio...",cmn,Communication,TICRadTVEdic,Comun51
