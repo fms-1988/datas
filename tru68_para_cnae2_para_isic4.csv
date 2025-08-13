@@ -1,0 +1,770 @@
+atividade_cod;atividade_desc;cnae2_4cod;cnae2_cod;isic4_sec;isic4_cod; isic4_desc;cnae2_desc
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0111;011;A;011;Cultivo de plantas no perenes;Produção de lavouras temporárias
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0111;011;A;012;Cultivo de plantas perennes;Produção de lavouras temporárias
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0112;011;A;011;Cultivo de plantas no perenes;Produção de lavouras temporárias
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0112;011;A;012;Cultivo de plantas perennes;Produção de lavouras temporárias
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0113;011;A;011;Cultivo de plantas no perenes;Produção de lavouras temporárias
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0113;011;A;012;Cultivo de plantas perennes;Produção de lavouras temporárias
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0114;011;A;011;Cultivo de plantas no perenes;Produção de lavouras temporárias
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0114;011;A;012;Cultivo de plantas perennes;Produção de lavouras temporárias
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0115;011;A;011;Cultivo de plantas no perenes;Produção de lavouras temporárias
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0115;011;A;012;Cultivo de plantas perennes;Produção de lavouras temporárias
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0116;011;A;011;Cultivo de plantas no perenes;Produção de lavouras temporárias
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0116;011;A;012;Cultivo de plantas perennes;Produção de lavouras temporárias
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0119;011;A;011;Cultivo de plantas no perenes;Produção de lavouras temporárias
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0119;011;A;012;Cultivo de plantas perennes;Produção de lavouras temporárias
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0121;012;A;011;Cultivo de plantas no perenes;Horticultura e floricultura
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0121;012;A;012;Cultivo de plantas perennes;Horticultura e floricultura
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0122;012;A;011;Cultivo de plantas no perenes;Horticultura e floricultura
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0122;012;A;012;Cultivo de plantas perennes;Horticultura e floricultura
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0131;013;A;011;Cultivo de plantas no perenes;Produção de lavouras permanentes
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0131;013;A;012;Cultivo de plantas perennes;Produção de lavouras permanentes
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0132;013;A;011;Cultivo de plantas no perenes;Produção de lavouras permanentes
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0132;013;A;012;Cultivo de plantas perennes;Produção de lavouras permanentes
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0133;013;A;011;Cultivo de plantas no perenes;Produção de lavouras permanentes
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0133;013;A;012;Cultivo de plantas perennes;Produção de lavouras permanentes
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0134;013;A;011;Cultivo de plantas no perenes;Produção de lavouras permanentes
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0134;013;A;012;Cultivo de plantas perennes;Produção de lavouras permanentes
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0135;013;A;011;Cultivo de plantas no perenes;Produção de lavouras permanentes
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0135;013;A;012;Cultivo de plantas perennes;Produção de lavouras permanentes
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0139;013;A;011;Cultivo de plantas no perenes;Produção de lavouras permanentes
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0139;013;A;012;Cultivo de plantas perennes;Produção de lavouras permanentes
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0141;014;A;011;Cultivo de plantas no perenes;Produção de sementes e mudas certificadas
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0141;014;A;012;Cultivo de plantas perennes;Produção de sementes e mudas certificadas
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0141;014;A;013;Propagación de plantas;Produção de sementes e mudas certificadas
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0142;014;A;011;Cultivo de plantas no perenes;Produção de sementes e mudas certificadas
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0142;014;A;012;Cultivo de plantas perennes;Produção de sementes e mudas certificadas
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0142;014;A;013;Propagación de plantas;Produção de sementes e mudas certificadas
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0161;0161;A;0161;Actividades de apoyo a la agricultura;Atividades de apoio à agricultura
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0163;0163;A;0163;Actividades poscosecha;Atividades de pós-colheita
+0191;Agricultura, inclusive o apoio à agricultura e a pós-colheita;0163;0163;A;0164;Tratamiento de semillas para propagación;Atividades de pós-colheita
+0192;Pecuária, inclusive o apoio à pecuária;0151;015;A;014;Ganadería;Pecuária
+0192;Pecuária, inclusive o apoio à pecuária;0152;015;A;014;Ganadería;Pecuária
+0192;Pecuária, inclusive o apoio à pecuária;0153;015;A;014;Ganadería;Pecuária
+0192;Pecuária, inclusive o apoio à pecuária;0154;015;A;014;Ganadería;Pecuária
+0192;Pecuária, inclusive o apoio à pecuária;0155;015;A;014;Ganadería;Pecuária
+0192;Pecuária, inclusive o apoio à pecuária;0159;015;A;014;Ganadería;Pecuária
+0192;Pecuária, inclusive o apoio à pecuária;0162;0162;A;0162;Actividades de apoyo a la ganadería;Atividades de apoio à pecuária
+0192;Pecuária, inclusive o apoio à pecuária;0170;017;A;017;Caza ordinaria y mediante trampas y actividades de servicios conexas;Caça e serviços relacionados
+0280;"Produção florestal; pesca e aquicultura";0210;02;A;02;SILVICULTURA Y EXTRACCIÓN DE MADERA;PRODUÇÃO FLORESTAL
+0280;"Produção florestal; pesca e aquicultura";0220;02;A;02;SILVICULTURA Y EXTRACCIÓN DE MADERA;PRODUÇÃO FLORESTAL
+0280;"Produção florestal; pesca e aquicultura";0230;02;A;02;SILVICULTURA Y EXTRACCIÓN DE MADERA;PRODUÇÃO FLORESTAL
+0280;"Produção florestal; pesca e aquicultura";0311;03;A;03;PESCA Y ACUICULTURA;PESCA E AQÜICULTURA
+0280;"Produção florestal; pesca e aquicultura";0312;03;A;03;PESCA Y ACUICULTURA;PESCA E AQÜICULTURA
+0280;"Produção florestal; pesca e aquicultura";0321;03;A;03;PESCA Y ACUICULTURA;PESCA E AQÜICULTURA
+0280;"Produção florestal; pesca e aquicultura";0322;03;A;03;PESCA Y ACUICULTURA;PESCA E AQÜICULTURA
+0580;Extração de carvão mineral e de minerais não metálicos;0500;05;B;05;EXTRACCIÓN DE CARBÓN DE PIEDRA Y LIGNITO;EXTRAÇÃO DE CARVÃO MINERAL
+0580;Extração de carvão mineral e de minerais não metálicos;0810;08;B;08;EXPLOTACIÓN DE OTRAS MINAS Y CANTERAS;EXTRAÇÃO DE MINERAIS NÃO-METÁLICOS
+0580;Extração de carvão mineral e de minerais não metálicos;0891;08;B;08;EXPLOTACIÓN DE OTRAS MINAS Y CANTERAS;EXTRAÇÃO DE MINERAIS NÃO-METÁLICOS
+0580;Extração de carvão mineral e de minerais não metálicos;0892;08;B;08;EXPLOTACIÓN DE OTRAS MINAS Y CANTERAS;EXTRAÇÃO DE MINERAIS NÃO-METÁLICOS
+0580;Extração de carvão mineral e de minerais não metálicos;0893;08;B;08;EXPLOTACIÓN DE OTRAS MINAS Y CANTERAS;EXTRAÇÃO DE MINERAIS NÃO-METÁLICOS
+0580;Extração de carvão mineral e de minerais não metálicos;0899;08;B;08;EXPLOTACIÓN DE OTRAS MINAS Y CANTERAS;EXTRAÇÃO DE MINERAIS NÃO-METÁLICOS
+0680;Extração de petróleo e gás, inclusive as atividades de apoio;0600;06;B;06;EXTRACCIÓN DE PETRÓLEO CRUDO Y GAS NATURAL;EXTRAÇÃO DE PETRÓLEO E GÁS NATURAL
+0680;Extração de petróleo e gás, inclusive as atividades de apoio;0910;09;B;09;ACTIVIDADES DE SERVICIOS DE APOYO PARA LA EXPLOTACIÓN DE MINAS Y CANTERAS;ATIVIDADES DE APOIO À EXTRAÇÃO DE MINERAIS
+0680;Extração de petróleo e gás, inclusive as atividades de apoio;0990;09;B;09;ACTIVIDADES DE SERVICIOS DE APOYO PARA LA EXPLOTACIÓN DE MINAS Y CANTERAS;ATIVIDADES DE APOIO À EXTRAÇÃO DE MINERAIS
+0791;Extração de minério de ferro, inclusive beneficiamento e a aglomeração;0710;071;B;071;Extracción de minerales de hierro;Extração de minério de ferro
+0792;Extração de minerais metálicos não ferrosos, inclusive beneficiamentos;0721;072;B;072;Extracción de minerales metalíferos no ferrosos;Extração de minerais metálicos não-ferrosos
+0792;Extração de minerais metálicos não ferrosos, inclusive beneficiamentos;0722;072;B;072;Extracción de minerales metalíferos no ferrosos;Extração de minerais metálicos não-ferrosos
+0792;Extração de minerais metálicos não ferrosos, inclusive beneficiamentos;0723;072;B;072;Extracción de minerales metalíferos no ferrosos;Extração de minerais metálicos não-ferrosos
+0792;Extração de minerais metálicos não ferrosos, inclusive beneficiamentos;0724;072;B;072;Extracción de minerales metalíferos no ferrosos;Extração de minerais metálicos não-ferrosos
+0792;Extração de minerais metálicos não ferrosos, inclusive beneficiamentos;0725;072;B;072;Extracción de minerales metalíferos no ferrosos;Extração de minerais metálicos não-ferrosos
+0792;Extração de minerais metálicos não ferrosos, inclusive beneficiamentos;0729;072;B;072;Extracción de minerales metalíferos no ferrosos;Extração de minerais metálicos não-ferrosos
+1091;Abate e produtos de carne, inclusive os produtos do laticínio e da pesca;1011;101;C;101;Elaboración y conservación de carne;Abate e fabricação de produtos de carne
+1091;Abate e produtos de carne, inclusive os produtos do laticínio e da pesca;1012;101;C;101;Elaboración y conservación de carne;Abate e fabricação de produtos de carne
+1091;Abate e produtos de carne, inclusive os produtos do laticínio e da pesca;1013;101;C;101;Elaboración y conservación de carne;Abate e fabricação de produtos de carne
+1091;Abate e produtos de carne, inclusive os produtos do laticínio e da pesca;1020;102;C;102;Elaboración y conservación de pescado, crustáceos y moluscos;Preservação do pescado e fabricação de produtos do pescado
+1091;Abate e produtos de carne, inclusive os produtos do laticínio e da pesca;1051;105;C;105;Elaboración de productos lácteos;Laticínios
+1091;Abate e produtos de carne, inclusive os produtos do laticínio e da pesca;1052;105;C;105;Elaboración de productos lácteos;Laticínios
+1091;Abate e produtos de carne, inclusive os produtos do laticínio e da pesca;1053;105;C;105;Elaboración de productos lácteos;Laticínios
+1092;Fabricação e refino de açúcar;1071;107;C;107;Elaboración de otros productos alimenticios;Fabricação e refino de açúcar
+1092;Fabricação e refino de açúcar;1072;107;C;107;Elaboración de otros productos alimenticios;Fabricação e refino de açúcar
+1093;Outros produtos alimentares;1031;103;C;103;Elaboración y conservación de frutas, legumbres y hortalizas;Fabricação de conservas de frutas, legumes e outros vegetais
+1093;Outros produtos alimentares;1032;103;C;103;Elaboración y conservación de frutas, legumbres y hortalizas;Fabricação de conservas de frutas, legumes e outros vegetais
+1093;Outros produtos alimentares;1033;103;C;103;Elaboración y conservación de frutas, legumbres y hortalizas;Fabricação de conservas de frutas, legumes e outros vegetais
+1093;Outros produtos alimentares;1041;104;C;104;Elaboración de aceites y grasas de origen vegetal y animal;Fabricação de óleos e gorduras vegetais e animais
+1093;Outros produtos alimentares;1042;104;C;104;Elaboración de aceites y grasas de origen vegetal y animal;Fabricação de óleos e gorduras vegetais e animais
+1093;Outros produtos alimentares;1043;104;C;104;Elaboración de aceites y grasas de origen vegetal y animal;Fabricação de óleos e gorduras vegetais e animais
+1093;Outros produtos alimentares;1061;106;C;106;Elaboración de productos de molinería, almidones y productos derivados del almidón;Moagem, fabricação de produtos amiláceos e de alimentos para animais
+1093;Outros produtos alimentares;1061;106;C;108;Elaboración de piensos preparados para animales;Moagem, fabricação de produtos amiláceos e de alimentos para animais
+1093;Outros produtos alimentares;1062;106;C;106;Elaboración de productos de molinería, almidones y productos derivados del almidón;Moagem, fabricação de produtos amiláceos e de alimentos para animais
+1093;Outros produtos alimentares;1062;106;C;108;Elaboración de piensos preparados para animales;Moagem, fabricação de produtos amiláceos e de alimentos para animais
+1093;Outros produtos alimentares;1063;106;C;106;Elaboración de productos de molinería, almidones y productos derivados del almidón;Moagem, fabricação de produtos amiláceos e de alimentos para animais
+1093;Outros produtos alimentares;1063;106;C;108;Elaboración de piensos preparados para animales;Moagem, fabricação de produtos amiláceos e de alimentos para animais
+1093;Outros produtos alimentares;1064;106;C;106;Elaboración de productos de molinería, almidones y productos derivados del almidón;Moagem, fabricação de produtos amiláceos e de alimentos para animais
+1093;Outros produtos alimentares;1064;106;C;108;Elaboración de piensos preparados para animales;Moagem, fabricação de produtos amiláceos e de alimentos para animais
+1093;Outros produtos alimentares;1065;106;C;106;Elaboración de productos de molinería, almidones y productos derivados del almidón;Moagem, fabricação de produtos amiláceos e de alimentos para animais
+1093;Outros produtos alimentares;1065;106;C;108;Elaboración de piensos preparados para animales;Moagem, fabricação de produtos amiláceos e de alimentos para animais
+1093;Outros produtos alimentares;1066;106;C;106;Elaboración de productos de molinería, almidones y productos derivados del almidón;Moagem, fabricação de produtos amiláceos e de alimentos para animais
+1093;Outros produtos alimentares;1066;106;C;108;Elaboración de piensos preparados para animales;Moagem, fabricação de produtos amiláceos e de alimentos para animais
+1093;Outros produtos alimentares;1069;106;C;106;Elaboración de productos de molinería, almidones y productos derivados del almidón;Moagem, fabricação de produtos amiláceos e de alimentos para animais
+1093;Outros produtos alimentares;1069;106;C;108;Elaboración de piensos preparados para animales;Moagem, fabricação de produtos amiláceos e de alimentos para animais
+1093;Outros produtos alimentares;1081;108;C;107;Elaboración de otros productos alimenticios;Torrefação e moagem de café
+1093;Outros produtos alimentares;1082;108;C;107;Elaboración de otros productos alimenticios;Torrefação e moagem de café
+1093;Outros produtos alimentares;1091;109;C;107;Elaboración de otros productos alimenticios;Fabricação de outros produtos alimentícios
+1093;Outros produtos alimentares;1092;109;C;107;Elaboración de otros productos alimenticios;Fabricação de outros produtos alimentícios
+1093;Outros produtos alimentares;1093;109;C;107;Elaboración de otros productos alimenticios;Fabricação de outros produtos alimentícios
+1093;Outros produtos alimentares;1094;109;C;107;Elaboración de otros productos alimenticios;Fabricação de outros produtos alimentícios
+1093;Outros produtos alimentares;1095;109;C;107;Elaboración de otros productos alimenticios;Fabricação de outros produtos alimentícios
+1093;Outros produtos alimentares;1096;109;C;107;Elaboración de otros productos alimenticios;Fabricação de outros produtos alimentícios
+1093;Outros produtos alimentares;1099;109;C;107;Elaboración de otros productos alimenticios;Fabricação de outros produtos alimentícios
+1100;Fabricação de bebidas;1111;11;C;11;ELABORACIÓN DE BEBIDAS;FABRICAÇÃO DE BEBIDAS
+1100;Fabricação de bebidas;1112;11;C;11;ELABORACIÓN DE BEBIDAS;FABRICAÇÃO DE BEBIDAS
+1100;Fabricação de bebidas;1113;11;C;11;ELABORACIÓN DE BEBIDAS;FABRICAÇÃO DE BEBIDAS
+1100;Fabricação de bebidas;1121;11;C;11;ELABORACIÓN DE BEBIDAS;FABRICAÇÃO DE BEBIDAS
+1100;Fabricação de bebidas;1122;11;C;11;ELABORACIÓN DE BEBIDAS;FABRICAÇÃO DE BEBIDAS
+1200;Fabricação de produtos do fumo;1210;12;C;12;ELABORACIÓN DE PRODUCTOS DE TABACO;FABRICAÇÃO DE PRODUTOS DO FUMO
+1200;Fabricação de produtos do fumo;1220;12;C;12;ELABORACIÓN DE PRODUCTOS DE TABACO;FABRICAÇÃO DE PRODUTOS DO FUMO
+1300;Fabricação de produtos têxteis;1311;13;C;13;FABRICACIÓN DE PRODUCTOS TEXTILES;FABRICAÇÃO DE PRODUTOS TÊXTEIS
+1300;Fabricação de produtos têxteis;1312;13;C;13;FABRICACIÓN DE PRODUCTOS TEXTILES;FABRICAÇÃO DE PRODUTOS TÊXTEIS
+1300;Fabricação de produtos têxteis;1313;13;C;13;FABRICACIÓN DE PRODUCTOS TEXTILES;FABRICAÇÃO DE PRODUTOS TÊXTEIS
+1300;Fabricação de produtos têxteis;1314;13;C;13;FABRICACIÓN DE PRODUCTOS TEXTILES;FABRICAÇÃO DE PRODUTOS TÊXTEIS
+1300;Fabricação de produtos têxteis;1321;13;C;13;FABRICACIÓN DE PRODUCTOS TEXTILES;FABRICAÇÃO DE PRODUTOS TÊXTEIS
+1300;Fabricação de produtos têxteis;1322;13;C;13;FABRICACIÓN DE PRODUCTOS TEXTILES;FABRICAÇÃO DE PRODUTOS TÊXTEIS
+1300;Fabricação de produtos têxteis;1323;13;C;13;FABRICACIÓN DE PRODUCTOS TEXTILES;FABRICAÇÃO DE PRODUTOS TÊXTEIS
+1300;Fabricação de produtos têxteis;1330;13;C;13;FABRICACIÓN DE PRODUCTOS TEXTILES;FABRICAÇÃO DE PRODUTOS TÊXTEIS
+1300;Fabricação de produtos têxteis;1340;13;C;13;FABRICACIÓN DE PRODUCTOS TEXTILES;FABRICAÇÃO DE PRODUTOS TÊXTEIS
+1300;Fabricação de produtos têxteis;1351;13;C;13;FABRICACIÓN DE PRODUCTOS TEXTILES;FABRICAÇÃO DE PRODUTOS TÊXTEIS
+1300;Fabricação de produtos têxteis;1352;13;C;13;FABRICACIÓN DE PRODUCTOS TEXTILES;FABRICAÇÃO DE PRODUTOS TÊXTEIS
+1300;Fabricação de produtos têxteis;1353;13;C;13;FABRICACIÓN DE PRODUCTOS TEXTILES;FABRICAÇÃO DE PRODUTOS TÊXTEIS
+1300;Fabricação de produtos têxteis;1354;13;C;13;FABRICACIÓN DE PRODUCTOS TEXTILES;FABRICAÇÃO DE PRODUTOS TÊXTEIS
+1300;Fabricação de produtos têxteis;1359;13;C;13;FABRICACIÓN DE PRODUCTOS TEXTILES;FABRICAÇÃO DE PRODUTOS TÊXTEIS
+1400;Confecção de artefatos do vestuário e acessórios;1411;14;C;14;FABRICACIÓN DE PRENDAS DE VESTIR;CONFECÇÃO DE ARTIGOS DO VESTUÁRIO E ACESSÓRIOS
+1400;Confecção de artefatos do vestuário e acessórios;1412;14;C;14;FABRICACIÓN DE PRENDAS DE VESTIR;CONFECÇÃO DE ARTIGOS DO VESTUÁRIO E ACESSÓRIOS
+1400;Confecção de artefatos do vestuário e acessórios;1413;14;C;14;FABRICACIÓN DE PRENDAS DE VESTIR;CONFECÇÃO DE ARTIGOS DO VESTUÁRIO E ACESSÓRIOS
+1400;Confecção de artefatos do vestuário e acessórios;1414;14;C;14;FABRICACIÓN DE PRENDAS DE VESTIR;CONFECÇÃO DE ARTIGOS DO VESTUÁRIO E ACESSÓRIOS
+1400;Confecção de artefatos do vestuário e acessórios;1421;14;C;14;FABRICACIÓN DE PRENDAS DE VESTIR;CONFECÇÃO DE ARTIGOS DO VESTUÁRIO E ACESSÓRIOS
+1400;Confecção de artefatos do vestuário e acessórios;1422;14;C;14;FABRICACIÓN DE PRENDAS DE VESTIR;CONFECÇÃO DE ARTIGOS DO VESTUÁRIO E ACESSÓRIOS
+1500;Fabricação de calçados e de artefatos de couro;1510;15;C;15;FABRICACIÓN DE PRODUCTOS DE CUERO Y PRODUCTOS CONEXOS;PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS
+1500;Fabricação de calçados e de artefatos de couro;1510;15;C;16;"PRODUCCIÓN DE MADERA Y FABRICACIÓN DE PRODUCTOS DE MADERA Y CORCHO, EXCEPTO MUEBLES; FABRICACIÓN DE ARTÍCULOS DE PAJA Y DE MATERIALES TRENZABLES";PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS
+1500;Fabricação de calçados e de artefatos de couro;1510;15;C;22;FABRICACIÓN DE PRODUCTOS DE CAUCHO Y PLÁSTICO;PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS
+1500;Fabricação de calçados e de artefatos de couro;1521;15;C;15;FABRICACIÓN DE PRODUCTOS DE CUERO Y PRODUCTOS CONEXOS;PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS
+1500;Fabricação de calçados e de artefatos de couro;1521;15;C;16;"PRODUCCIÓN DE MADERA Y FABRICACIÓN DE PRODUCTOS DE MADERA Y CORCHO, EXCEPTO MUEBLES; FABRICACIÓN DE ARTÍCULOS DE PAJA Y DE MATERIALES TRENZABLES";PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS
+1500;Fabricação de calçados e de artefatos de couro;1521;15;C;22;FABRICACIÓN DE PRODUCTOS DE CAUCHO Y PLÁSTICO;PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS
+1500;Fabricação de calçados e de artefatos de couro;1529;15;C;15;FABRICACIÓN DE PRODUCTOS DE CUERO Y PRODUCTOS CONEXOS;PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS
+1500;Fabricação de calçados e de artefatos de couro;1529;15;C;16;"PRODUCCIÓN DE MADERA Y FABRICACIÓN DE PRODUCTOS DE MADERA Y CORCHO, EXCEPTO MUEBLES; FABRICACIÓN DE ARTÍCULOS DE PAJA Y DE MATERIALES TRENZABLES";PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS
+1500;Fabricação de calçados e de artefatos de couro;1529;15;C;22;FABRICACIÓN DE PRODUCTOS DE CAUCHO Y PLÁSTICO;PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS
+1500;Fabricação de calçados e de artefatos de couro;1531;15;C;15;FABRICACIÓN DE PRODUCTOS DE CUERO Y PRODUCTOS CONEXOS;PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS
+1500;Fabricação de calçados e de artefatos de couro;1531;15;C;16;"PRODUCCIÓN DE MADERA Y FABRICACIÓN DE PRODUCTOS DE MADERA Y CORCHO, EXCEPTO MUEBLES; FABRICACIÓN DE ARTÍCULOS DE PAJA Y DE MATERIALES TRENZABLES";PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS
+1500;Fabricação de calçados e de artefatos de couro;1531;15;C;22;FABRICACIÓN DE PRODUCTOS DE CAUCHO Y PLÁSTICO;PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS
+1500;Fabricação de calçados e de artefatos de couro;1532;15;C;15;FABRICACIÓN DE PRODUCTOS DE CUERO Y PRODUCTOS CONEXOS;PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS
+1500;Fabricação de calçados e de artefatos de couro;1532;15;C;16;"PRODUCCIÓN DE MADERA Y FABRICACIÓN DE PRODUCTOS DE MADERA Y CORCHO, EXCEPTO MUEBLES; FABRICACIÓN DE ARTÍCULOS DE PAJA Y DE MATERIALES TRENZABLES";PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS
+1500;Fabricação de calçados e de artefatos de couro;1532;15;C;22;FABRICACIÓN DE PRODUCTOS DE CAUCHO Y PLÁSTICO;PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS
+1500;Fabricação de calçados e de artefatos de couro;1533;15;C;15;FABRICACIÓN DE PRODUCTOS DE CUERO Y PRODUCTOS CONEXOS;PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS
+1500;Fabricação de calçados e de artefatos de couro;1533;15;C;16;"PRODUCCIÓN DE MADERA Y FABRICACIÓN DE PRODUCTOS DE MADERA Y CORCHO, EXCEPTO MUEBLES; FABRICACIÓN DE ARTÍCULOS DE PAJA Y DE MATERIALES TRENZABLES";PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS
+1500;Fabricação de calçados e de artefatos de couro;1533;15;C;22;FABRICACIÓN DE PRODUCTOS DE CAUCHO Y PLÁSTICO;PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS
+1500;Fabricação de calçados e de artefatos de couro;1539;15;C;15;FABRICACIÓN DE PRODUCTOS DE CUERO Y PRODUCTOS CONEXOS;PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS
+1500;Fabricação de calçados e de artefatos de couro;1539;15;C;16;"PRODUCCIÓN DE MADERA Y FABRICACIÓN DE PRODUCTOS DE MADERA Y CORCHO, EXCEPTO MUEBLES; FABRICACIÓN DE ARTÍCULOS DE PAJA Y DE MATERIALES TRENZABLES";PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS
+1500;Fabricação de calçados e de artefatos de couro;1539;15;C;22;FABRICACIÓN DE PRODUCTOS DE CAUCHO Y PLÁSTICO;PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS
+1500;Fabricação de calçados e de artefatos de couro;1540;15;C;15;FABRICACIÓN DE PRODUCTOS DE CUERO Y PRODUCTOS CONEXOS;PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS
+1500;Fabricação de calçados e de artefatos de couro;1540;15;C;16;"PRODUCCIÓN DE MADERA Y FABRICACIÓN DE PRODUCTOS DE MADERA Y CORCHO, EXCEPTO MUEBLES; FABRICACIÓN DE ARTÍCULOS DE PAJA Y DE MATERIALES TRENZABLES";PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS
+1500;Fabricação de calçados e de artefatos de couro;1540;15;C;22;FABRICACIÓN DE PRODUCTOS DE CAUCHO Y PLÁSTICO;PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS
+1600;Fabricação de produtos da madeira;1610;16;C;16;"PRODUCCIÓN DE MADERA Y FABRICACIÓN DE PRODUCTOS DE MADERA Y CORCHO, EXCEPTO MUEBLES; FABRICACIÓN DE ARTÍCULOS DE PAJA Y DE MATERIALES TRENZABLES";FABRICAÇÃO DE PRODUTOS DE MADEIRA
+1600;Fabricação de produtos da madeira;1621;16;C;16;"PRODUCCIÓN DE MADERA Y FABRICACIÓN DE PRODUCTOS DE MADERA Y CORCHO, EXCEPTO MUEBLES; FABRICACIÓN DE ARTÍCULOS DE PAJA Y DE MATERIALES TRENZABLES";FABRICAÇÃO DE PRODUTOS DE MADEIRA
+1600;Fabricação de produtos da madeira;1622;16;C;16;"PRODUCCIÓN DE MADERA Y FABRICACIÓN DE PRODUCTOS DE MADERA Y CORCHO, EXCEPTO MUEBLES; FABRICACIÓN DE ARTÍCULOS DE PAJA Y DE MATERIALES TRENZABLES";FABRICAÇÃO DE PRODUTOS DE MADEIRA
+1600;Fabricação de produtos da madeira;1623;16;C;16;"PRODUCCIÓN DE MADERA Y FABRICACIÓN DE PRODUCTOS DE MADERA Y CORCHO, EXCEPTO MUEBLES; FABRICACIÓN DE ARTÍCULOS DE PAJA Y DE MATERIALES TRENZABLES";FABRICAÇÃO DE PRODUTOS DE MADEIRA
+1600;Fabricação de produtos da madeira;1629;16;C;16;"PRODUCCIÓN DE MADERA Y FABRICACIÓN DE PRODUCTOS DE MADERA Y CORCHO, EXCEPTO MUEBLES; FABRICACIÓN DE ARTÍCULOS DE PAJA Y DE MATERIALES TRENZABLES";FABRICAÇÃO DE PRODUTOS DE MADEIRA
+1700;Fabricação de celulose, papel e produtos de papel;1710;17;C;17;FABRICACIÓN DE PAPEL Y DE PRODUCTOS DE PAPEL;FABRICAÇÃO DE CELULOSE, PAPEL E PRODUTOS DE PAPEL
+1700;Fabricação de celulose, papel e produtos de papel;1721;17;C;17;FABRICACIÓN DE PAPEL Y DE PRODUCTOS DE PAPEL;FABRICAÇÃO DE CELULOSE, PAPEL E PRODUTOS DE PAPEL
+1700;Fabricação de celulose, papel e produtos de papel;1722;17;C;17;FABRICACIÓN DE PAPEL Y DE PRODUCTOS DE PAPEL;FABRICAÇÃO DE CELULOSE, PAPEL E PRODUTOS DE PAPEL
+1700;Fabricação de celulose, papel e produtos de papel;1731;17;C;17;FABRICACIÓN DE PAPEL Y DE PRODUCTOS DE PAPEL;FABRICAÇÃO DE CELULOSE, PAPEL E PRODUTOS DE PAPEL
+1700;Fabricação de celulose, papel e produtos de papel;1732;17;C;17;FABRICACIÓN DE PAPEL Y DE PRODUCTOS DE PAPEL;FABRICAÇÃO DE CELULOSE, PAPEL E PRODUTOS DE PAPEL
+1700;Fabricação de celulose, papel e produtos de papel;1733;17;C;17;FABRICACIÓN DE PAPEL Y DE PRODUCTOS DE PAPEL;FABRICAÇÃO DE CELULOSE, PAPEL E PRODUTOS DE PAPEL
+1700;Fabricação de celulose, papel e produtos de papel;1741;17;C;17;FABRICACIÓN DE PAPEL Y DE PRODUCTOS DE PAPEL;FABRICAÇÃO DE CELULOSE, PAPEL E PRODUTOS DE PAPEL
+1700;Fabricação de celulose, papel e produtos de papel;1742;17;C;17;FABRICACIÓN DE PAPEL Y DE PRODUCTOS DE PAPEL;FABRICAÇÃO DE CELULOSE, PAPEL E PRODUTOS DE PAPEL
+1700;Fabricação de celulose, papel e produtos de papel;1749;17;C;17;FABRICACIÓN DE PAPEL Y DE PRODUCTOS DE PAPEL;FABRICAÇÃO DE CELULOSE, PAPEL E PRODUTOS DE PAPEL
+1800;Impressão e reprodução de gravações;1811;18;C;18;IMPRESIÓN Y REPRODUCCIÓN DE GRABACIONES;IMPRESSÃO E REPRODUÇÃO DE GRAVAÇÕES
+1800;Impressão e reprodução de gravações;1812;18;C;18;IMPRESIÓN Y REPRODUCCIÓN DE GRABACIONES;IMPRESSÃO E REPRODUÇÃO DE GRAVAÇÕES
+1800;Impressão e reprodução de gravações;1813;18;C;18;IMPRESIÓN Y REPRODUCCIÓN DE GRABACIONES;IMPRESSÃO E REPRODUÇÃO DE GRAVAÇÕES
+1800;Impressão e reprodução de gravações;1821;18;C;18;IMPRESIÓN Y REPRODUCCIÓN DE GRABACIONES;IMPRESSÃO E REPRODUÇÃO DE GRAVAÇÕES
+1800;Impressão e reprodução de gravações;1822;18;C;18;IMPRESIÓN Y REPRODUCCIÓN DE GRABACIONES;IMPRESSÃO E REPRODUÇÃO DE GRAVAÇÕES
+1800;Impressão e reprodução de gravações;1830;18;C;18;IMPRESIÓN Y REPRODUCCIÓN DE GRABACIONES;IMPRESSÃO E REPRODUÇÃO DE GRAVAÇÕES
+1991;Refino de petróleo e coquerias;1910;191;C;191;Fabricación de productos de hornos de coque;Coquerias
+1991;Refino de petróleo e coquerias;1921;192;C;192;Fabricación de productos de la refinación del petróleo;Fabricação de produtos derivados do petróleo
+1991;Refino de petróleo e coquerias;1922;192;C;192;Fabricación de productos de la refinación del petróleo;Fabricação de produtos derivados do petróleo
+1992;Fabricação de biocombustíveis;1931;193;C;201;Fabricación de sustancias químicas básicas, de abonos y compuestos de nitrógeno y de plásticos y caucho sintético en formas primarias;Fabricação de biocombustíveis
+1992;Fabricação de biocombustíveis;1932;193;C;201;Fabricación de sustancias químicas básicas, de abonos y compuestos de nitrógeno y de plásticos y caucho sintético en formas primarias;Fabricação de biocombustíveis
+2091;Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros;2011;201;C;201;Fabricación de sustancias químicas básicas, de abonos y compuestos de nitrógeno y de plásticos y caucho sintético en formas primarias;Fabricação de produtos químicos inorgânicos
+2091;Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros;2012;201;C;201;Fabricación de sustancias químicas básicas, de abonos y compuestos de nitrógeno y de plásticos y caucho sintético en formas primarias;Fabricação de produtos químicos inorgânicos
+2091;Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros;2013;201;C;201;Fabricación de sustancias químicas básicas, de abonos y compuestos de nitrógeno y de plásticos y caucho sintético en formas primarias;Fabricação de produtos químicos inorgânicos
+2091;Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros;2014;201;C;201;Fabricación de sustancias químicas básicas, de abonos y compuestos de nitrógeno y de plásticos y caucho sintético en formas primarias;Fabricação de produtos químicos inorgânicos
+2091;Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros;2019;201;C;201;Fabricación de sustancias químicas básicas, de abonos y compuestos de nitrógeno y de plásticos y caucho sintético en formas primarias;Fabricação de produtos químicos inorgânicos
+2091;Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros;2021;202;C;191;Fabricación de productos de hornos de coque;Fabricação de produtos químicos orgânicos
+2091;Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros;2021;202;C;201;Fabricación de sustancias químicas básicas, de abonos y compuestos de nitrógeno y de plásticos y caucho sintético en formas primarias;Fabricação de produtos químicos orgânicos
+2091;Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros;2022;202;C;191;Fabricación de productos de hornos de coque;Fabricação de produtos químicos orgânicos
+2091;Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros;2022;202;C;201;Fabricación de sustancias químicas básicas, de abonos y compuestos de nitrógeno y de plásticos y caucho sintético en formas primarias;Fabricação de produtos químicos orgânicos
+2091;Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros;2029;202;C;191;Fabricación de productos de hornos de coque;Fabricação de produtos químicos orgânicos
+2091;Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros;2029;202;C;201;Fabricación de sustancias químicas básicas, de abonos y compuestos de nitrógeno y de plásticos y caucho sintético en formas primarias;Fabricação de produtos químicos orgânicos
+2091;Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros;2031;203;C;201;Fabricación de sustancias químicas básicas, de abonos y compuestos de nitrógeno y de plásticos y caucho sintético en formas primarias;Fabricação de resinas e elastômeros
+2091;Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros;2032;203;C;201;Fabricación de sustancias químicas básicas, de abonos y compuestos de nitrógeno y de plásticos y caucho sintético en formas primarias;Fabricação de resinas e elastômeros
+2091;Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros;2033;203;C;201;Fabricación de sustancias químicas básicas, de abonos y compuestos de nitrógeno y de plásticos y caucho sintético en formas primarias;Fabricação de resinas e elastômeros
+2091;Fabricação de químicos orgânicos e inorgânicos, resinas e elastômeros;2040;204;C;203;Fabricación de fibras artificiales;Fabricação de fibras artificiais e sintéticas
+2092;Fabricação de defensivos, desinfestantes, tintas e químicos diversos;2051;205;C;202;Fabricación de otros productos químicos;Fabricação de defensivos agrícolas e desinfestantes domissanitários
+2092;Fabricação de defensivos, desinfestantes, tintas e químicos diversos;2052;205;C;202;Fabricación de otros productos químicos;Fabricação de defensivos agrícolas e desinfestantes domissanitários
+2092;Fabricação de defensivos, desinfestantes, tintas e químicos diversos;2071;207;C;202;Fabricación de otros productos químicos;Fabricação de tintas, vernizes, esmaltes, lacas e produtos afins
+2092;Fabricação de defensivos, desinfestantes, tintas e químicos diversos;2072;207;C;202;Fabricación de otros productos químicos;Fabricação de tintas, vernizes, esmaltes, lacas e produtos afins
+2092;Fabricação de defensivos, desinfestantes, tintas e químicos diversos;2073;207;C;202;Fabricación de otros productos químicos;Fabricação de tintas, vernizes, esmaltes, lacas e produtos afins
+2092;Fabricação de defensivos, desinfestantes, tintas e químicos diversos;2091;209;C;202;Fabricación de otros productos químicos;Fabricação de produtos e preparados químicos diversos
+2092;Fabricação de defensivos, desinfestantes, tintas e químicos diversos;2092;209;C;202;Fabricación de otros productos químicos;Fabricação de produtos e preparados químicos diversos
+2092;Fabricação de defensivos, desinfestantes, tintas e químicos diversos;2093;209;C;202;Fabricación de otros productos químicos;Fabricação de produtos e preparados químicos diversos
+2092;Fabricação de defensivos, desinfestantes, tintas e químicos diversos;2094;209;C;202;Fabricación de otros productos químicos;Fabricação de produtos e preparados químicos diversos
+2092;Fabricação de defensivos, desinfestantes, tintas e químicos diversos;2099;209;C;202;Fabricación de otros productos químicos;Fabricação de produtos e preparados químicos diversos
+2093;Fabricação de produtos de limpeza, cosméticos/perfumaria e higiene pessoal;2061;206;C;202;Fabricación de otros productos químicos;Fabricação de sabões, detergentes, produtos de limpeza, cosméticos, produtos de perfumaria e de higiene pessoal
+2093;Fabricação de produtos de limpeza, cosméticos/perfumaria e higiene pessoal;2062;206;C;202;Fabricación de otros productos químicos;Fabricação de sabões, detergentes, produtos de limpeza, cosméticos, produtos de perfumaria e de higiene pessoal
+2093;Fabricação de produtos de limpeza, cosméticos/perfumaria e higiene pessoal;2063;206;C;202;Fabricación de otros productos químicos;Fabricação de sabões, detergentes, produtos de limpeza, cosméticos, produtos de perfumaria e de higiene pessoal
+2100;Fabricação de produtos farmoquímicos e farmacêuticos;2110;21;C;21;FABRICACIÓN DE PRODUCTOS FARMACÉUTICOS, SUSTANCIAS QUÍMICAS MEDICINALES Y PRODUCTOS BOTÁNICOS DE USO FARMACÉUTICO;FABRICAÇÃO DE PRODUTOS FARMOQUÍMICOS E FARMACÊUTICOS
+2100;Fabricação de produtos farmoquímicos e farmacêuticos;2121;21;C;21;FABRICACIÓN DE PRODUCTOS FARMACÉUTICOS, SUSTANCIAS QUÍMICAS MEDICINALES Y PRODUCTOS BOTÁNICOS DE USO FARMACÉUTICO;FABRICAÇÃO DE PRODUTOS FARMOQUÍMICOS E FARMACÊUTICOS
+2100;Fabricação de produtos farmoquímicos e farmacêuticos;2122;21;C;21;FABRICACIÓN DE PRODUCTOS FARMACÉUTICOS, SUSTANCIAS QUÍMICAS MEDICINALES Y PRODUCTOS BOTÁNICOS DE USO FARMACÉUTICO;FABRICAÇÃO DE PRODUTOS FARMOQUÍMICOS E FARMACÊUTICOS
+2100;Fabricação de produtos farmoquímicos e farmacêuticos;2123;21;C;21;FABRICACIÓN DE PRODUCTOS FARMACÉUTICOS, SUSTANCIAS QUÍMICAS MEDICINALES Y PRODUCTOS BOTÁNICOS DE USO FARMACÉUTICO;FABRICAÇÃO DE PRODUTOS FARMOQUÍMICOS E FARMACÊUTICOS
+2200;Fabricação de produtos de borracha e de material plástico;2211;22;C;22;FABRICACIÓN DE PRODUCTOS DE CAUCHO Y PLÁSTICO;FABRICAÇÃO DE PRODUTOS DE BORRACHA E DE MATERIAL PLÁSTICO
+2200;Fabricação de produtos de borracha e de material plástico;2212;22;C;22;FABRICACIÓN DE PRODUCTOS DE CAUCHO Y PLÁSTICO;FABRICAÇÃO DE PRODUTOS DE BORRACHA E DE MATERIAL PLÁSTICO
+2200;Fabricação de produtos de borracha e de material plástico;2219;22;C;22;FABRICACIÓN DE PRODUCTOS DE CAUCHO Y PLÁSTICO;FABRICAÇÃO DE PRODUTOS DE BORRACHA E DE MATERIAL PLÁSTICO
+2200;Fabricação de produtos de borracha e de material plástico;2221;22;C;22;FABRICACIÓN DE PRODUCTOS DE CAUCHO Y PLÁSTICO;FABRICAÇÃO DE PRODUTOS DE BORRACHA E DE MATERIAL PLÁSTICO
+2200;Fabricação de produtos de borracha e de material plástico;2222;22;C;22;FABRICACIÓN DE PRODUCTOS DE CAUCHO Y PLÁSTICO;FABRICAÇÃO DE PRODUTOS DE BORRACHA E DE MATERIAL PLÁSTICO
+2200;Fabricação de produtos de borracha e de material plástico;2223;22;C;22;FABRICACIÓN DE PRODUCTOS DE CAUCHO Y PLÁSTICO;FABRICAÇÃO DE PRODUTOS DE BORRACHA E DE MATERIAL PLÁSTICO
+2200;Fabricação de produtos de borracha e de material plástico;2229;22;C;22;FABRICACIÓN DE PRODUCTOS DE CAUCHO Y PLÁSTICO;FABRICAÇÃO DE PRODUTOS DE BORRACHA E DE MATERIAL PLÁSTICO
+2300;Fabricação de produtos de minerais não metálicos;2311;23;C;23;FABRICACIÓN DE OTROS PRODUCTOS MINERALES NO METÁLICOS;FABRICAÇÃO DE PRODUTOS DE MINERAIS NÃO-METÁLICOS
+2300;Fabricação de produtos de minerais não metálicos;2312;23;C;23;FABRICACIÓN DE OTROS PRODUCTOS MINERALES NO METÁLICOS;FABRICAÇÃO DE PRODUTOS DE MINERAIS NÃO-METÁLICOS
+2300;Fabricação de produtos de minerais não metálicos;2319;23;C;23;FABRICACIÓN DE OTROS PRODUCTOS MINERALES NO METÁLICOS;FABRICAÇÃO DE PRODUTOS DE MINERAIS NÃO-METÁLICOS
+2300;Fabricação de produtos de minerais não metálicos;2320;23;C;23;FABRICACIÓN DE OTROS PRODUCTOS MINERALES NO METÁLICOS;FABRICAÇÃO DE PRODUTOS DE MINERAIS NÃO-METÁLICOS
+2300;Fabricação de produtos de minerais não metálicos;2330;23;C;23;FABRICACIÓN DE OTROS PRODUCTOS MINERALES NO METÁLICOS;FABRICAÇÃO DE PRODUTOS DE MINERAIS NÃO-METÁLICOS
+2300;Fabricação de produtos de minerais não metálicos;2341;23;C;23;FABRICACIÓN DE OTROS PRODUCTOS MINERALES NO METÁLICOS;FABRICAÇÃO DE PRODUTOS DE MINERAIS NÃO-METÁLICOS
+2300;Fabricação de produtos de minerais não metálicos;2342;23;C;23;FABRICACIÓN DE OTROS PRODUCTOS MINERALES NO METÁLICOS;FABRICAÇÃO DE PRODUTOS DE MINERAIS NÃO-METÁLICOS
+2300;Fabricação de produtos de minerais não metálicos;2349;23;C;23;FABRICACIÓN DE OTROS PRODUCTOS MINERALES NO METÁLICOS;FABRICAÇÃO DE PRODUTOS DE MINERAIS NÃO-METÁLICOS
+2300;Fabricação de produtos de minerais não metálicos;2391;23;C;23;FABRICACIÓN DE OTROS PRODUCTOS MINERALES NO METÁLICOS;FABRICAÇÃO DE PRODUTOS DE MINERAIS NÃO-METÁLICOS
+2300;Fabricação de produtos de minerais não metálicos;2392;23;C;23;FABRICACIÓN DE OTROS PRODUCTOS MINERALES NO METÁLICOS;FABRICAÇÃO DE PRODUTOS DE MINERAIS NÃO-METÁLICOS
+2300;Fabricação de produtos de minerais não metálicos;2399;23;C;23;FABRICACIÓN DE OTROS PRODUCTOS MINERALES NO METÁLICOS;FABRICAÇÃO DE PRODUTOS DE MINERAIS NÃO-METÁLICOS
+2491;Produção de ferro-gusa/ferroligas, siderurgia e tubos de aço sem costura;2411;241;C;241;Fabricación básica de hierro y acero;Produção de ferro-gusa e de ferroligas
+2491;Produção de ferro-gusa/ferroligas, siderurgia e tubos de aço sem costura;2412;241;C;241;Fabricación básica de hierro y acero;Produção de ferro-gusa e de ferroligas
+2491;Produção de ferro-gusa/ferroligas, siderurgia e tubos de aço sem costura;2421;242;C;241;Fabricación básica de hierro y acero;Siderurgia
+2491;Produção de ferro-gusa/ferroligas, siderurgia e tubos de aço sem costura;2422;242;C;241;Fabricación básica de hierro y acero;Siderurgia
+2491;Produção de ferro-gusa/ferroligas, siderurgia e tubos de aço sem costura;2423;242;C;241;Fabricación básica de hierro y acero;Siderurgia
+2491;Produção de ferro-gusa/ferroligas, siderurgia e tubos de aço sem costura;2424;242;C;241;Fabricación básica de hierro y acero;Siderurgia
+2491;Produção de ferro-gusa/ferroligas, siderurgia e tubos de aço sem costura;2431;243;C;241;Fabricación básica de hierro y acero;Produção de tubos de aço, exceto tubos sem costura
+2491;Produção de ferro-gusa/ferroligas, siderurgia e tubos de aço sem costura;2439;243;C;241;Fabricación básica de hierro y acero;Produção de tubos de aço, exceto tubos sem costura
+2492;Metalurgia de metais não ferosos e a fundição de metais;2441;244;C;242;Fabricación de productos primarios de metales preciosos y otros metales no ferrosos;Metalurgia dos metais não-ferrosos
+2492;Metalurgia de metais não ferosos e a fundição de metais;2442;244;C;242;Fabricación de productos primarios de metales preciosos y otros metales no ferrosos;Metalurgia dos metais não-ferrosos
+2492;Metalurgia de metais não ferosos e a fundição de metais;2443;244;C;242;Fabricación de productos primarios de metales preciosos y otros metales no ferrosos;Metalurgia dos metais não-ferrosos
+2492;Metalurgia de metais não ferosos e a fundição de metais;2449;244;C;242;Fabricación de productos primarios de metales preciosos y otros metales no ferrosos;Metalurgia dos metais não-ferrosos
+2492;Metalurgia de metais não ferosos e a fundição de metais;2451;245;C;243;Fundición de metales;Fundição
+2492;Metalurgia de metais não ferosos e a fundição de metais;2452;245;C;243;Fundición de metales;Fundição
+2500;Fabricação de produtos de metal, exceto máquinas e equipamentos;2511;25;C;25;FABRICACIÓN DE PRODUCTOS ELABORADOS DE METAL, EXCEPTO MAQUINARIA Y EQUIPO;FABRICAÇÃO DE PRODUTOS DE METAL, EXCETO MÁQUINAS E EQUIPAMENTOS
+2500;Fabricação de produtos de metal, exceto máquinas e equipamentos;2512;25;C;25;FABRICACIÓN DE PRODUCTOS ELABORADOS DE METAL, EXCEPTO MAQUINARIA Y EQUIPO;FABRICAÇÃO DE PRODUTOS DE METAL, EXCETO MÁQUINAS E EQUIPAMENTOS
+2500;Fabricação de produtos de metal, exceto máquinas e equipamentos;2513;25;C;25;FABRICACIÓN DE PRODUCTOS ELABORADOS DE METAL, EXCEPTO MAQUINARIA Y EQUIPO;FABRICAÇÃO DE PRODUTOS DE METAL, EXCETO MÁQUINAS E EQUIPAMENTOS
+2500;Fabricação de produtos de metal, exceto máquinas e equipamentos;2521;25;C;25;FABRICACIÓN DE PRODUCTOS ELABORADOS DE METAL, EXCEPTO MAQUINARIA Y EQUIPO;FABRICAÇÃO DE PRODUTOS DE METAL, EXCETO MÁQUINAS E EQUIPAMENTOS
+2500;Fabricação de produtos de metal, exceto máquinas e equipamentos;2522;25;C;25;FABRICACIÓN DE PRODUCTOS ELABORADOS DE METAL, EXCEPTO MAQUINARIA Y EQUIPO;FABRICAÇÃO DE PRODUTOS DE METAL, EXCETO MÁQUINAS E EQUIPAMENTOS
+2500;Fabricação de produtos de metal, exceto máquinas e equipamentos;2531;25;C;25;FABRICACIÓN DE PRODUCTOS ELABORADOS DE METAL, EXCEPTO MAQUINARIA Y EQUIPO;FABRICAÇÃO DE PRODUTOS DE METAL, EXCETO MÁQUINAS E EQUIPAMENTOS
+2500;Fabricação de produtos de metal, exceto máquinas e equipamentos;2532;25;C;25;FABRICACIÓN DE PRODUCTOS ELABORADOS DE METAL, EXCEPTO MAQUINARIA Y EQUIPO;FABRICAÇÃO DE PRODUTOS DE METAL, EXCETO MÁQUINAS E EQUIPAMENTOS
+2500;Fabricação de produtos de metal, exceto máquinas e equipamentos;2539;25;C;25;FABRICACIÓN DE PRODUCTOS ELABORADOS DE METAL, EXCEPTO MAQUINARIA Y EQUIPO;FABRICAÇÃO DE PRODUTOS DE METAL, EXCETO MÁQUINAS E EQUIPAMENTOS
+2500;Fabricação de produtos de metal, exceto máquinas e equipamentos;2541;25;C;25;FABRICACIÓN DE PRODUCTOS ELABORADOS DE METAL, EXCEPTO MAQUINARIA Y EQUIPO;FABRICAÇÃO DE PRODUTOS DE METAL, EXCETO MÁQUINAS E EQUIPAMENTOS
+2500;Fabricação de produtos de metal, exceto máquinas e equipamentos;2542;25;C;25;FABRICACIÓN DE PRODUCTOS ELABORADOS DE METAL, EXCEPTO MAQUINARIA Y EQUIPO;FABRICAÇÃO DE PRODUTOS DE METAL, EXCETO MÁQUINAS E EQUIPAMENTOS
+2500;Fabricação de produtos de metal, exceto máquinas e equipamentos;2543;25;C;25;FABRICACIÓN DE PRODUCTOS ELABORADOS DE METAL, EXCEPTO MAQUINARIA Y EQUIPO;FABRICAÇÃO DE PRODUTOS DE METAL, EXCETO MÁQUINAS E EQUIPAMENTOS
+2500;Fabricação de produtos de metal, exceto máquinas e equipamentos;2550;25;C;25;FABRICACIÓN DE PRODUCTOS ELABORADOS DE METAL, EXCEPTO MAQUINARIA Y EQUIPO;FABRICAÇÃO DE PRODUTOS DE METAL, EXCETO MÁQUINAS E EQUIPAMENTOS
+2500;Fabricação de produtos de metal, exceto máquinas e equipamentos;2591;25;C;25;FABRICACIÓN DE PRODUCTOS ELABORADOS DE METAL, EXCEPTO MAQUINARIA Y EQUIPO;FABRICAÇÃO DE PRODUTOS DE METAL, EXCETO MÁQUINAS E EQUIPAMENTOS
+2500;Fabricação de produtos de metal, exceto máquinas e equipamentos;2592;25;C;25;FABRICACIÓN DE PRODUCTOS ELABORADOS DE METAL, EXCEPTO MAQUINARIA Y EQUIPO;FABRICAÇÃO DE PRODUTOS DE METAL, EXCETO MÁQUINAS E EQUIPAMENTOS
+2500;Fabricação de produtos de metal, exceto máquinas e equipamentos;2593;25;C;25;FABRICACIÓN DE PRODUCTOS ELABORADOS DE METAL, EXCEPTO MAQUINARIA Y EQUIPO;FABRICAÇÃO DE PRODUTOS DE METAL, EXCETO MÁQUINAS E EQUIPAMENTOS
+2500;Fabricação de produtos de metal, exceto máquinas e equipamentos;2599;25;C;25;FABRICACIÓN DE PRODUCTOS ELABORADOS DE METAL, EXCEPTO MAQUINARIA Y EQUIPO;FABRICAÇÃO DE PRODUTOS DE METAL, EXCETO MÁQUINAS E EQUIPAMENTOS
+2600;Fabricação de equipamentos de informática, produtos eletrônicos e ópticos;2610;26;C;26;FABRICACIÓN DE PRODUCTOS DE INFORMÁTICA, DE ELECTRÓNICA Y DE ÓPTICA;FABRICAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA, PRODUTOS ELETRÔNICOS E ÓPTICOS
+2600;Fabricação de equipamentos de informática, produtos eletrônicos e ópticos;2621;26;C;26;FABRICACIÓN DE PRODUCTOS DE INFORMÁTICA, DE ELECTRÓNICA Y DE ÓPTICA;FABRICAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA, PRODUTOS ELETRÔNICOS E ÓPTICOS
+2600;Fabricação de equipamentos de informática, produtos eletrônicos e ópticos;2622;26;C;26;FABRICACIÓN DE PRODUCTOS DE INFORMÁTICA, DE ELECTRÓNICA Y DE ÓPTICA;FABRICAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA, PRODUTOS ELETRÔNICOS E ÓPTICOS
+2600;Fabricação de equipamentos de informática, produtos eletrônicos e ópticos;2631;26;C;26;FABRICACIÓN DE PRODUCTOS DE INFORMÁTICA, DE ELECTRÓNICA Y DE ÓPTICA;FABRICAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA, PRODUTOS ELETRÔNICOS E ÓPTICOS
+2600;Fabricação de equipamentos de informática, produtos eletrônicos e ópticos;2632;26;C;26;FABRICACIÓN DE PRODUCTOS DE INFORMÁTICA, DE ELECTRÓNICA Y DE ÓPTICA;FABRICAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA, PRODUTOS ELETRÔNICOS E ÓPTICOS
+2600;Fabricação de equipamentos de informática, produtos eletrônicos e ópticos;2640;26;C;26;FABRICACIÓN DE PRODUCTOS DE INFORMÁTICA, DE ELECTRÓNICA Y DE ÓPTICA;FABRICAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA, PRODUTOS ELETRÔNICOS E ÓPTICOS
+2600;Fabricação de equipamentos de informática, produtos eletrônicos e ópticos;2651;26;C;26;FABRICACIÓN DE PRODUCTOS DE INFORMÁTICA, DE ELECTRÓNICA Y DE ÓPTICA;FABRICAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA, PRODUTOS ELETRÔNICOS E ÓPTICOS
+2600;Fabricação de equipamentos de informática, produtos eletrônicos e ópticos;2652;26;C;26;FABRICACIÓN DE PRODUCTOS DE INFORMÁTICA, DE ELECTRÓNICA Y DE ÓPTICA;FABRICAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA, PRODUTOS ELETRÔNICOS E ÓPTICOS
+2600;Fabricação de equipamentos de informática, produtos eletrônicos e ópticos;2660;26;C;26;FABRICACIÓN DE PRODUCTOS DE INFORMÁTICA, DE ELECTRÓNICA Y DE ÓPTICA;FABRICAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA, PRODUTOS ELETRÔNICOS E ÓPTICOS
+2600;Fabricação de equipamentos de informática, produtos eletrônicos e ópticos;2670;26;C;26;FABRICACIÓN DE PRODUCTOS DE INFORMÁTICA, DE ELECTRÓNICA Y DE ÓPTICA;FABRICAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA, PRODUTOS ELETRÔNICOS E ÓPTICOS
+2600;Fabricação de equipamentos de informática, produtos eletrônicos e ópticos;2680;26;C;26;FABRICACIÓN DE PRODUCTOS DE INFORMÁTICA, DE ELECTRÓNICA Y DE ÓPTICA;FABRICAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA, PRODUTOS ELETRÔNICOS E ÓPTICOS
+2700;Fabricação de máquinas e equipamentos elétricos;2710;27;C;27;FABRICACIÓN DE EQUIPO ELÉCTRICO;FABRICAÇÃO DE MÁQUINAS, APARELHOS E MATERIAIS ELÉTRICOS
+2700;Fabricação de máquinas e equipamentos elétricos;2721;27;C;27;FABRICACIÓN DE EQUIPO ELÉCTRICO;FABRICAÇÃO DE MÁQUINAS, APARELHOS E MATERIAIS ELÉTRICOS
+2700;Fabricação de máquinas e equipamentos elétricos;2722;27;C;27;FABRICACIÓN DE EQUIPO ELÉCTRICO;FABRICAÇÃO DE MÁQUINAS, APARELHOS E MATERIAIS ELÉTRICOS
+2700;Fabricação de máquinas e equipamentos elétricos;2731;27;C;27;FABRICACIÓN DE EQUIPO ELÉCTRICO;FABRICAÇÃO DE MÁQUINAS, APARELHOS E MATERIAIS ELÉTRICOS
+2700;Fabricação de máquinas e equipamentos elétricos;2732;27;C;27;FABRICACIÓN DE EQUIPO ELÉCTRICO;FABRICAÇÃO DE MÁQUINAS, APARELHOS E MATERIAIS ELÉTRICOS
+2700;Fabricação de máquinas e equipamentos elétricos;2733;27;C;27;FABRICACIÓN DE EQUIPO ELÉCTRICO;FABRICAÇÃO DE MÁQUINAS, APARELHOS E MATERIAIS ELÉTRICOS
+2700;Fabricação de máquinas e equipamentos elétricos;2740;27;C;27;FABRICACIÓN DE EQUIPO ELÉCTRICO;FABRICAÇÃO DE MÁQUINAS, APARELHOS E MATERIAIS ELÉTRICOS
+2700;Fabricação de máquinas e equipamentos elétricos;2751;27;C;27;FABRICACIÓN DE EQUIPO ELÉCTRICO;FABRICAÇÃO DE MÁQUINAS, APARELHOS E MATERIAIS ELÉTRICOS
+2700;Fabricação de máquinas e equipamentos elétricos;2759;27;C;27;FABRICACIÓN DE EQUIPO ELÉCTRICO;FABRICAÇÃO DE MÁQUINAS, APARELHOS E MATERIAIS ELÉTRICOS
+2700;Fabricação de máquinas e equipamentos elétricos;2790;27;C;27;FABRICACIÓN DE EQUIPO ELÉCTRICO;FABRICAÇÃO DE MÁQUINAS, APARELHOS E MATERIAIS ELÉTRICOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2811;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2812;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2813;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2814;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2815;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2821;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2822;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2823;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2824;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2825;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2829;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2831;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2832;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2833;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2840;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2851;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2852;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2853;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2854;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2861;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2862;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2863;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2864;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2865;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2866;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2800;Fabricação de máquinas e equipamentos mecânicos;2869;28;C;28;FABRICACIÓN DE MAQUINARIA Y EQUIPO N.C.P.;FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2991;Fabricação de automóveis, caminhões e ônibus, exceto peças;2910;291;C;291;Fabricación de vehículos automotores;Fabricação de automóveis, camionetas e utilitários
+2991;Fabricação de automóveis, caminhões e ônibus, exceto peças;2920;292;C;291;Fabricación de vehículos automotores;Fabricação de caminhões e ônibus
+2991;Fabricação de automóveis, caminhões e ônibus, exceto peças;2930;293;C;292;"Fabricación de carrocerías para vehículos automotores; fabricación de remolques y semirremolques";Fabricação de cabines, carrocerias e reboques para veículos automotores
+2992;Fabricação de peças e acessórios para veículos automotores;2941;294;C;293;Fabricación de partes, piezas y accesorios para vehículos automotores;Fabricação de peças e acessórios para veículos automotores
+2992;Fabricação de peças e acessórios para veículos automotores;2942;294;C;293;Fabricación de partes, piezas y accesorios para vehículos automotores;Fabricação de peças e acessórios para veículos automotores
+2992;Fabricação de peças e acessórios para veículos automotores;2943;294;C;293;Fabricación de partes, piezas y accesorios para vehículos automotores;Fabricação de peças e acessórios para veículos automotores
+2992;Fabricação de peças e acessórios para veículos automotores;2944;294;C;293;Fabricación de partes, piezas y accesorios para vehículos automotores;Fabricação de peças e acessórios para veículos automotores
+2992;Fabricação de peças e acessórios para veículos automotores;2945;294;C;293;Fabricación de partes, piezas y accesorios para vehículos automotores;Fabricação de peças e acessórios para veículos automotores
+2992;Fabricação de peças e acessórios para veículos automotores;2949;294;C;293;Fabricación de partes, piezas y accesorios para vehículos automotores;Fabricação de peças e acessórios para veículos automotores
+2992;Fabricação de peças e acessórios para veículos automotores;2950;295;C;291;Fabricación de vehículos automotores;Recondicionamento e recuperação de motores para veículos automotores
+3000;Fabricação de outros equipamentos de transporte, exceto veículos automotores;3011;30;C;30;FABRICACIÓN DE OTRO  EQUIPO DE TRANSPORTE;FABRICAÇÃO DE OUTROS EQUIPAMENTOS DE TRANSPORTE, EXCETO VEÍCULOS AUTOMOTORES
+3000;Fabricação de outros equipamentos de transporte, exceto veículos automotores;3012;30;C;30;FABRICACIÓN DE OTRO  EQUIPO DE TRANSPORTE;FABRICAÇÃO DE OUTROS EQUIPAMENTOS DE TRANSPORTE, EXCETO VEÍCULOS AUTOMOTORES
+3000;Fabricação de outros equipamentos de transporte, exceto veículos automotores;3031;30;C;30;FABRICACIÓN DE OTRO  EQUIPO DE TRANSPORTE;FABRICAÇÃO DE OUTROS EQUIPAMENTOS DE TRANSPORTE, EXCETO VEÍCULOS AUTOMOTORES
+3000;Fabricação de outros equipamentos de transporte, exceto veículos automotores;3032;30;C;30;FABRICACIÓN DE OTRO  EQUIPO DE TRANSPORTE;FABRICAÇÃO DE OUTROS EQUIPAMENTOS DE TRANSPORTE, EXCETO VEÍCULOS AUTOMOTORES
+3000;Fabricação de outros equipamentos de transporte, exceto veículos automotores;3041;30;C;30;FABRICACIÓN DE OTRO  EQUIPO DE TRANSPORTE;FABRICAÇÃO DE OUTROS EQUIPAMENTOS DE TRANSPORTE, EXCETO VEÍCULOS AUTOMOTORES
+3000;Fabricação de outros equipamentos de transporte, exceto veículos automotores;3042;30;C;30;FABRICACIÓN DE OTRO  EQUIPO DE TRANSPORTE;FABRICAÇÃO DE OUTROS EQUIPAMENTOS DE TRANSPORTE, EXCETO VEÍCULOS AUTOMOTORES
+3000;Fabricação de outros equipamentos de transporte, exceto veículos automotores;3050;30;C;30;FABRICACIÓN DE OTRO  EQUIPO DE TRANSPORTE;FABRICAÇÃO DE OUTROS EQUIPAMENTOS DE TRANSPORTE, EXCETO VEÍCULOS AUTOMOTORES
+3000;Fabricação de outros equipamentos de transporte, exceto veículos automotores;3091;30;C;30;FABRICACIÓN DE OTRO  EQUIPO DE TRANSPORTE;FABRICAÇÃO DE OUTROS EQUIPAMENTOS DE TRANSPORTE, EXCETO VEÍCULOS AUTOMOTORES
+3000;Fabricação de outros equipamentos de transporte, exceto veículos automotores;3092;30;C;30;FABRICACIÓN DE OTRO  EQUIPO DE TRANSPORTE;FABRICAÇÃO DE OUTROS EQUIPAMENTOS DE TRANSPORTE, EXCETO VEÍCULOS AUTOMOTORES
+3000;Fabricação de outros equipamentos de transporte, exceto veículos automotores;3099;30;C;30;FABRICACIÓN DE OTRO  EQUIPO DE TRANSPORTE;FABRICAÇÃO DE OUTROS EQUIPAMENTOS DE TRANSPORTE, EXCETO VEÍCULOS AUTOMOTORES
+3180;Fabricação de móveis e de produtos de indústrias diversas;3101;31;C;31;FABRICACIÓN DE MUEBLES;FABRICAÇÃO DE MÓVEIS
+3180;Fabricação de móveis e de produtos de indústrias diversas;3102;31;C;31;FABRICACIÓN DE MUEBLES;FABRICAÇÃO DE MÓVEIS
+3180;Fabricação de móveis e de produtos de indústrias diversas;3103;31;C;31;FABRICACIÓN DE MUEBLES;FABRICAÇÃO DE MÓVEIS
+3180;Fabricação de móveis e de produtos de indústrias diversas;3104;31;C;31;FABRICACIÓN DE MUEBLES;FABRICAÇÃO DE MÓVEIS
+3180;Fabricação de móveis e de produtos de indústrias diversas;3211;32;C;32;OTRAS INDUSTRIAS MANUFACTURERAS;FABRICAÇÃO DE PRODUTOS DIVERSOS
+3180;Fabricação de móveis e de produtos de indústrias diversas;3212;32;C;32;OTRAS INDUSTRIAS MANUFACTURERAS;FABRICAÇÃO DE PRODUTOS DIVERSOS
+3180;Fabricação de móveis e de produtos de indústrias diversas;3220;32;C;32;OTRAS INDUSTRIAS MANUFACTURERAS;FABRICAÇÃO DE PRODUTOS DIVERSOS
+3180;Fabricação de móveis e de produtos de indústrias diversas;3230;32;C;32;OTRAS INDUSTRIAS MANUFACTURERAS;FABRICAÇÃO DE PRODUTOS DIVERSOS
+3180;Fabricação de móveis e de produtos de indústrias diversas;3240;32;C;32;OTRAS INDUSTRIAS MANUFACTURERAS;FABRICAÇÃO DE PRODUTOS DIVERSOS
+3180;Fabricação de móveis e de produtos de indústrias diversas;3250;32;C;32;OTRAS INDUSTRIAS MANUFACTURERAS;FABRICAÇÃO DE PRODUTOS DIVERSOS
+3180;Fabricação de móveis e de produtos de indústrias diversas;3291;32;C;32;OTRAS INDUSTRIAS MANUFACTURERAS;FABRICAÇÃO DE PRODUTOS DIVERSOS
+3180;Fabricação de móveis e de produtos de indústrias diversas;3292;32;C;32;OTRAS INDUSTRIAS MANUFACTURERAS;FABRICAÇÃO DE PRODUTOS DIVERSOS
+3180;Fabricação de móveis e de produtos de indústrias diversas;3299;32;C;32;OTRAS INDUSTRIAS MANUFACTURERAS;FABRICAÇÃO DE PRODUTOS DIVERSOS
+3300;Manutenção, reparação e instalação de máquinas e equipamentos;3311;33;C;33;REPARACIÓN E INSTALACIÓN DE MAQUINARIA Y EQUIPO;MANUTENÇÃO, REPARAÇÃO E INSTALAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+3300;Manutenção, reparação e instalação de máquinas e equipamentos;3312;33;C;33;REPARACIÓN E INSTALACIÓN DE MAQUINARIA Y EQUIPO;MANUTENÇÃO, REPARAÇÃO E INSTALAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+3300;Manutenção, reparação e instalação de máquinas e equipamentos;3313;33;C;33;REPARACIÓN E INSTALACIÓN DE MAQUINARIA Y EQUIPO;MANUTENÇÃO, REPARAÇÃO E INSTALAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+3300;Manutenção, reparação e instalação de máquinas e equipamentos;3314;33;C;33;REPARACIÓN E INSTALACIÓN DE MAQUINARIA Y EQUIPO;MANUTENÇÃO, REPARAÇÃO E INSTALAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+3300;Manutenção, reparação e instalação de máquinas e equipamentos;3315;33;C;33;REPARACIÓN E INSTALACIÓN DE MAQUINARIA Y EQUIPO;MANUTENÇÃO, REPARAÇÃO E INSTALAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+3300;Manutenção, reparação e instalação de máquinas e equipamentos;3316;33;C;33;REPARACIÓN E INSTALACIÓN DE MAQUINARIA Y EQUIPO;MANUTENÇÃO, REPARAÇÃO E INSTALAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+3300;Manutenção, reparação e instalação de máquinas e equipamentos;3317;33;C;33;REPARACIÓN E INSTALACIÓN DE MAQUINARIA Y EQUIPO;MANUTENÇÃO, REPARAÇÃO E INSTALAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+3300;Manutenção, reparação e instalação de máquinas e equipamentos;3319;33;C;33;REPARACIÓN E INSTALACIÓN DE MAQUINARIA Y EQUIPO;MANUTENÇÃO, REPARAÇÃO E INSTALAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+3300;Manutenção, reparação e instalação de máquinas e equipamentos;3321;33;C;33;REPARACIÓN E INSTALACIÓN DE MAQUINARIA Y EQUIPO;MANUTENÇÃO, REPARAÇÃO E INSTALAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+3300;Manutenção, reparação e instalação de máquinas e equipamentos;3329;33;C;33;REPARACIÓN E INSTALACIÓN DE MAQUINARIA Y EQUIPO;MANUTENÇÃO, REPARAÇÃO E INSTALAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+3500;Energia elétrica, gás natural e outras utilidades;3511;35;D;35;SUMINISTRO DE ELECTRICIDAD, GAS, VAPOR, Y AIRE ACONDICIONADO;ELETRICIDADE, GÁS E OUTRAS UTILIDADES
+3500;Energia elétrica, gás natural e outras utilidades;3512;35;D;35;SUMINISTRO DE ELECTRICIDAD, GAS, VAPOR, Y AIRE ACONDICIONADO;ELETRICIDADE, GÁS E OUTRAS UTILIDADES
+3500;Energia elétrica, gás natural e outras utilidades;3513;35;D;35;SUMINISTRO DE ELECTRICIDAD, GAS, VAPOR, Y AIRE ACONDICIONADO;ELETRICIDADE, GÁS E OUTRAS UTILIDADES
+3500;Energia elétrica, gás natural e outras utilidades;3514;35;D;35;SUMINISTRO DE ELECTRICIDAD, GAS, VAPOR, Y AIRE ACONDICIONADO;ELETRICIDADE, GÁS E OUTRAS UTILIDADES
+3500;Energia elétrica, gás natural e outras utilidades;3520;35;D;35;SUMINISTRO DE ELECTRICIDAD, GAS, VAPOR, Y AIRE ACONDICIONADO;ELETRICIDADE, GÁS E OUTRAS UTILIDADES
+3500;Energia elétrica, gás natural e outras utilidades;3530;35;D;35;SUMINISTRO DE ELECTRICIDAD, GAS, VAPOR, Y AIRE ACONDICIONADO;ELETRICIDADE, GÁS E OUTRAS UTILIDADES
+3680;Água, esgoto e gestão de resíduos;3600;36;E;36;CAPTACIÓN, TRATAMIENTO Y DISTRIBUICIÓN DE AGUA;CAPTAÇÃO, TRATAMENTO E DISTRIBUIÇÃO DE ÁGUA
+3680;Água, esgoto e gestão de resíduos;3701;37;E;37;EVACUACIÓN DE AGUAS RESIDUALES;ESGOTO E ATIVIDADES RELACIONADAS
+3680;Água, esgoto e gestão de resíduos;3702;37;E;37;EVACUACIÓN DE AGUAS RESIDUALES;ESGOTO E ATIVIDADES RELACIONADAS
+3680;Água, esgoto e gestão de resíduos;3811;38;E;38;"RECOGIDA, TRATAMIENTO Y ELIMINACIÓN DE DESECHOS; RECUPERACIÓN DE MATERIALES";"COLETA, TRATAMENTO E DISPOSIÇÃO DE RESÍDUOS; RECUPERAÇÃO DE MATERIAIS"
+3680;Água, esgoto e gestão de resíduos;3812;38;E;38;"RECOGIDA, TRATAMIENTO Y ELIMINACIÓN DE DESECHOS; RECUPERACIÓN DE MATERIALES";"COLETA, TRATAMENTO E DISPOSIÇÃO DE RESÍDUOS; RECUPERAÇÃO DE MATERIAIS"
+3680;Água, esgoto e gestão de resíduos;3821;38;E;38;"RECOGIDA, TRATAMIENTO Y ELIMINACIÓN DE DESECHOS; RECUPERACIÓN DE MATERIALES";"COLETA, TRATAMENTO E DISPOSIÇÃO DE RESÍDUOS; RECUPERAÇÃO DE MATERIAIS"
+3680;Água, esgoto e gestão de resíduos;3822;38;E;38;"RECOGIDA, TRATAMIENTO Y ELIMINACIÓN DE DESECHOS; RECUPERACIÓN DE MATERIALES";"COLETA, TRATAMENTO E DISPOSIÇÃO DE RESÍDUOS; RECUPERAÇÃO DE MATERIAIS"
+3680;Água, esgoto e gestão de resíduos;3831;38;E;38;"RECOGIDA, TRATAMIENTO Y ELIMINACIÓN DE DESECHOS; RECUPERACIÓN DE MATERIALES";"COLETA, TRATAMENTO E DISPOSIÇÃO DE RESÍDUOS; RECUPERAÇÃO DE MATERIAIS"
+3680;Água, esgoto e gestão de resíduos;3832;38;E;38;"RECOGIDA, TRATAMIENTO Y ELIMINACIÓN DE DESECHOS; RECUPERACIÓN DE MATERIALES";"COLETA, TRATAMENTO E DISPOSIÇÃO DE RESÍDUOS; RECUPERAÇÃO DE MATERIAIS"
+3680;Água, esgoto e gestão de resíduos;3839;38;E;38;"RECOGIDA, TRATAMIENTO Y ELIMINACIÓN DE DESECHOS; RECUPERACIÓN DE MATERIALES";"COLETA, TRATAMENTO E DISPOSIÇÃO DE RESÍDUOS; RECUPERAÇÃO DE MATERIAIS"
+3680;Água, esgoto e gestão de resíduos;3900;39;E;39;ACTIVIDADES DE DESCONTAMINACIÓN Y OTROS SERVICIOS DE GESTIÓN DE DESECHOS;DESCONTAMINAÇÃO E OUTROS SERVIÇOS DE GESTÃO DE RESÍDUOS
+4180;Construção;4110;41;F;41;CONSTRUCCIÓN DE EDIFICIOS;CONSTRUÇÃO DE EDIFÍCIOS
+4180;Construção;4120;41;F;41;CONSTRUCCIÓN DE EDIFICIOS;CONSTRUÇÃO DE EDIFÍCIOS
+4180;Construção;4211;42;F;42;OBRAS DE INGENIERÍA CIVIL;OBRAS DE INFRA-ESTRUTURA
+4180;Construção;4212;42;F;42;OBRAS DE INGENIERÍA CIVIL;OBRAS DE INFRA-ESTRUTURA
+4180;Construção;4213;42;F;42;OBRAS DE INGENIERÍA CIVIL;OBRAS DE INFRA-ESTRUTURA
+4180;Construção;4221;42;F;42;OBRAS DE INGENIERÍA CIVIL;OBRAS DE INFRA-ESTRUTURA
+4180;Construção;4222;42;F;42;OBRAS DE INGENIERÍA CIVIL;OBRAS DE INFRA-ESTRUTURA
+4180;Construção;4223;42;F;42;OBRAS DE INGENIERÍA CIVIL;OBRAS DE INFRA-ESTRUTURA
+4180;Construção;4291;42;F;42;OBRAS DE INGENIERÍA CIVIL;OBRAS DE INFRA-ESTRUTURA
+4180;Construção;4292;42;F;42;OBRAS DE INGENIERÍA CIVIL;OBRAS DE INFRA-ESTRUTURA
+4180;Construção;4299;42;F;42;OBRAS DE INGENIERÍA CIVIL;OBRAS DE INFRA-ESTRUTURA
+4180;Construção;4311;43;F;43;ACTIVIDADES ESPECIALIZADAS DE CONSTRUCCIÓN ;SERVIÇOS ESPECIALIZADOS PARA CONSTRUÇÃO
+4180;Construção;4312;43;F;43;ACTIVIDADES ESPECIALIZADAS DE CONSTRUCCIÓN ;SERVIÇOS ESPECIALIZADOS PARA CONSTRUÇÃO
+4180;Construção;4313;43;F;43;ACTIVIDADES ESPECIALIZADAS DE CONSTRUCCIÓN ;SERVIÇOS ESPECIALIZADOS PARA CONSTRUÇÃO
+4180;Construção;4319;43;F;43;ACTIVIDADES ESPECIALIZADAS DE CONSTRUCCIÓN ;SERVIÇOS ESPECIALIZADOS PARA CONSTRUÇÃO
+4180;Construção;4321;43;F;43;ACTIVIDADES ESPECIALIZADAS DE CONSTRUCCIÓN ;SERVIÇOS ESPECIALIZADOS PARA CONSTRUÇÃO
+4180;Construção;4322;43;F;43;ACTIVIDADES ESPECIALIZADAS DE CONSTRUCCIÓN ;SERVIÇOS ESPECIALIZADOS PARA CONSTRUÇÃO
+4180;Construção;4329;43;F;43;ACTIVIDADES ESPECIALIZADAS DE CONSTRUCCIÓN ;SERVIÇOS ESPECIALIZADOS PARA CONSTRUÇÃO
+4180;Construção;4330;43;F;43;ACTIVIDADES ESPECIALIZADAS DE CONSTRUCCIÓN ;SERVIÇOS ESPECIALIZADOS PARA CONSTRUÇÃO
+4180;Construção;4391;43;F;43;ACTIVIDADES ESPECIALIZADAS DE CONSTRUCCIÓN ;SERVIÇOS ESPECIALIZADOS PARA CONSTRUÇÃO
+4180;Construção;4399;43;F;43;ACTIVIDADES ESPECIALIZADAS DE CONSTRUCCIÓN ;SERVIÇOS ESPECIALIZADOS PARA CONSTRUÇÃO
+4500;Comércio e reparação de veículos automotores e motocicletas;4511;45;G;45;COMERCIO AL POR MAYOR Y AL POR MENOR Y REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO E REPARAÇÃO DE VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4500;Comércio e reparação de veículos automotores e motocicletas;4512;45;G;45;COMERCIO AL POR MAYOR Y AL POR MENOR Y REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO E REPARAÇÃO DE VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4500;Comércio e reparação de veículos automotores e motocicletas;4520;45;G;45;COMERCIO AL POR MAYOR Y AL POR MENOR Y REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO E REPARAÇÃO DE VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4500;Comércio e reparação de veículos automotores e motocicletas;4530;45;G;45;COMERCIO AL POR MAYOR Y AL POR MENOR Y REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO E REPARAÇÃO DE VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4500;Comércio e reparação de veículos automotores e motocicletas;4541;45;G;45;COMERCIO AL POR MAYOR Y AL POR MENOR Y REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO E REPARAÇÃO DE VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4500;Comércio e reparação de veículos automotores e motocicletas;4542;45;G;45;COMERCIO AL POR MAYOR Y AL POR MENOR Y REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO E REPARAÇÃO DE VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4500;Comércio e reparação de veículos automotores e motocicletas;4543;45;G;45;COMERCIO AL POR MAYOR Y AL POR MENOR Y REPARACIÓN DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO E REPARAÇÃO DE VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4611;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4612;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4613;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4614;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4615;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4616;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4617;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4618;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4619;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4621;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4622;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4623;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4631;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4632;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4633;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4634;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4635;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4636;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4637;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4639;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4641;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4642;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4643;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4644;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4645;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4646;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4647;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4649;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4651;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4652;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4661;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4662;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4663;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4664;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4665;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4669;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4671;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4672;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4673;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4674;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4679;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4681;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4682;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4683;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4684;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4685;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4686;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4687;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4689;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4691;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4692;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4693;46;G;46;COMERCIO AL POR MAYOR, EXCEPTO EL DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS
+4580;Comércio por atacado e varejo;4711;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4712;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4713;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4721;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4722;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4723;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4724;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4729;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4731;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4732;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4741;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4742;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4743;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4744;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4751;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4752;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4753;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4754;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4755;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4756;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4757;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4759;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4761;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4762;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4763;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4771;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4772;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4773;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4774;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4781;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4782;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4783;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4784;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4785;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4789;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4580;Comércio por atacado e varejo;4790;47;G;47;COMERCIO AL POR MENOR, EXCEPTO DE VEHÍCULOS AUTOMOTORES Y MOTOCICLETAS;COMÉRCIO VAREJISTA
+4900;Transporte terrestre;4911;49;H;49;TRANSPORTE POR VÍA TERRESTRE Y TRANSPORTE POR TUBERÍAS;TRANSPORTE TERRESTRE
+4900;Transporte terrestre;4912;49;H;49;TRANSPORTE POR VÍA TERRESTRE Y TRANSPORTE POR TUBERÍAS;TRANSPORTE TERRESTRE
+4900;Transporte terrestre;4921;49;H;49;TRANSPORTE POR VÍA TERRESTRE Y TRANSPORTE POR TUBERÍAS;TRANSPORTE TERRESTRE
+4900;Transporte terrestre;4922;49;H;49;TRANSPORTE POR VÍA TERRESTRE Y TRANSPORTE POR TUBERÍAS;TRANSPORTE TERRESTRE
+4900;Transporte terrestre;4923;49;H;49;TRANSPORTE POR VÍA TERRESTRE Y TRANSPORTE POR TUBERÍAS;TRANSPORTE TERRESTRE
+4900;Transporte terrestre;4924;49;H;49;TRANSPORTE POR VÍA TERRESTRE Y TRANSPORTE POR TUBERÍAS;TRANSPORTE TERRESTRE
+4900;Transporte terrestre;4929;49;H;49;TRANSPORTE POR VÍA TERRESTRE Y TRANSPORTE POR TUBERÍAS;TRANSPORTE TERRESTRE
+4900;Transporte terrestre;4930;49;H;49;TRANSPORTE POR VÍA TERRESTRE Y TRANSPORTE POR TUBERÍAS;TRANSPORTE TERRESTRE
+4900;Transporte terrestre;4940;49;H;49;TRANSPORTE POR VÍA TERRESTRE Y TRANSPORTE POR TUBERÍAS;TRANSPORTE TERRESTRE
+4900;Transporte terrestre;4950;49;H;49;TRANSPORTE POR VÍA TERRESTRE Y TRANSPORTE POR TUBERÍAS;TRANSPORTE TERRESTRE
+5000;Transporte aquaviário;5011;50;H;50;TRANSPORTE POR VÍA ACUÁTICA;TRANSPORTE AQUAVIÁRIO
+5000;Transporte aquaviário;5012;50;H;50;TRANSPORTE POR VÍA ACUÁTICA;TRANSPORTE AQUAVIÁRIO
+5000;Transporte aquaviário;5021;50;H;50;TRANSPORTE POR VÍA ACUÁTICA;TRANSPORTE AQUAVIÁRIO
+5000;Transporte aquaviário;5022;50;H;50;TRANSPORTE POR VÍA ACUÁTICA;TRANSPORTE AQUAVIÁRIO
+5000;Transporte aquaviário;5030;50;H;50;TRANSPORTE POR VÍA ACUÁTICA;TRANSPORTE AQUAVIÁRIO
+5000;Transporte aquaviário;5091;50;H;50;TRANSPORTE POR VÍA ACUÁTICA;TRANSPORTE AQUAVIÁRIO
+5000;Transporte aquaviário;5099;50;H;50;TRANSPORTE POR VÍA ACUÁTICA;TRANSPORTE AQUAVIÁRIO
+5100;Transporte aéreo;5111;51;H;51;TRANSPORTE POR VÍA AÉREA;TRANSPORTE AÉREO
+5100;Transporte aéreo;5112;51;H;51;TRANSPORTE POR VÍA AÉREA;TRANSPORTE AÉREO
+5100;Transporte aéreo;5120;51;H;51;TRANSPORTE POR VÍA AÉREA;TRANSPORTE AÉREO
+5100;Transporte aéreo;5130;51;H;51;TRANSPORTE POR VÍA AÉREA;TRANSPORTE AÉREO
+5280;Armazenamento, atividades auxiliares dos transportes e correio;5211;52;H;52;ALMACENAMIENTO Y ACTIVIDADES DE APOYO AL TRANSPORTE;ARMAZENAMENTO E ATIVIDADES AUXILIARES DOS TRANSPORTES
+5280;Armazenamento, atividades auxiliares dos transportes e correio;5212;52;H;52;ALMACENAMIENTO Y ACTIVIDADES DE APOYO AL TRANSPORTE;ARMAZENAMENTO E ATIVIDADES AUXILIARES DOS TRANSPORTES
+5280;Armazenamento, atividades auxiliares dos transportes e correio;5221;52;H;52;ALMACENAMIENTO Y ACTIVIDADES DE APOYO AL TRANSPORTE;ARMAZENAMENTO E ATIVIDADES AUXILIARES DOS TRANSPORTES
+5280;Armazenamento, atividades auxiliares dos transportes e correio;5222;52;H;52;ALMACENAMIENTO Y ACTIVIDADES DE APOYO AL TRANSPORTE;ARMAZENAMENTO E ATIVIDADES AUXILIARES DOS TRANSPORTES
+5280;Armazenamento, atividades auxiliares dos transportes e correio;5223;52;H;52;ALMACENAMIENTO Y ACTIVIDADES DE APOYO AL TRANSPORTE;ARMAZENAMENTO E ATIVIDADES AUXILIARES DOS TRANSPORTES
+5280;Armazenamento, atividades auxiliares dos transportes e correio;5229;52;H;52;ALMACENAMIENTO Y ACTIVIDADES DE APOYO AL TRANSPORTE;ARMAZENAMENTO E ATIVIDADES AUXILIARES DOS TRANSPORTES
+5280;Armazenamento, atividades auxiliares dos transportes e correio;5231;52;H;52;ALMACENAMIENTO Y ACTIVIDADES DE APOYO AL TRANSPORTE;ARMAZENAMENTO E ATIVIDADES AUXILIARES DOS TRANSPORTES
+5280;Armazenamento, atividades auxiliares dos transportes e correio;5232;52;H;52;ALMACENAMIENTO Y ACTIVIDADES DE APOYO AL TRANSPORTE;ARMAZENAMENTO E ATIVIDADES AUXILIARES DOS TRANSPORTES
+5280;Armazenamento, atividades auxiliares dos transportes e correio;5239;52;H;52;ALMACENAMIENTO Y ACTIVIDADES DE APOYO AL TRANSPORTE;ARMAZENAMENTO E ATIVIDADES AUXILIARES DOS TRANSPORTES
+5280;Armazenamento, atividades auxiliares dos transportes e correio;5240;52;H;52;ALMACENAMIENTO Y ACTIVIDADES DE APOYO AL TRANSPORTE;ARMAZENAMENTO E ATIVIDADES AUXILIARES DOS TRANSPORTES
+5280;Armazenamento, atividades auxiliares dos transportes e correio;5250;52;H;52;ALMACENAMIENTO Y ACTIVIDADES DE APOYO AL TRANSPORTE;ARMAZENAMENTO E ATIVIDADES AUXILIARES DOS TRANSPORTES
+5500;Alojamento;5510;55;I;55;ACTIVIDADES DE ALOJAMIENTO;ALOJAMENTO
+5500;Alojamento;5590;55;I;55;ACTIVIDADES DE ALOJAMIENTO;ALOJAMENTO
+5600;Alimentação;5611;56;I;56;ACTIVIDADES DE SERVICIOS DE COMIDAS Y BEBIDAS;ALIMENTAÇÃO
+5600;Alimentação;5612;56;I;56;ACTIVIDADES DE SERVICIOS DE COMIDAS Y BEBIDAS;ALIMENTAÇÃO
+5600;Alimentação;5620;56;I;56;ACTIVIDADES DE SERVICIOS DE COMIDAS Y BEBIDAS;ALIMENTAÇÃO
+5800;Edição e edição integrada à impressão;5811;58;J;58;ACTIVIDADES DE EDICIÓN;EDIÇÃO E EDIÇÃO INTEGRADA À IMPRESSÃO
+5800;Edição e edição integrada à impressão;5812;58;J;58;ACTIVIDADES DE EDICIÓN;EDIÇÃO E EDIÇÃO INTEGRADA À IMPRESSÃO
+5800;Edição e edição integrada à impressão;5813;58;J;58;ACTIVIDADES DE EDICIÓN;EDIÇÃO E EDIÇÃO INTEGRADA À IMPRESSÃO
+5800;Edição e edição integrada à impressão;5819;58;J;58;ACTIVIDADES DE EDICIÓN;EDIÇÃO E EDIÇÃO INTEGRADA À IMPRESSÃO
+5800;Edição e edição integrada à impressão;5821;58;J;58;ACTIVIDADES DE EDICIÓN;EDIÇÃO E EDIÇÃO INTEGRADA À IMPRESSÃO
+5800;Edição e edição integrada à impressão;5822;58;J;58;ACTIVIDADES DE EDICIÓN;EDIÇÃO E EDIÇÃO INTEGRADA À IMPRESSÃO
+5800;Edição e edição integrada à impressão;5823;58;J;58;ACTIVIDADES DE EDICIÓN;EDIÇÃO E EDIÇÃO INTEGRADA À IMPRESSÃO
+5800;Edição e edição integrada à impressão;5829;58;J;58;ACTIVIDADES DE EDICIÓN;EDIÇÃO E EDIÇÃO INTEGRADA À IMPRESSÃO
+5980;Atividades de televisão, rádio, cinema e gravação/edição de som e imagem;5911;59;J;59;ACTIVIDADES DE PRODUCCIÓN DE PELÍCULAS CINEMATOGRÁFICAS, VÍDEOS Y PROGRAMAS DE TELEVISIÓN, GRABACIÓN SONORA Y EDICIÓN DE MÚSICA;"ATIVIDADES CINEMATOGRÁFICAS, PRODUÇÃO DE VÍDEOS E DE PROGRAMAS DE TELEVISÃO; GRAVAÇÃO DE SOM E EDIÇÃO DE MÚSICA"
+5980;Atividades de televisão, rádio, cinema e gravação/edição de som e imagem;5912;59;J;59;ACTIVIDADES DE PRODUCCIÓN DE PELÍCULAS CINEMATOGRÁFICAS, VÍDEOS Y PROGRAMAS DE TELEVISIÓN, GRABACIÓN SONORA Y EDICIÓN DE MÚSICA;"ATIVIDADES CINEMATOGRÁFICAS, PRODUÇÃO DE VÍDEOS E DE PROGRAMAS DE TELEVISÃO; GRAVAÇÃO DE SOM E EDIÇÃO DE MÚSICA"
+5980;Atividades de televisão, rádio, cinema e gravação/edição de som e imagem;5913;59;J;59;ACTIVIDADES DE PRODUCCIÓN DE PELÍCULAS CINEMATOGRÁFICAS, VÍDEOS Y PROGRAMAS DE TELEVISIÓN, GRABACIÓN SONORA Y EDICIÓN DE MÚSICA;"ATIVIDADES CINEMATOGRÁFICAS, PRODUÇÃO DE VÍDEOS E DE PROGRAMAS DE TELEVISÃO; GRAVAÇÃO DE SOM E EDIÇÃO DE MÚSICA"
+5980;Atividades de televisão, rádio, cinema e gravação/edição de som e imagem;5914;59;J;59;ACTIVIDADES DE PRODUCCIÓN DE PELÍCULAS CINEMATOGRÁFICAS, VÍDEOS Y PROGRAMAS DE TELEVISIÓN, GRABACIÓN SONORA Y EDICIÓN DE MÚSICA;"ATIVIDADES CINEMATOGRÁFICAS, PRODUÇÃO DE VÍDEOS E DE PROGRAMAS DE TELEVISÃO; GRAVAÇÃO DE SOM E EDIÇÃO DE MÚSICA"
+5980;Atividades de televisão, rádio, cinema e gravação/edição de som e imagem;5920;59;J;59;ACTIVIDADES DE PRODUCCIÓN DE PELÍCULAS CINEMATOGRÁFICAS, VÍDEOS Y PROGRAMAS DE TELEVISIÓN, GRABACIÓN SONORA Y EDICIÓN DE MÚSICA;"ATIVIDADES CINEMATOGRÁFICAS, PRODUÇÃO DE VÍDEOS E DE PROGRAMAS DE TELEVISÃO; GRAVAÇÃO DE SOM E EDIÇÃO DE MÚSICA"
+5980;Atividades de televisão, rádio, cinema e gravação/edição de som e imagem;6010;60;J;60;ACTIVIDADES DE PROGRAMACIÓN Y TRANSMISIÓN;ATIVIDADES DE RÁDIO E DE TELEVISÃO
+5980;Atividades de televisão, rádio, cinema e gravação/edição de som e imagem;6021;60;J;60;ACTIVIDADES DE PROGRAMACIÓN Y TRANSMISIÓN;ATIVIDADES DE RÁDIO E DE TELEVISÃO
+5980;Atividades de televisão, rádio, cinema e gravação/edição de som e imagem;6022;60;J;60;ACTIVIDADES DE PROGRAMACIÓN Y TRANSMISIÓN;ATIVIDADES DE RÁDIO E DE TELEVISÃO
+6100;Telecomunicações;6110;61;J;61;TELECOMUNICACIONES;TELECOMUNICAÇÕES
+6100;Telecomunicações;6120;61;J;61;TELECOMUNICACIONES;TELECOMUNICAÇÕES
+6100;Telecomunicações;6130;61;J;61;TELECOMUNICACIONES;TELECOMUNICAÇÕES
+6100;Telecomunicações;6141;61;J;61;TELECOMUNICACIONES;TELECOMUNICAÇÕES
+6100;Telecomunicações;6142;61;J;61;TELECOMUNICACIONES;TELECOMUNICAÇÕES
+6100;Telecomunicações;6143;61;J;61;TELECOMUNICACIONES;TELECOMUNICAÇÕES
+6100;Telecomunicações;6190;61;J;61;TELECOMUNICACIONES;TELECOMUNICAÇÕES
+6280;Desenvolvimento de sistemas e outros serviços de informação;6201;62;J;58;ACTIVIDADES DE EDICIÓN;ATIVIDADES DOS SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO
+6280;Desenvolvimento de sistemas e outros serviços de informação;6201;62;J;62;PROGRAMACIÓN INFORMÁTICA, CONSULTORÍA DE INFORMÁTICA Y ACTIVIDADES CONEXAS;ATIVIDADES DOS SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO
+6280;Desenvolvimento de sistemas e outros serviços de informação;6202;62;J;58;ACTIVIDADES DE EDICIÓN;ATIVIDADES DOS SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO
+6280;Desenvolvimento de sistemas e outros serviços de informação;6202;62;J;62;PROGRAMACIÓN INFORMÁTICA, CONSULTORÍA DE INFORMÁTICA Y ACTIVIDADES CONEXAS;ATIVIDADES DOS SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO
+6280;Desenvolvimento de sistemas e outros serviços de informação;6203;62;J;58;ACTIVIDADES DE EDICIÓN;ATIVIDADES DOS SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO
+6280;Desenvolvimento de sistemas e outros serviços de informação;6203;62;J;62;PROGRAMACIÓN INFORMÁTICA, CONSULTORÍA DE INFORMÁTICA Y ACTIVIDADES CONEXAS;ATIVIDADES DOS SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO
+6280;Desenvolvimento de sistemas e outros serviços de informação;6204;62;J;58;ACTIVIDADES DE EDICIÓN;ATIVIDADES DOS SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO
+6280;Desenvolvimento de sistemas e outros serviços de informação;6204;62;J;62;PROGRAMACIÓN INFORMÁTICA, CONSULTORÍA DE INFORMÁTICA Y ACTIVIDADES CONEXAS;ATIVIDADES DOS SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO
+6280;Desenvolvimento de sistemas e outros serviços de informação;6209;62;J;58;ACTIVIDADES DE EDICIÓN;ATIVIDADES DOS SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO
+6280;Desenvolvimento de sistemas e outros serviços de informação;6209;62;J;62;PROGRAMACIÓN INFORMÁTICA, CONSULTORÍA DE INFORMÁTICA Y ACTIVIDADES CONEXAS;ATIVIDADES DOS SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO
+6280;Desenvolvimento de sistemas e outros serviços de informação;6311;63;J;63;ACTIVIDADES DE SERVICIOS DE INFORMACIÓN;ATIVIDADES DE PRESTAÇÃO DE SERVIÇOS DE INFORMAÇÃO
+6280;Desenvolvimento de sistemas e outros serviços de informação;6319;63;J;63;ACTIVIDADES DE SERVICIOS DE INFORMACIÓN;ATIVIDADES DE PRESTAÇÃO DE SERVIÇOS DE INFORMAÇÃO
+6280;Desenvolvimento de sistemas e outros serviços de informação;6391;63;J;63;ACTIVIDADES DE SERVICIOS DE INFORMACIÓN;ATIVIDADES DE PRESTAÇÃO DE SERVIÇOS DE INFORMAÇÃO
+6280;Desenvolvimento de sistemas e outros serviços de informação;6399;63;J;63;ACTIVIDADES DE SERVICIOS DE INFORMACIÓN;ATIVIDADES DE PRESTAÇÃO DE SERVIÇOS DE INFORMAÇÃO
+6480;Intermediação financeira, seguros e previdência complementar;6410;64;K;64;ACTIVIDADES DE SERVICIOS FINANCIEROS, EXCEPTO LAS DE SEGUROS Y FONDOS DE PENSIONES;ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6410;64;K;70;"ACTIVIDADES DE OFICINAS PRINCIPALES; ACTIVIDADES DE CONSULTORÍA DE GESTIÓN";ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6421;64;K;64;ACTIVIDADES DE SERVICIOS FINANCIEROS, EXCEPTO LAS DE SEGUROS Y FONDOS DE PENSIONES;ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6421;64;K;70;"ACTIVIDADES DE OFICINAS PRINCIPALES; ACTIVIDADES DE CONSULTORÍA DE GESTIÓN";ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6422;64;K;64;ACTIVIDADES DE SERVICIOS FINANCIEROS, EXCEPTO LAS DE SEGUROS Y FONDOS DE PENSIONES;ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6422;64;K;70;"ACTIVIDADES DE OFICINAS PRINCIPALES; ACTIVIDADES DE CONSULTORÍA DE GESTIÓN";ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6423;64;K;64;ACTIVIDADES DE SERVICIOS FINANCIEROS, EXCEPTO LAS DE SEGUROS Y FONDOS DE PENSIONES;ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6423;64;K;70;"ACTIVIDADES DE OFICINAS PRINCIPALES; ACTIVIDADES DE CONSULTORÍA DE GESTIÓN";ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6424;64;K;64;ACTIVIDADES DE SERVICIOS FINANCIEROS, EXCEPTO LAS DE SEGUROS Y FONDOS DE PENSIONES;ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6424;64;K;70;"ACTIVIDADES DE OFICINAS PRINCIPALES; ACTIVIDADES DE CONSULTORÍA DE GESTIÓN";ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6431;64;K;64;ACTIVIDADES DE SERVICIOS FINANCIEROS, EXCEPTO LAS DE SEGUROS Y FONDOS DE PENSIONES;ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6431;64;K;70;"ACTIVIDADES DE OFICINAS PRINCIPALES; ACTIVIDADES DE CONSULTORÍA DE GESTIÓN";ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6432;64;K;64;ACTIVIDADES DE SERVICIOS FINANCIEROS, EXCEPTO LAS DE SEGUROS Y FONDOS DE PENSIONES;ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6432;64;K;70;"ACTIVIDADES DE OFICINAS PRINCIPALES; ACTIVIDADES DE CONSULTORÍA DE GESTIÓN";ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6433;64;K;64;ACTIVIDADES DE SERVICIOS FINANCIEROS, EXCEPTO LAS DE SEGUROS Y FONDOS DE PENSIONES;ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6433;64;K;70;"ACTIVIDADES DE OFICINAS PRINCIPALES; ACTIVIDADES DE CONSULTORÍA DE GESTIÓN";ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6434;64;K;64;ACTIVIDADES DE SERVICIOS FINANCIEROS, EXCEPTO LAS DE SEGUROS Y FONDOS DE PENSIONES;ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6434;64;K;70;"ACTIVIDADES DE OFICINAS PRINCIPALES; ACTIVIDADES DE CONSULTORÍA DE GESTIÓN";ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6435;64;K;64;ACTIVIDADES DE SERVICIOS FINANCIEROS, EXCEPTO LAS DE SEGUROS Y FONDOS DE PENSIONES;ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6435;64;K;70;"ACTIVIDADES DE OFICINAS PRINCIPALES; ACTIVIDADES DE CONSULTORÍA DE GESTIÓN";ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6436;64;K;64;ACTIVIDADES DE SERVICIOS FINANCIEROS, EXCEPTO LAS DE SEGUROS Y FONDOS DE PENSIONES;ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6436;64;K;70;"ACTIVIDADES DE OFICINAS PRINCIPALES; ACTIVIDADES DE CONSULTORÍA DE GESTIÓN";ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6437;64;K;64;ACTIVIDADES DE SERVICIOS FINANCIEROS, EXCEPTO LAS DE SEGUROS Y FONDOS DE PENSIONES;ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6437;64;K;70;"ACTIVIDADES DE OFICINAS PRINCIPALES; ACTIVIDADES DE CONSULTORÍA DE GESTIÓN";ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6438;64;K;64;ACTIVIDADES DE SERVICIOS FINANCIEROS, EXCEPTO LAS DE SEGUROS Y FONDOS DE PENSIONES;ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6438;64;K;70;"ACTIVIDADES DE OFICINAS PRINCIPALES; ACTIVIDADES DE CONSULTORÍA DE GESTIÓN";ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6440;64;K;64;ACTIVIDADES DE SERVICIOS FINANCIEROS, EXCEPTO LAS DE SEGUROS Y FONDOS DE PENSIONES;ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6440;64;K;70;"ACTIVIDADES DE OFICINAS PRINCIPALES; ACTIVIDADES DE CONSULTORÍA DE GESTIÓN";ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6450;64;K;64;ACTIVIDADES DE SERVICIOS FINANCIEROS, EXCEPTO LAS DE SEGUROS Y FONDOS DE PENSIONES;ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6450;64;K;70;"ACTIVIDADES DE OFICINAS PRINCIPALES; ACTIVIDADES DE CONSULTORÍA DE GESTIÓN";ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6461;64;K;64;ACTIVIDADES DE SERVICIOS FINANCIEROS, EXCEPTO LAS DE SEGUROS Y FONDOS DE PENSIONES;ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6461;64;K;70;"ACTIVIDADES DE OFICINAS PRINCIPALES; ACTIVIDADES DE CONSULTORÍA DE GESTIÓN";ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6462;64;K;64;ACTIVIDADES DE SERVICIOS FINANCIEROS, EXCEPTO LAS DE SEGUROS Y FONDOS DE PENSIONES;ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6462;64;K;70;"ACTIVIDADES DE OFICINAS PRINCIPALES; ACTIVIDADES DE CONSULTORÍA DE GESTIÓN";ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6463;64;K;64;ACTIVIDADES DE SERVICIOS FINANCIEROS, EXCEPTO LAS DE SEGUROS Y FONDOS DE PENSIONES;ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6463;64;K;70;"ACTIVIDADES DE OFICINAS PRINCIPALES; ACTIVIDADES DE CONSULTORÍA DE GESTIÓN";ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6470;64;K;64;ACTIVIDADES DE SERVICIOS FINANCIEROS, EXCEPTO LAS DE SEGUROS Y FONDOS DE PENSIONES;ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6470;64;K;70;"ACTIVIDADES DE OFICINAS PRINCIPALES; ACTIVIDADES DE CONSULTORÍA DE GESTIÓN";ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6491;64;K;64;ACTIVIDADES DE SERVICIOS FINANCIEROS, EXCEPTO LAS DE SEGUROS Y FONDOS DE PENSIONES;ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6491;64;K;70;"ACTIVIDADES DE OFICINAS PRINCIPALES; ACTIVIDADES DE CONSULTORÍA DE GESTIÓN";ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6492;64;K;64;ACTIVIDADES DE SERVICIOS FINANCIEROS, EXCEPTO LAS DE SEGUROS Y FONDOS DE PENSIONES;ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6492;64;K;70;"ACTIVIDADES DE OFICINAS PRINCIPALES; ACTIVIDADES DE CONSULTORÍA DE GESTIÓN";ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6493;64;K;64;ACTIVIDADES DE SERVICIOS FINANCIEROS, EXCEPTO LAS DE SEGUROS Y FONDOS DE PENSIONES;ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6493;64;K;70;"ACTIVIDADES DE OFICINAS PRINCIPALES; ACTIVIDADES DE CONSULTORÍA DE GESTIÓN";ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6499;64;K;64;ACTIVIDADES DE SERVICIOS FINANCIEROS, EXCEPTO LAS DE SEGUROS Y FONDOS DE PENSIONES;ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6499;64;K;70;"ACTIVIDADES DE OFICINAS PRINCIPALES; ACTIVIDADES DE CONSULTORÍA DE GESTIÓN";ATIVIDADES DE SERVIÇOS FINANCEIROS
+6480;Intermediação financeira, seguros e previdência complementar;6511;65;K;65;SEGUROS, REASEGUROS Y FONDOS DE PENSIONES, EXCEPTO PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA;SEGUROS, RESSEGUROS, PREVIDÊNCIA COMPLEMENTAR E PLANOS DE SAÚDE
+6480;Intermediação financeira, seguros e previdência complementar;6512;65;K;65;SEGUROS, REASEGUROS Y FONDOS DE PENSIONES, EXCEPTO PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA;SEGUROS, RESSEGUROS, PREVIDÊNCIA COMPLEMENTAR E PLANOS DE SAÚDE
+6480;Intermediação financeira, seguros e previdência complementar;6520;65;K;65;SEGUROS, REASEGUROS Y FONDOS DE PENSIONES, EXCEPTO PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA;SEGUROS, RESSEGUROS, PREVIDÊNCIA COMPLEMENTAR E PLANOS DE SAÚDE
+6480;Intermediação financeira, seguros e previdência complementar;6530;65;K;65;SEGUROS, REASEGUROS Y FONDOS DE PENSIONES, EXCEPTO PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA;SEGUROS, RESSEGUROS, PREVIDÊNCIA COMPLEMENTAR E PLANOS DE SAÚDE
+6480;Intermediação financeira, seguros e previdência complementar;6541;65;K;65;SEGUROS, REASEGUROS Y FONDOS DE PENSIONES, EXCEPTO PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA;SEGUROS, RESSEGUROS, PREVIDÊNCIA COMPLEMENTAR E PLANOS DE SAÚDE
+6480;Intermediação financeira, seguros e previdência complementar;6542;65;K;65;SEGUROS, REASEGUROS Y FONDOS DE PENSIONES, EXCEPTO PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA;SEGUROS, RESSEGUROS, PREVIDÊNCIA COMPLEMENTAR E PLANOS DE SAÚDE
+6480;Intermediação financeira, seguros e previdência complementar;6550;65;K;65;SEGUROS, REASEGUROS Y FONDOS DE PENSIONES, EXCEPTO PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA;SEGUROS, RESSEGUROS, PREVIDÊNCIA COMPLEMENTAR E PLANOS DE SAÚDE
+6480;Intermediação financeira, seguros e previdência complementar;6611;66;K;66;ACTIVIDADES AUXILIARES DE LAS ACTIVIDADES DE SERVICIOS FINANCIEROS;ATIVIDADES AUXILIARES DOS SERVIÇOS FINANCEIROS, SEGUROS, PREVIDÊNCIA COMPLEMENTAR E PLANOS DE SAÚDE
+6480;Intermediação financeira, seguros e previdência complementar;6612;66;K;66;ACTIVIDADES AUXILIARES DE LAS ACTIVIDADES DE SERVICIOS FINANCIEROS;ATIVIDADES AUXILIARES DOS SERVIÇOS FINANCEIROS, SEGUROS, PREVIDÊNCIA COMPLEMENTAR E PLANOS DE SAÚDE
+6480;Intermediação financeira, seguros e previdência complementar;6613;66;K;66;ACTIVIDADES AUXILIARES DE LAS ACTIVIDADES DE SERVICIOS FINANCIEROS;ATIVIDADES AUXILIARES DOS SERVIÇOS FINANCEIROS, SEGUROS, PREVIDÊNCIA COMPLEMENTAR E PLANOS DE SAÚDE
+6480;Intermediação financeira, seguros e previdência complementar;6619;66;K;66;ACTIVIDADES AUXILIARES DE LAS ACTIVIDADES DE SERVICIOS FINANCIEROS;ATIVIDADES AUXILIARES DOS SERVIÇOS FINANCEIROS, SEGUROS, PREVIDÊNCIA COMPLEMENTAR E PLANOS DE SAÚDE
+6480;Intermediação financeira, seguros e previdência complementar;6621;66;K;66;ACTIVIDADES AUXILIARES DE LAS ACTIVIDADES DE SERVICIOS FINANCIEROS;ATIVIDADES AUXILIARES DOS SERVIÇOS FINANCEIROS, SEGUROS, PREVIDÊNCIA COMPLEMENTAR E PLANOS DE SAÚDE
+6480;Intermediação financeira, seguros e previdência complementar;6622;66;K;66;ACTIVIDADES AUXILIARES DE LAS ACTIVIDADES DE SERVICIOS FINANCIEROS;ATIVIDADES AUXILIARES DOS SERVIÇOS FINANCEIROS, SEGUROS, PREVIDÊNCIA COMPLEMENTAR E PLANOS DE SAÚDE
+6480;Intermediação financeira, seguros e previdência complementar;6629;66;K;66;ACTIVIDADES AUXILIARES DE LAS ACTIVIDADES DE SERVICIOS FINANCIEROS;ATIVIDADES AUXILIARES DOS SERVIÇOS FINANCEIROS, SEGUROS, PREVIDÊNCIA COMPLEMENTAR E PLANOS DE SAÚDE
+6480;Intermediação financeira, seguros e previdência complementar;6630;66;K;66;ACTIVIDADES AUXILIARES DE LAS ACTIVIDADES DE SERVICIOS FINANCIEROS;ATIVIDADES AUXILIARES DOS SERVIÇOS FINANCEIROS, SEGUROS, PREVIDÊNCIA COMPLEMENTAR E PLANOS DE SAÚDE
+6800;Atividades imobiliárias;6810;68;L;68;ACTIVIDADES INMOBILIARIAS;ATIVIDADES IMOBILIÁRIAS
+6800;Atividades imobiliárias;6821;68;L;68;ACTIVIDADES INMOBILIARIAS;ATIVIDADES IMOBILIÁRIAS
+6800;Atividades imobiliárias;6822;68;L;68;ACTIVIDADES INMOBILIARIAS;ATIVIDADES IMOBILIÁRIAS
+6980;Atividades jurídicas, contábeis, consultoria e sedes de empresas;6911;69;M;69;ACTIVIDADES JURÍDICAS Y DE CONTABILIDAD;ATIVIDADES JURÍDICAS, DE CONTABILIDADE E DE AUDITORIA
+6980;Atividades jurídicas, contábeis, consultoria e sedes de empresas;6912;69;M;69;ACTIVIDADES JURÍDICAS Y DE CONTABILIDAD;ATIVIDADES JURÍDICAS, DE CONTABILIDADE E DE AUDITORIA
+6980;Atividades jurídicas, contábeis, consultoria e sedes de empresas;6920;69;M;69;ACTIVIDADES JURÍDICAS Y DE CONTABILIDAD;ATIVIDADES JURÍDICAS, DE CONTABILIDADE E DE AUDITORIA
+6980;Atividades jurídicas, contábeis, consultoria e sedes de empresas;7010;70;M;70;"ACTIVIDADES DE OFICINAS PRINCIPALES; ACTIVIDADES DE CONSULTORÍA DE GESTIÓN";ATIVIDADES DE SEDES DE EMPRESAS E DE CONSULTORIA EM GESTÃO EMPRESARIAL
+6980;Atividades jurídicas, contábeis, consultoria e sedes de empresas;7020;70;M;70;"ACTIVIDADES DE OFICINAS PRINCIPALES; ACTIVIDADES DE CONSULTORÍA DE GESTIÓN";ATIVIDADES DE SEDES DE EMPRESAS E DE CONSULTORIA EM GESTÃO EMPRESARIAL
+7180;Serviços de arquitetura, engenharia, testes/análises técnicas e P & D;7111;71;M;71;"ACTIVIDADES DE ARQUITECTURA E INGENIERÍA; ENSAYOS Y ANÁLISIS TÉCNICOS";"SERVIÇOS DE ARQUITETURA E ENGENHARIA; TESTES E ANÁLISES TÉCNICAS"
+7180;Serviços de arquitetura, engenharia, testes/análises técnicas e P & D;7112;71;M;71;"ACTIVIDADES DE ARQUITECTURA E INGENIERÍA; ENSAYOS Y ANÁLISIS TÉCNICOS";"SERVIÇOS DE ARQUITETURA E ENGENHARIA; TESTES E ANÁLISES TÉCNICAS"
+7180;Serviços de arquitetura, engenharia, testes/análises técnicas e P & D;7119;71;M;71;"ACTIVIDADES DE ARQUITECTURA E INGENIERÍA; ENSAYOS Y ANÁLISIS TÉCNICOS";"SERVIÇOS DE ARQUITETURA E ENGENHARIA; TESTES E ANÁLISES TÉCNICAS"
+7180;Serviços de arquitetura, engenharia, testes/análises técnicas e P & D;7120;71;M;71;"ACTIVIDADES DE ARQUITECTURA E INGENIERÍA; ENSAYOS Y ANÁLISIS TÉCNICOS";"SERVIÇOS DE ARQUITETURA E ENGENHARIA; TESTES E ANÁLISES TÉCNICAS"
+7180;Serviços de arquitetura, engenharia, testes/análises técnicas e P & D;7210;72;M;72;INVESTIGACIÓN CIENTÍFICA Y DESARROLLO;PESQUISA E DESENVOLVIMENTO CIENTÍFICO
+7180;Serviços de arquitetura, engenharia, testes/análises técnicas e P & D;7220;72;M;72;INVESTIGACIÓN CIENTÍFICA Y DESARROLLO;PESQUISA E DESENVOLVIMENTO CIENTÍFICO
+7380;Outras atividades profissionais, científicas e técnicas;7311;73;M;73;PUBLICIDAD E ESTUDIOS DE MERCADOS;PUBLICIDADE E PESQUISA DE MERCADO
+7380;Outras atividades profissionais, científicas e técnicas;7312;73;M;73;PUBLICIDAD E ESTUDIOS DE MERCADOS;PUBLICIDADE E PESQUISA DE MERCADO
+7380;Outras atividades profissionais, científicas e técnicas;7319;73;M;73;PUBLICIDAD E ESTUDIOS DE MERCADOS;PUBLICIDADE E PESQUISA DE MERCADO
+7380;Outras atividades profissionais, científicas e técnicas;7320;73;M;73;PUBLICIDAD E ESTUDIOS DE MERCADOS;PUBLICIDADE E PESQUISA DE MERCADO
+7380;Outras atividades profissionais, científicas e técnicas;7410;74;M;74;OTRAS ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS;OUTRAS ATIVIDADES PROFISSIONAIS, CIENTÍFICAS E TÉCNICAS
+7380;Outras atividades profissionais, científicas e técnicas;7420;74;M;74;OTRAS ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS;OUTRAS ATIVIDADES PROFISSIONAIS, CIENTÍFICAS E TÉCNICAS
+7380;Outras atividades profissionais, científicas e técnicas;7490;74;M;74;OTRAS ACTIVIDADES PROFESIONALES, CIENTÍFICAS Y TÉCNICAS;OUTRAS ATIVIDADES PROFISSIONAIS, CIENTÍFICAS E TÉCNICAS
+7380;Outras atividades profissionais, científicas e técnicas;7500;75;M;75;ACTIVIDADES VETERINARIAS;ATIVIDADES VETERINÁRIAS
+7700;Aluguéis não imobiliários e gestão de ativos de propriedade intelectual;7711;77;N;77;ACTIVIDADES DE ALQUILER Y ARRENDAMIENTO;ALUGUÉIS NÃO-IMOBILIÁRIOS E GESTÃO DE ATIVOS INTANGÍVEIS NÃO-FINANCEIROS
+7700;Aluguéis não imobiliários e gestão de ativos de propriedade intelectual;7719;77;N;77;ACTIVIDADES DE ALQUILER Y ARRENDAMIENTO;ALUGUÉIS NÃO-IMOBILIÁRIOS E GESTÃO DE ATIVOS INTANGÍVEIS NÃO-FINANCEIROS
+7700;Aluguéis não imobiliários e gestão de ativos de propriedade intelectual;7721;77;N;77;ACTIVIDADES DE ALQUILER Y ARRENDAMIENTO;ALUGUÉIS NÃO-IMOBILIÁRIOS E GESTÃO DE ATIVOS INTANGÍVEIS NÃO-FINANCEIROS
+7700;Aluguéis não imobiliários e gestão de ativos de propriedade intelectual;7722;77;N;77;ACTIVIDADES DE ALQUILER Y ARRENDAMIENTO;ALUGUÉIS NÃO-IMOBILIÁRIOS E GESTÃO DE ATIVOS INTANGÍVEIS NÃO-FINANCEIROS
+7700;Aluguéis não imobiliários e gestão de ativos de propriedade intelectual;7723;77;N;77;ACTIVIDADES DE ALQUILER Y ARRENDAMIENTO;ALUGUÉIS NÃO-IMOBILIÁRIOS E GESTÃO DE ATIVOS INTANGÍVEIS NÃO-FINANCEIROS
+7700;Aluguéis não imobiliários e gestão de ativos de propriedade intelectual;7729;77;N;77;ACTIVIDADES DE ALQUILER Y ARRENDAMIENTO;ALUGUÉIS NÃO-IMOBILIÁRIOS E GESTÃO DE ATIVOS INTANGÍVEIS NÃO-FINANCEIROS
+7700;Aluguéis não imobiliários e gestão de ativos de propriedade intelectual;7731;77;N;77;ACTIVIDADES DE ALQUILER Y ARRENDAMIENTO;ALUGUÉIS NÃO-IMOBILIÁRIOS E GESTÃO DE ATIVOS INTANGÍVEIS NÃO-FINANCEIROS
+7700;Aluguéis não imobiliários e gestão de ativos de propriedade intelectual;7732;77;N;77;ACTIVIDADES DE ALQUILER Y ARRENDAMIENTO;ALUGUÉIS NÃO-IMOBILIÁRIOS E GESTÃO DE ATIVOS INTANGÍVEIS NÃO-FINANCEIROS
+7700;Aluguéis não imobiliários e gestão de ativos de propriedade intelectual;7733;77;N;77;ACTIVIDADES DE ALQUILER Y ARRENDAMIENTO;ALUGUÉIS NÃO-IMOBILIÁRIOS E GESTÃO DE ATIVOS INTANGÍVEIS NÃO-FINANCEIROS
+7700;Aluguéis não imobiliários e gestão de ativos de propriedade intelectual;7739;77;N;77;ACTIVIDADES DE ALQUILER Y ARRENDAMIENTO;ALUGUÉIS NÃO-IMOBILIÁRIOS E GESTÃO DE ATIVOS INTANGÍVEIS NÃO-FINANCEIROS
+7700;Aluguéis não imobiliários e gestão de ativos de propriedade intelectual;7740;77;N;77;ACTIVIDADES DE ALQUILER Y ARRENDAMIENTO;ALUGUÉIS NÃO-IMOBILIÁRIOS E GESTÃO DE ATIVOS INTANGÍVEIS NÃO-FINANCEIROS
+7880;Outras atividades administrativas e serviços complementares;7810;78;N;78;ACTIVIDADES DE EMPLEO;SELEÇÃO, AGENCIAMENTO E LOCAÇÃO DE MÃO-DE-OBRA
+7880;Outras atividades administrativas e serviços complementares;7820;78;N;78;ACTIVIDADES DE EMPLEO;SELEÇÃO, AGENCIAMENTO E LOCAÇÃO DE MÃO-DE-OBRA
+7880;Outras atividades administrativas e serviços complementares;7830;78;N;78;ACTIVIDADES DE EMPLEO;SELEÇÃO, AGENCIAMENTO E LOCAÇÃO DE MÃO-DE-OBRA
+7880;Outras atividades administrativas e serviços complementares;7911;79;N;79;ACTIVIDADES DE AGENCIAS DE VIAJES Y OPERADORES TURÍSTICOS Y SERVICIOS DE RESERVAS Y ACTIVIDADES CONEXAS;AGÊNCIAS DE VIAGENS, OPERADORES TURÍSTICOS E SERVIÇOS DE RESERVAS
+7880;Outras atividades administrativas e serviços complementares;7912;79;N;79;ACTIVIDADES DE AGENCIAS DE VIAJES Y OPERADORES TURÍSTICOS Y SERVICIOS DE RESERVAS Y ACTIVIDADES CONEXAS;AGÊNCIAS DE VIAGENS, OPERADORES TURÍSTICOS E SERVIÇOS DE RESERVAS
+7880;Outras atividades administrativas e serviços complementares;7990;79;N;79;ACTIVIDADES DE AGENCIAS DE VIAJES Y OPERADORES TURÍSTICOS Y SERVICIOS DE RESERVAS Y ACTIVIDADES CONEXAS;AGÊNCIAS DE VIAGENS, OPERADORES TURÍSTICOS E SERVIÇOS DE RESERVAS
+7880;Outras atividades administrativas e serviços complementares;8111;81;N;81;ACTIVIDADES DE SERVICIOS A EDIFICIOS Y DE PAISAJISMO;SERVIÇOS PARA EDIFÍCIOS E ATIVIDADES PAISAGÍSTICAS
+7880;Outras atividades administrativas e serviços complementares;8112;81;N;81;ACTIVIDADES DE SERVICIOS A EDIFICIOS Y DE PAISAJISMO;SERVIÇOS PARA EDIFÍCIOS E ATIVIDADES PAISAGÍSTICAS
+7880;Outras atividades administrativas e serviços complementares;8121;81;N;81;ACTIVIDADES DE SERVICIOS A EDIFICIOS Y DE PAISAJISMO;SERVIÇOS PARA EDIFÍCIOS E ATIVIDADES PAISAGÍSTICAS
+7880;Outras atividades administrativas e serviços complementares;8122;81;N;81;ACTIVIDADES DE SERVICIOS A EDIFICIOS Y DE PAISAJISMO;SERVIÇOS PARA EDIFÍCIOS E ATIVIDADES PAISAGÍSTICAS
+7880;Outras atividades administrativas e serviços complementares;8129;81;N;81;ACTIVIDADES DE SERVICIOS A EDIFICIOS Y DE PAISAJISMO;SERVIÇOS PARA EDIFÍCIOS E ATIVIDADES PAISAGÍSTICAS
+7880;Outras atividades administrativas e serviços complementares;8130;81;N;81;ACTIVIDADES DE SERVICIOS A EDIFICIOS Y DE PAISAJISMO;SERVIÇOS PARA EDIFÍCIOS E ATIVIDADES PAISAGÍSTICAS
+7880;Outras atividades administrativas e serviços complementares;8211;82;N;82;ACTIVIDADES ADMINISTRATIVAS Y DE APOYO DE OFICINA Y OTRAS ACTIVIDADES DE APOYO A LAS EMPRESAS;SERVIÇOS DE ESCRITÓRIO, DE APOIO ADMINISTRATIVO E OUTROS SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS EMPRESAS
+7880;Outras atividades administrativas e serviços complementares;8219;82;N;82;ACTIVIDADES ADMINISTRATIVAS Y DE APOYO DE OFICINA Y OTRAS ACTIVIDADES DE APOYO A LAS EMPRESAS;SERVIÇOS DE ESCRITÓRIO, DE APOIO ADMINISTRATIVO E OUTROS SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS EMPRESAS
+7880;Outras atividades administrativas e serviços complementares;8220;82;N;82;ACTIVIDADES ADMINISTRATIVAS Y DE APOYO DE OFICINA Y OTRAS ACTIVIDADES DE APOYO A LAS EMPRESAS;SERVIÇOS DE ESCRITÓRIO, DE APOIO ADMINISTRATIVO E OUTROS SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS EMPRESAS
+7880;Outras atividades administrativas e serviços complementares;8230;82;N;82;ACTIVIDADES ADMINISTRATIVAS Y DE APOYO DE OFICINA Y OTRAS ACTIVIDADES DE APOYO A LAS EMPRESAS;SERVIÇOS DE ESCRITÓRIO, DE APOIO ADMINISTRATIVO E OUTROS SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS EMPRESAS
+7880;Outras atividades administrativas e serviços complementares;8291;82;N;82;ACTIVIDADES ADMINISTRATIVAS Y DE APOYO DE OFICINA Y OTRAS ACTIVIDADES DE APOYO A LAS EMPRESAS;SERVIÇOS DE ESCRITÓRIO, DE APOIO ADMINISTRATIVO E OUTROS SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS EMPRESAS
+7880;Outras atividades administrativas e serviços complementares;8292;82;N;82;ACTIVIDADES ADMINISTRATIVAS Y DE APOYO DE OFICINA Y OTRAS ACTIVIDADES DE APOYO A LAS EMPRESAS;SERVIÇOS DE ESCRITÓRIO, DE APOIO ADMINISTRATIVO E OUTROS SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS EMPRESAS
+7880;Outras atividades administrativas e serviços complementares;8299;82;N;82;ACTIVIDADES ADMINISTRATIVAS Y DE APOYO DE OFICINA Y OTRAS ACTIVIDADES DE APOYO A LAS EMPRESAS;SERVIÇOS DE ESCRITÓRIO, DE APOIO ADMINISTRATIVO E OUTROS SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS EMPRESAS
+8000;Atividades de vigilância, segurança e investigação;8011;80;N;80;ACTIVIDADES DE SEGURIDAD Y INVESTIGACIÓN;ATIVIDADES DE VIGILÂNCIA, SEGURANÇA E INVESTIGAÇÃO
+8000;Atividades de vigilância, segurança e investigação;8012;80;N;80;ACTIVIDADES DE SEGURIDAD Y INVESTIGACIÓN;ATIVIDADES DE VIGILÂNCIA, SEGURANÇA E INVESTIGAÇÃO
+8000;Atividades de vigilância, segurança e investigação;8020;80;N;80;ACTIVIDADES DE SEGURIDAD Y INVESTIGACIÓN;ATIVIDADES DE VIGILÂNCIA, SEGURANÇA E INVESTIGAÇÃO
+8000;Atividades de vigilância, segurança e investigação;8030;80;N;80;ACTIVIDADES DE SEGURIDAD Y INVESTIGACIÓN;ATIVIDADES DE VIGILÂNCIA, SEGURANÇA E INVESTIGAÇÃO
+8400;Administração pública, defesa e seguridade social;8411;84;O;84;"ADMINISTRACIÓN PÚBLICA Y DEFENSA; PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA";ADMINISTRAÇÃO PÚBLICA, DEFESA E SEGURIDADE SOCIAL
+8400;Administração pública, defesa e seguridade social;8412;84;O;84;"ADMINISTRACIÓN PÚBLICA Y DEFENSA; PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA";ADMINISTRAÇÃO PÚBLICA, DEFESA E SEGURIDADE SOCIAL
+8400;Administração pública, defesa e seguridade social;8413;84;O;84;"ADMINISTRACIÓN PÚBLICA Y DEFENSA; PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA";ADMINISTRAÇÃO PÚBLICA, DEFESA E SEGURIDADE SOCIAL
+8400;Administração pública, defesa e seguridade social;8421;84;O;84;"ADMINISTRACIÓN PÚBLICA Y DEFENSA; PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA";ADMINISTRAÇÃO PÚBLICA, DEFESA E SEGURIDADE SOCIAL
+8400;Administração pública, defesa e seguridade social;8422;84;O;84;"ADMINISTRACIÓN PÚBLICA Y DEFENSA; PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA";ADMINISTRAÇÃO PÚBLICA, DEFESA E SEGURIDADE SOCIAL
+8400;Administração pública, defesa e seguridade social;8423;84;O;84;"ADMINISTRACIÓN PÚBLICA Y DEFENSA; PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA";ADMINISTRAÇÃO PÚBLICA, DEFESA E SEGURIDADE SOCIAL
+8400;Administração pública, defesa e seguridade social;8424;84;O;84;"ADMINISTRACIÓN PÚBLICA Y DEFENSA; PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA";ADMINISTRAÇÃO PÚBLICA, DEFESA E SEGURIDADE SOCIAL
+8400;Administração pública, defesa e seguridade social;8425;84;O;84;"ADMINISTRACIÓN PÚBLICA Y DEFENSA; PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA";ADMINISTRAÇÃO PÚBLICA, DEFESA E SEGURIDADE SOCIAL
+8400;Administração pública, defesa e seguridade social;8430;84;O;84;"ADMINISTRACIÓN PÚBLICA Y DEFENSA; PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA";ADMINISTRAÇÃO PÚBLICA, DEFESA E SEGURIDADE SOCIAL
+8591;Educação;8511;85;P;85;ENSEÑANZA;EDUCAÇÃO
+8591;Educação;8511;85;P;88;ACTIVIDADES DE ASISTENCIA SOCIAL SIN ALOJAMIENTO;EDUCAÇÃO
+8591;Educação;8512;85;P;85;ENSEÑANZA;EDUCAÇÃO
+8591;Educação;8512;85;P;88;ACTIVIDADES DE ASISTENCIA SOCIAL SIN ALOJAMIENTO;EDUCAÇÃO
+8591;Educação;8513;85;P;85;ENSEÑANZA;EDUCAÇÃO
+8591;Educação;8513;85;P;88;ACTIVIDADES DE ASISTENCIA SOCIAL SIN ALOJAMIENTO;EDUCAÇÃO
+8591;Educação;8520;85;P;85;ENSEÑANZA;EDUCAÇÃO
+8591;Educação;8520;85;P;88;ACTIVIDADES DE ASISTENCIA SOCIAL SIN ALOJAMIENTO;EDUCAÇÃO
+8591;Educação;8531;85;P;85;ENSEÑANZA;EDUCAÇÃO
+8591;Educação;8531;85;P;88;ACTIVIDADES DE ASISTENCIA SOCIAL SIN ALOJAMIENTO;EDUCAÇÃO
+8591;Educação;8532;85;P;85;ENSEÑANZA;EDUCAÇÃO
+8591;Educação;8532;85;P;88;ACTIVIDADES DE ASISTENCIA SOCIAL SIN ALOJAMIENTO;EDUCAÇÃO
+8591;Educação;8533;85;P;85;ENSEÑANZA;EDUCAÇÃO
+8591;Educação;8533;85;P;88;ACTIVIDADES DE ASISTENCIA SOCIAL SIN ALOJAMIENTO;EDUCAÇÃO
+8591;Educação;8541;85;P;85;ENSEÑANZA;EDUCAÇÃO
+8591;Educação;8541;85;P;88;ACTIVIDADES DE ASISTENCIA SOCIAL SIN ALOJAMIENTO;EDUCAÇÃO
+8591;Educação;8542;85;P;85;ENSEÑANZA;EDUCAÇÃO
+8591;Educação;8542;85;P;88;ACTIVIDADES DE ASISTENCIA SOCIAL SIN ALOJAMIENTO;EDUCAÇÃO
+8591;Educação;8550;85;P;85;ENSEÑANZA;EDUCAÇÃO
+8591;Educação;8550;85;P;88;ACTIVIDADES DE ASISTENCIA SOCIAL SIN ALOJAMIENTO;EDUCAÇÃO
+8591;Educação;8591;85;P;85;ENSEÑANZA;EDUCAÇÃO
+8591;Educação;8591;85;P;88;ACTIVIDADES DE ASISTENCIA SOCIAL SIN ALOJAMIENTO;EDUCAÇÃO
+8591;Educação;8592;85;P;85;ENSEÑANZA;EDUCAÇÃO
+8591;Educação;8592;85;P;88;ACTIVIDADES DE ASISTENCIA SOCIAL SIN ALOJAMIENTO;EDUCAÇÃO
+8591;Educação;8593;85;P;85;ENSEÑANZA;EDUCAÇÃO
+8591;Educação;8593;85;P;88;ACTIVIDADES DE ASISTENCIA SOCIAL SIN ALOJAMIENTO;EDUCAÇÃO
+8591;Educação;8599;85;P;85;ENSEÑANZA;EDUCAÇÃO
+8591;Educação;8599;85;P;88;ACTIVIDADES DE ASISTENCIA SOCIAL SIN ALOJAMIENTO;EDUCAÇÃO
+8691;Saúde;8610;86;Q;86;ACTIVIDADES DE ATENCIÓN DE LA SALUD HUMANA;ATIVIDADES DE ATENÇÃO À SAÚDE HUMANA
+8691;Saúde;8621;86;Q;86;ACTIVIDADES DE ATENCIÓN DE LA SALUD HUMANA;ATIVIDADES DE ATENÇÃO À SAÚDE HUMANA
+8691;Saúde;8622;86;Q;86;ACTIVIDADES DE ATENCIÓN DE LA SALUD HUMANA;ATIVIDADES DE ATENÇÃO À SAÚDE HUMANA
+8691;Saúde;8630;86;Q;86;ACTIVIDADES DE ATENCIÓN DE LA SALUD HUMANA;ATIVIDADES DE ATENÇÃO À SAÚDE HUMANA
+8691;Saúde;8640;86;Q;86;ACTIVIDADES DE ATENCIÓN DE LA SALUD HUMANA;ATIVIDADES DE ATENÇÃO À SAÚDE HUMANA
+8691;Saúde;8650;86;Q;86;ACTIVIDADES DE ATENCIÓN DE LA SALUD HUMANA;ATIVIDADES DE ATENÇÃO À SAÚDE HUMANA
+8691;Saúde;8660;86;Q;86;ACTIVIDADES DE ATENCIÓN DE LA SALUD HUMANA;ATIVIDADES DE ATENÇÃO À SAÚDE HUMANA
+8691;Saúde;8690;86;Q;86;ACTIVIDADES DE ATENCIÓN DE LA SALUD HUMANA;ATIVIDADES DE ATENÇÃO À SAÚDE HUMANA
+8691;Saúde;8711;87;Q;87;ACTIVIDADES DE ATENCIÓN EN INSTITUCIONES;ATIVIDADES DE ATENÇÃO À SAÚDE HUMANA INTEGRADAS COM ASSISTÊNCIA SOCIAL, PRESTADAS EM RESIDÊNCIAS COLETIVAS E PARTICULARES
+8691;Saúde;8712;87;Q;87;ACTIVIDADES DE ATENCIÓN EN INSTITUCIONES;ATIVIDADES DE ATENÇÃO À SAÚDE HUMANA INTEGRADAS COM ASSISTÊNCIA SOCIAL, PRESTADAS EM RESIDÊNCIAS COLETIVAS E PARTICULARES
+8691;Saúde;8720;87;Q;87;ACTIVIDADES DE ATENCIÓN EN INSTITUCIONES;ATIVIDADES DE ATENÇÃO À SAÚDE HUMANA INTEGRADAS COM ASSISTÊNCIA SOCIAL, PRESTADAS EM RESIDÊNCIAS COLETIVAS E PARTICULARES
+8691;Saúde;8730;87;Q;87;ACTIVIDADES DE ATENCIÓN EN INSTITUCIONES;ATIVIDADES DE ATENÇÃO À SAÚDE HUMANA INTEGRADAS COM ASSISTÊNCIA SOCIAL, PRESTADAS EM RESIDÊNCIAS COLETIVAS E PARTICULARES
+8692;Saúde privada;8692;86;Q;86;ACTIVIDADES DE ATENCIÓN DE LA SALUD HUMANA;ATIVIDADES DE ATENÇÃO À SAÚDE HUMANA
+8692;Saúde privada;8800;88;Q;88;ACTIVIDADES DE ASISTENCIA SOCIAL SIN ALOJAMIENTO;SERVIÇOS DE ASSISTÊNCIA SOCIAL SEM ALOJAMENTO
+9080;Atividades artísticas, criativas e de espetáculos;9001;90;R;90;ACTIVIDADES CREATIVAS, ARTÍSTICAS Y DE ENTRETENIMIENTO;ATIVIDADES ARTÍSTICAS, CRIATIVAS E DE ESPETÁCULOS
+9080;Atividades artísticas, criativas e de espetáculos;9002;90;R;90;ACTIVIDADES CREATIVAS, ARTÍSTICAS Y DE ENTRETENIMIENTO;ATIVIDADES ARTÍSTICAS, CRIATIVAS E DE ESPETÁCULOS
+9080;Atividades artísticas, criativas e de espetáculos;9003;90;R;90;ACTIVIDADES CREATIVAS, ARTÍSTICAS Y DE ENTRETENIMIENTO;ATIVIDADES ARTÍSTICAS, CRIATIVAS E DE ESPETÁCULOS
+9080;Atividades artísticas, criativas e de espetáculos;9101;91;R;91;ACTIVIDADES DE BIBLIOTECAS, ARCHIVOS Y MUSEOS Y OTRAS ACTIVIDADES CULTURALES;ATIVIDADES LIGADAS AO PATRIMÔNIO CULTURAL E AMBIENTAL
+9080;Atividades artísticas, criativas e de espetáculos;9102;91;R;91;ACTIVIDADES DE BIBLIOTECAS, ARCHIVOS Y MUSEOS Y OTRAS ACTIVIDADES CULTURALES;ATIVIDADES LIGADAS AO PATRIMÔNIO CULTURAL E AMBIENTAL
+9080;Atividades artísticas, criativas e de espetáculos;9103;91;R;91;ACTIVIDADES DE BIBLIOTECAS, ARCHIVOS Y MUSEOS Y OTRAS ACTIVIDADES CULTURALES;ATIVIDADES LIGADAS AO PATRIMÔNIO CULTURAL E AMBIENTAL
+9080;Atividades artísticas, criativas e de espetáculos;9200;92;R;92;ACTIVIDADES DE JUEGOS DE AZAR Y APUESTAS;ATIVIDADES DE EXPLORAÇÃO DE JOGOS DE AZAR E APOSTAS
+9080;Atividades artísticas, criativas e de espetáculos;9311;93;R;93;ACTIVIDADES DEPORTIVAS, DE ESPARCIMIENTO Y RECREATIVAS;ATIVIDADES ESPORTIVAS E DE RECREAÇÃO E LAZER
+9080;Atividades artísticas, criativas e de espetáculos;9312;93;R;93;ACTIVIDADES DEPORTIVAS, DE ESPARCIMIENTO Y RECREATIVAS;ATIVIDADES ESPORTIVAS E DE RECREAÇÃO E LAZER
+9080;Atividades artísticas, criativas e de espetáculos;9313;93;R;93;ACTIVIDADES DEPORTIVAS, DE ESPARCIMIENTO Y RECREATIVAS;ATIVIDADES ESPORTIVAS E DE RECREAÇÃO E LAZER
+9080;Atividades artísticas, criativas e de espetáculos;9319;93;R;93;ACTIVIDADES DEPORTIVAS, DE ESPARCIMIENTO Y RECREATIVAS;ATIVIDADES ESPORTIVAS E DE RECREAÇÃO E LAZER
+9080;Atividades artísticas, criativas e de espetáculos;9321;93;R;93;ACTIVIDADES DEPORTIVAS, DE ESPARCIMIENTO Y RECREATIVAS;ATIVIDADES ESPORTIVAS E DE RECREAÇÃO E LAZER
+9080;Atividades artísticas, criativas e de espetáculos;9329;93;R;93;ACTIVIDADES DEPORTIVAS, DE ESPARCIMIENTO Y RECREATIVAS;ATIVIDADES ESPORTIVAS E DE RECREAÇÃO E LAZER
+9480;Organizações associativas e outros serviços pessoais;9411;94;S;94;ACTIVIDADES DE ASOCIACIONES;ATIVIDADES DE ORGANIZAÇÕES ASSOCIATIVAS
+9480;Organizações associativas e outros serviços pessoais;9412;94;S;94;ACTIVIDADES DE ASOCIACIONES;ATIVIDADES DE ORGANIZAÇÕES ASSOCIATIVAS
+9480;Organizações associativas e outros serviços pessoais;9420;94;S;94;ACTIVIDADES DE ASOCIACIONES;ATIVIDADES DE ORGANIZAÇÕES ASSOCIATIVAS
+9480;Organizações associativas e outros serviços pessoais;9430;94;S;94;ACTIVIDADES DE ASOCIACIONES;ATIVIDADES DE ORGANIZAÇÕES ASSOCIATIVAS
+9480;Organizações associativas e outros serviços pessoais;9491;94;S;94;ACTIVIDADES DE ASOCIACIONES;ATIVIDADES DE ORGANIZAÇÕES ASSOCIATIVAS
+9480;Organizações associativas e outros serviços pessoais;9492;94;S;94;ACTIVIDADES DE ASOCIACIONES;ATIVIDADES DE ORGANIZAÇÕES ASSOCIATIVAS
+9480;Organizações associativas e outros serviços pessoais;9493;94;S;94;ACTIVIDADES DE ASOCIACIONES;ATIVIDADES DE ORGANIZAÇÕES ASSOCIATIVAS
+9480;Organizações associativas e outros serviços pessoais;9499;94;S;94;ACTIVIDADES DE ASOCIACIONES;ATIVIDADES DE ORGANIZAÇÕES ASSOCIATIVAS
+9480;Organizações associativas e outros serviços pessoais;9511;95;S;95;REPARACIÓN DE ORDENADORES Y DE EFECTOS PERSONALES Y ENSERES DOMÉSTICOS;REPARAÇÃO E MANUTENÇÃO DE EQUIPAMENTOS DE INFORMÁTICA E COMUNICAÇÃO E DE OBJETOS PESSOAIS E DOMÉSTICOS
+9480;Organizações associativas e outros serviços pessoais;9521;95;S;95;REPARACIÓN DE ORDENADORES Y DE EFECTOS PERSONALES Y ENSERES DOMÉSTICOS;REPARAÇÃO E MANUTENÇÃO DE EQUIPAMENTOS DE INFORMÁTICA E COMUNICAÇÃO E DE OBJETOS PESSOAIS E DOMÉSTICOS
+9480;Organizações associativas e outros serviços pessoais;9529;95;S;95;REPARACIÓN DE ORDENADORES Y DE EFECTOS PERSONALES Y ENSERES DOMÉSTICOS;REPARAÇÃO E MANUTENÇÃO DE EQUIPAMENTOS DE INFORMÁTICA E COMUNICAÇÃO E DE OBJETOS PESSOAIS E DOMÉSTICOS
+9480;Organizações associativas e outros serviços pessoais;9601;96;S;96;OTRAS ACTIVIDADES DE SERVICIOS PERSONALES;OUTRAS ATIVIDADES DE SERVIÇOS PESSOAIS
+9480;Organizações associativas e outros serviços pessoais;9602;96;S;96;OTRAS ACTIVIDADES DE SERVICIOS PERSONALES;OUTRAS ATIVIDADES DE SERVIÇOS PESSOAIS
+9480;Organizações associativas e outros serviços pessoais;9603;96;S;96;OTRAS ACTIVIDADES DE SERVICIOS PERSONALES;OUTRAS ATIVIDADES DE SERVIÇOS PESSOAIS
+9480;Organizações associativas e outros serviços pessoais;9609;96;S;96;OTRAS ACTIVIDADES DE SERVICIOS PERSONALES;OUTRAS ATIVIDADES DE SERVIÇOS PESSOAIS
+9700;Serviços domésticos;9700;97;T;97;ACTIVIDADES DE LOS HOGARES COMO EMPLEADORES DE PERSONAL DOMÉSTICO;SERVIÇOS DOMÉSTICOS
+5280;Armazenamento, atividades auxiliares dos transportes e correio;5211;53;H;53;ALMACENAMIENTO Y ACTIVIDADES DE APOYO AL TRANSPORTE;ARMAZENAMENTO E ATIVIDADES AUXILIARES DOS TRANSPORTES
+5280;Armazenamento, atividades auxiliares dos transportes e correio;5212;53;H;53;ALMACENAMIENTO Y ACTIVIDADES DE APOYO AL TRANSPORTE;ARMAZENAMENTO E ATIVIDADES AUXILIARES DOS TRANSPORTES
+5280;Armazenamento, atividades auxiliares dos transportes e correio;5221;53;H;53;ALMACENAMIENTO Y ACTIVIDADES DE APOYO AL TRANSPORTE;ARMAZENAMENTO E ATIVIDADES AUXILIARES DOS TRANSPORTES
+5280;Armazenamento, atividades auxiliares dos transportes e correio;5222;53;H;53;ALMACENAMIENTO Y ACTIVIDADES DE APOYO AL TRANSPORTE;ARMAZENAMENTO E ATIVIDADES AUXILIARES DOS TRANSPORTES
+5280;Armazenamento, atividades auxiliares dos transportes e correio;5223;53;H;53;ALMACENAMIENTO Y ACTIVIDADES DE APOYO AL TRANSPORTE;ARMAZENAMENTO E ATIVIDADES AUXILIARES DOS TRANSPORTES
+5280;Armazenamento, atividades auxiliares dos transportes e correio;5229;53;H;53;ALMACENAMIENTO Y ACTIVIDADES DE APOYO AL TRANSPORTE;ARMAZENAMENTO E ATIVIDADES AUXILIARES DOS TRANSPORTES
+5280;Armazenamento, atividades auxiliares dos transportes e correio;5231;53;H;53;ALMACENAMIENTO Y ACTIVIDADES DE APOYO AL TRANSPORTE;ARMAZENAMENTO E ATIVIDADES AUXILIARES DOS TRANSPORTES
+5280;Armazenamento, atividades auxiliares dos transportes e correio;5232;53;H;53;ALMACENAMIENTO Y ACTIVIDADES DE APOYO AL TRANSPORTE;ARMAZENAMENTO E ATIVIDADES AUXILIARES DOS TRANSPORTES
+5280;Armazenamento, atividades auxiliares dos transportes e correio;5239;53;H;53;ALMACENAMIENTO Y ACTIVIDADES DE APOYO AL TRANSPORTE;ARMAZENAMENTO E ATIVIDADES AUXILIARES DOS TRANSPORTES
+5280;Armazenamento, atividades auxiliares dos transportes e correio;5240;53;H;53;ALMACENAMIENTO Y ACTIVIDADES DE APOYO AL TRANSPORTE;ARMAZENAMENTO E ATIVIDADES AUXILIARES DOS TRANSPORTES
+5280;Armazenamento, atividades auxiliares dos transportes e correio;5250;53;H;53;ALMACENAMIENTO Y ACTIVIDADES DE APOYO AL TRANSPORTE;ARMAZENAMENTO E ATIVIDADES AUXILIARES DOS TRANSPORTES
